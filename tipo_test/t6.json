@@ -1,0 +1,290 @@
+{
+  "1": {
+    "enunciado": "¿Cuál es la relación entre la elasticidad-renta de las importaciones y la de las exportaciones españolas, y qué consecuencia tiene?",
+    "opciones": [
+      "Son iguales (elasticidad 1), por lo que el saldo comercial es estructuralmente neutro.",
+      "La elasticidad de las importaciones (2) es mayor que la de las exportaciones (~1), lo que tiende a empeorar el saldo comercial cuando España crece.",
+      "La elasticidad de las exportaciones (2) es mayor que la de las importaciones (~1), lo que mejora el saldo cuando España crece.",
+      "Ambas elasticidades son inferiores a 1, lo que estabiliza el saldo comercial a lo largo del ciclo."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La elasticidad-renta de las importaciones españolas es de 2, mientras que la de las exportaciones respecto a la demanda extranjera es próxima a 1. Esto significa que cuando España crece, sus importaciones se disparan más que sus exportaciones, tendiendo a empeorar el saldo comercial.",
+    "tag": "Tema 6"
+  },
+  "2": {
+    "enunciado": "¿Cuál es la principal consecuencia de un déficit persistente en la balanza por cuenta corriente?",
+    "opciones": [
+      "Un superávit compensatorio en la cuenta de capital.",
+      "Una apreciación automática del tipo de cambio que corrige el desequilibrio.",
+      "Una necesidad de financiación exterior y acumulación progresiva de deuda externa.",
+      "Una reducción del PIB nominal sin afectar al PIB real."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Un déficit persistente en la balanza por cuenta corriente implica que el país gasta más de lo que ingresa del exterior, lo que obliga a recurrir al ahorro externo (endeudamiento), incrementando el peso de la deuda externa del país.",
+    "tag": "Tema 6"
+  },
+  "3": {
+    "enunciado": "¿Qué efecto tuvo la adhesión de España a la Unión Europea sobre la concentración geográfica de su comercio exterior?",
+    "opciones": [
+      "Diversificó el comercio hacia mercados asiáticos y latinoamericanos, reduciendo la dependencia de la UE.",
+      "Reforzó la concentración en el mercado comunitario, aumentando los vínculos con los socios europeos.",
+      "No tuvo efecto sobre la distribución geográfica del comercio, que ya era predominantemente europeo.",
+      "Redujo los intercambios con la UE al generarse competencia directa con los socios europeos."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La entrada en la UE reforzó la concentración y los vínculos comerciales con el mercado comunitario, siendo los países europeos los principales destinos de las exportaciones y los principales orígenes de las importaciones españolas.",
+    "tag": "Tema 6"
+  },
+  "4": {
+    "enunciado": "¿Con qué regiones o países se concentra el déficit comercial español en bienes?",
+    "opciones": [
+      "Con la UE, que es el principal socio deficitario de España.",
+      "Con Latinoamérica, por las importaciones de materias primas.",
+      "Con China, países asiáticos industrializados y la OPEP, principalmente.",
+      "Con Estados Unidos, por el peso de las importaciones tecnológicas."
+    ],
+    "respuesta": "C",
+    "razonamiento": "España tiene superávit comercial con la mayoría de los países de la UE, pero el déficit comercial se genera principalmente con China, otros países asiáticos industrializados y la OPEP (por la energía), que son los grandes contribuyentes al saldo negativo de la balanza de bienes.",
+    "tag": "Tema 6"
+  },
+  "5": {
+    "enunciado": "¿Ha logrado la tasa de cobertura del comercio de bienes de España superar estructuralmente el 100% desde la crisis de 2008?",
+    "opciones": [
+      "Sí, supera el 100% de forma estable desde 2012.",
+      "No, la tasa de cobertura de bienes ha mejorado pero sigue por debajo del 100% (86,9% en 2022). Es el saldo incluyendo servicios el que supera el 100%.",
+      "Sí, alcanzó el 100% en 2019 justo antes de la pandemia.",
+      "No, se mantiene por debajo del 80% debido al elevado déficit energético."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La tasa de cobertura de bienes ha mejorado notablemente pero sigue por debajo del 100% (86,9% en 2022); es el saldo combinado de bienes y servicios el que supera el 100%, gracias al superávit turístico y de otros servicios.",
+    "tag": "Tema 6"
+  },
+  "6": {
+    "enunciado": "¿Cuál es la función de la 'cuenta de errores y omisiones' en la Balanza de Pagos?",
+    "opciones": [
+      "Registrar las transacciones ilegales y la economía sumergida.",
+      "Compensar las diferencias entre ingresos y gastos de la cuenta corriente.",
+      "Anotar las discrepancias estadísticas que impiden el equilibrio contable de la Balanza de Pagos.",
+      "Registrar las variaciones de las reservas de divisas del Banco de España."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La cuenta de errores y omisiones es la partida de ajuste contable que recoge las discrepancias estadísticas entre la cuenta financiera y la suma de las cuentas corriente y de capital, garantizando el equilibrio formal de la Balanza de Pagos.",
+    "tag": "Tema 6"
+  },
+  "7": {
+    "enunciado": "¿Qué constituye históricamente el núcleo de los ingresos de la Cuenta de Capital española?",
+    "opciones": [
+      "Los ingresos por turismo y viajes internacionales.",
+      "Los pagos de regalías y licencias de propiedad intelectual.",
+      "Las transferencias de fondos comunitarios (FEADER y FEDER), que han supuesto el 90% de los ingresos.",
+      "Las remesas de inmigrantes enviadas desde el extranjero."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Las transferencias de la UE, destacando los fondos FEADER y FEDER, han supuesto tradicionalmente el 90% de los ingresos de la Cuenta de Capital española. La ampliación de la UE a países de menor renta supuso una reducción de estos fondos al desviarse hacia los nuevos estados miembros.",
+    "tag": "Tema 6"
+  },
+  "8": {
+    "enunciado": "¿Cuál es la relación contable entre la cuenta financiera y las cuentas corriente y de capital en la Balanza de Pagos?",
+    "opciones": [
+      "El saldo de la cuenta financiera debe ser siempre cero, independientemente de las demás.",
+      "El saldo de la cuenta financiera debe ser igual a la suma de los saldos de la cuenta corriente y de capital.",
+      "El saldo de la cuenta financiera es siempre el doble del saldo de la cuenta corriente.",
+      "La cuenta financiera y las cuentas corriente y de capital son completamente independientes entre sí."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Por definición contable, el saldo de la cuenta financiera debe ser igual a la suma de los saldos de la cuenta corriente y de capital (más la cuenta de errores y omisiones), garantizando el principio de partida doble en el registro de las transacciones internacionales.",
+    "tag": "Tema 6"
+  },
+  "9": {
+    "enunciado": "¿Cómo se financiaron las salidas netas de capital de España en 2011 y 2012?",
+    "opciones": [
+      "Mediante la entrada masiva de inversión extranjera en cartera.",
+      "Mediante emisiones de deuda pública en los mercados internacionales.",
+      "Con la liquidez de los pasivos del Banco de España frente al Eurosistema, ya que la inversión extranjera neta fue incluso negativa.",
+      "Con la liquidación de reservas de divisas del Banco de España."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Durante las salidas netas de capital de 2011 y 2012, la financiación se obtuvo principalmente con la liquidez de los pasivos del Banco de España frente al Eurosistema (sistema Target2), ya que la inversión extranjera neta fue incluso negativa en esos años de máxima desconfianza.",
+    "tag": "Tema 6"
+  },
+  "10": {
+    "enunciado": "¿Cuáles son los países que originan más de la mitad del stock de inversión extranjera directa recibida en España?",
+    "opciones": [
+      "Francia, Italia, Portugal y Países Bajos.",
+      "Estados Unidos, Reino Unido, Francia y Alemania (más del 51% en 2023).",
+      "China, Japón, Corea del Sur y Emiratos Árabes Unidos.",
+      "Brasil, México, Argentina y Colombia (por las relaciones históricas)."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Estados Unidos, Reino Unido, Francia y Alemania acapararon más del 51% del stock total de inversión extranjera directa recibida en España en 2023, reflejando la estrecha vinculación de España con los países anglosajones y europeos más avanzados.",
+    "tag": "Tema 6"
+  },
+  "11": {
+    "enunciado": "¿Qué factores han sido determinantes para atraer inversión extranjera directa (IED) a España?",
+    "opciones": [
+      "Los bajos salarios y la escasa regulación laboral, que reducen los costes de producción.",
+      "La dotación de capital humano y de infraestructuras, además del mercado interno y la integración en la UE.",
+      "La debilidad del euro frente al dólar, que abarata los activos españoles para inversores extranjeros.",
+      "Los incentivos fiscales especiales para empresas extranjeras no disponibles para las nacionales."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La dotación de capital humano y de infraestructuras han sido factores determinantes para atraer IED a España, junto con el tamaño del mercado interno, la integración en la UE y el Mercado Único, y la favorable posición geográfica como puerta de entrada a Europa.",
+    "tag": "Tema 6"
+  },
+  "12": {
+    "enunciado": "¿Qué posición ocupa España como emisor de inversión directa en el exterior en el contexto de la UE y mundial?",
+    "opciones": [
+      "Primera posición en la UE y quinta a nivel mundial.",
+      "Octava posición en la UE y decimoséptima a nivel mundial.",
+      "Tercera posición en la UE, liderada por Santander y BBVA.",
+      "Primera posición en la UE en términos de inversión en Latinoamérica específicamente."
+    ],
+    "respuesta": "B",
+    "razonamiento": "En términos de stock acumulado de inversión directa emitida, España ocupa la 8ª posición en la UE y la 17ª a nivel mundial, siendo sus principales destinos históricos los países de Latinoamérica y Europa occidental.",
+    "tag": "Tema 6"
+  },
+  "13": {
+    "enunciado": "¿Qué es el comercio intraindustrial y qué factores lo impulsan?",
+    "opciones": [
+      "Intercambios de un mismo bien en ambas direcciones entre países similares; lo impulsan la proximidad geográfica, la similitud en renta y la ausencia de obstáculos al comercio.",
+      "Intercambios entre sectores industriales diferentes; lo impulsa la especialización productiva de cada país.",
+      "Comercio de bienes industriales frente a bienes primarios; lo impulsan las diferencias en dotación de factores.",
+      "Comercio entre empresas de un mismo grupo multinacional; lo impulsa la optimización fiscal internacional."
+    ],
+    "respuesta": "A",
+    "razonamiento": "El comercio intraindustrial consiste en exportaciones e importaciones simultáneas de bienes similares o de la misma rama industrial. Lo impulsan la proximidad geográfica y cultural, la similitud en el nivel de renta y de desarrollo, y la ausencia de obstáculos al comercio.",
+    "tag": "Tema 6"
+  },
+  "14": {
+    "enunciado": "¿Cómo comparan los índices de comercio intraindustrial entre las economías centrales de la UE (como Alemania) y las periféricas (como España o Italia)?",
+    "opciones": [
+      "Las economías periféricas tienen índices superiores por su mayor especialización en productos diferenciados.",
+      "Las economías centrales tienen índices altos, mientras que las periféricas presentan índices inferiores.",
+      "No existe diferencia significativa entre economías centrales y periféricas en este indicador.",
+      "Las economías periféricas superan a las centrales por su mayor diversificación productiva."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Las economías centrales como Alemania presentan altos índices de comercio intraindustrial, mientras que las economías periféricas como España e Italia tienen índices inferiores, lo que refleja el menor grado de sofisticación e integración en las cadenas de valor globales.",
+    "tag": "Tema 6"
+  },
+  "15": {
+    "enunciado": "¿En qué sectores industriales estimuló principalmente la adhesión de España a la UE la llegada de inversión extranjera?",
+    "opciones": [
+      "En sectores tradicionales como el textil, el calzado y la cerámica.",
+      "En el sector agrícola, aprovechando las subvenciones de la PAC.",
+      "En manufacturas de intensidad tecnológica media-alta y alta.",
+      "Exclusivamente en el sector financiero y de seguros."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La integración en la UE y el acceso al Mercado Único reforzó el interés inversor extranjero en España, especialmente en manufacturasde intensidad tecnológica media-alta y alta, aprovechando los menores costes laborales relativos y el tamaño del mercado.",
+    "tag": "Tema 6"
+  },
+  "16": {
+    "enunciado": "¿Cuál fue la tendencia del diferencial de inflación español respecto a sus socios comerciales antes de la crisis de 2008?",
+    "opciones": [
+      "España tenía una inflación inferior a la media europea, lo que mejoraba su competitividad exterior.",
+      "España presentaba un diferencial de inflación superior, que restaba competitividad exterior y agravaba el déficit comercial.",
+      "La inflación española era igual a la de sus socios, sin diferencial apreciable.",
+      "España tenía deflación mientras sus socios tenían inflación positiva."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Antes de la crisis de 2008, el diferencial de inflación superior de España respecto a los países del entorno restaba competitividad exterior a la economía española, encareciendo sus exportaciones y abaratando las importaciones, lo que contribuyó al elevado déficit comercial.",
+    "tag": "Tema 6"
+  },
+  "17": {
+    "enunciado": "¿Cómo se financiaba el déficit exterior de España antes de la adhesión a la Unión Monetaria?",
+    "opciones": [
+      "Exclusivamente mediante emisión de deuda pública en los mercados internacionales.",
+      "Mediante la entrada de fondos estructurales europeos que compensaban el déficit.",
+      "Principalmente mediante devaluaciones de la peseta para recuperar competitividad y equilibrar la balanza.",
+      "Mediante control de importaciones y aranceles que reducían el déficit."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Antes de la UEM, las autoridades españolas recurrían habitualmente a la devaluación de la peseta para abaratar las exportaciones, encarecer las importaciones y recuperar así la competitividad perdida, corrigiendo el déficit exterior.",
+    "tag": "Tema 6"
+  },
+  "18": {
+    "enunciado": "¿Qué ocurrió con las exportaciones e importaciones españolas durante la pandemia de COVID-19 en 2020?",
+    "opciones": [
+      "Las exportaciones crecieron mientras las importaciones caían abruptamente.",
+      "Las importaciones crecieron mientras las exportaciones caían por el cierre de fronteras.",
+      "Se produjo una caída abrupta tanto de las exportaciones como de las importaciones.",
+      "Ambas se mantuvieron estables gracias a los acuerdos comerciales internacionales."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Durante la pandemia de COVID-19 se produjo una caída abrupta tanto de las exportaciones como de las importaciones españolas, reflejo del colapso del comercio internacional y, especialmente, del hundimiento del turismo.",
+    "tag": "Tema 6"
+  },
+  "19": {
+    "enunciado": "¿Cuál es la estructura sectorial de las exportaciones españolas en términos de estabilidad temporal?",
+    "opciones": [
+      "Ha cambiado radicalmente, pasando de bienes primarios a servicios digitales en la última década.",
+      "Se define como estable en el tiempo, manteniendo un peso relevante en bienes intermedios e industriales.",
+      "Ha evolucionado hacia la especialización exclusiva en bienes de alta tecnología.",
+      "Ha perdido completamente el peso de la industria tradicional, dominando las exportaciones de servicios."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La estructura sectorial de las exportaciones españolas se caracteriza por su estabilidad en el tiempo, manteniendo un peso relevante en bienes intermedios e industriales (vehículos, maquinaria, productos químicos, agroalimentarios), sin cambios radicales en la composición.",
+    "tag": "Tema 6"
+  },
+  "20": {
+    "enunciado": "¿Cuál es la principal ventaja comercial de España en el comercio de bienes y cuál es su principal desventaja?",
+    "opciones": [
+      "Ventaja en bienes de equipo tecnológico; desventaja en alimentación y automóviles.",
+      "Ventaja en alimentos y automóviles; desventaja en energía y bienes de equipo.",
+      "Ventaja en energía gracias a las renovables; desventaja en textil y calzado.",
+      "Ventaja en servicios financieros; desventaja en bienes de consumo duradero."
+    ],
+    "respuesta": "B",
+    "razonamiento": "España tiene una clara ventaja comercial en alimentación (frutas, verduras, carnes, aceite) y en el sector del automóvil, mientras que su principal desventaja se localiza en energía (altamente deficitaria) y en bienes de equipo de alta tecnología.",
+    "tag": "Tema 6"
+  },
+  "21": {
+    "enunciado": "¿Qué es la Balanza de Rentas Primarias y por qué volvió a ser deficitaria en 2023-2024?",
+    "opciones": [
+      "Registra los intercambios de bienes; se volvió deficitaria por el aumento de las importaciones energéticas.",
+      "Recoge rendimientos del trabajo y del capital entre países; se volvió deficitaria por la subida de tipos de interés del BCE que encareció el coste de la deuda externa.",
+      "Incluye las transferencias de inmigrantes; fue deficitaria por el aumento de las remesas enviadas al exterior.",
+      "Registra las exportaciones de servicios; fue deficitaria por la caída del turismo internacional."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La Balanza de Rentas Primarias recoge los rendimientos del trabajo y del capital entre residentes y no residentes. Volvió a ser deficitaria en 2023-2024 porque la subida de tipos de interés provocada por la elevada inflación encareció el coste del endeudamiento exterior de España.",
+    "tag": "Tema 6"
+  },
+  "22": {
+    "enunciado": "¿Cómo influyó la ampliación de la UE a países de menor renta sobre los fondos comunitarios recibidos por España en la cuenta de capital?",
+    "opciones": [
+      "Los aumentó, ya que los nuevos países contribuyeron más al presupuesto europeo.",
+      "No tuvo efecto, ya que España negoció mantener sus fondos estructurales.",
+      "Los redujo, al desviarse fondos hacia los nuevos países con menor renta.",
+      "Los duplicó como compensación por la pérdida de cuota en el mercado único."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La ampliación de la UE a países del este europeo con menor renta supuso un recorte de los fondos comunitarios recibidos por España en la cuenta de capital, ya que el presupuesto se reorientó hacia los nuevos estados miembros que tenían mayor necesidad de convergencia.",
+    "tag": "Tema 6"
+  },
+  "23": {
+    "enunciado": "¿En qué posición se consolida España como receptora de proyectos greenfield a escala global?",
+    "opciones": [
+      "En posiciones muy bajas, dado que los inversores prefieren países con menores salarios.",
+      "En posiciones muy destacadas mundialmente, especialmente en el sector de las energías renovables.",
+      "En primera posición en Europa, superando a Alemania y Francia.",
+      "En posiciones intermedias, solo relevante en el sector turístico."
+    ],
+    "respuesta": "B",
+    "razonamiento": "España ocupa posiciones muy destacadas a nivel mundial como receptora de proyectos greenfield (inversiones en nuevas instalaciones), especialmente en el ámbito de las energías renovables, donde se ha consolidado como uno de los destinos preferidos para este tipo de inversiones.",
+    "tag": "Tema 6"
+  },
+  "24": {
+    "enunciado": "¿Cuál fue la evolución de la fase expansiva 1995-2007 respecto al gasto de las familias en bienes de consumo duradero?",
+    "opciones": [
+      "Se caracterizó por una reducción drástica del gasto en bienes duraderos para aumentar el ahorro.",
+      "Se caracterizó por un fuerte aumento del gasto en bienes duraderos y vivienda, facilitado por el crédito barato.",
+      "El gasto en bienes duraderos se mantuvo constante, siendo el motor de crecimiento las exportaciones.",
+      "Las familias redujeron el gasto en bienes duraderos y lo desplazaron hacia servicios."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La fase expansiva 1995-2007 se caracterizó por un fuerte aumento del gasto de las familias en bienes de consumo duradero y vivienda, facilitado por la caída de los tipos de interés en la eurozona y la abundante disponibilidad de crédito hipotecario.",
+    "tag": "Tema 6"
+  }
+}

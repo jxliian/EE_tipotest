@@ -1,0 +1,314 @@
+{
+  "1": {
+    "enunciado": "¿Qué subsectores integran las Administraciones Públicas (AAPP) en el concepto estricto de Sector Público en España?",
+    "opciones": [
+      "Administración Central, Comunidades Autónomas, Corporaciones Locales y empresas públicas.",
+      "Administración Central (Estado y organismos autónomos), Seguridad Social, Comunidades Autónomas y Corporaciones Locales.",
+      "Solo el Estado central y la Seguridad Social, siendo las CCAA y los ayuntamientos parte del sector privado.",
+      "Administración Central, empresas públicas estatales (SEPI) y entidades de derecho público."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El concepto estricto de Sector Público se limita a las Administraciones Públicas (AAPP): Administración Central (Estado y organismos autónomos), Seguridad Social, Comunidades Autónomas y Corporaciones Locales. Las empresas públicas forman parte del concepto amplio.",
+    "tag": "Tema 9"
+  },
+  "2": {
+    "enunciado": "¿Cuál es el peso aproximado de las empresas públicas estatales en la economía española actualmente?",
+    "opciones": [
+      "Más del 10% del PIB, siendo uno de los sectores públicos empresariales más grandes de la UE.",
+      "En torno al 5% del PIB, con Renfe y Telefónica como principales empresas.",
+      "Residual, en torno al 1,4% del PIB, con empresas como Renfe, Correos, Aena y Paradores.",
+      "En torno al 20% del PIB, similar al promedio de los países escandinavos."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El peso de las empresas públicas estatales en España es actualmente residual, en torno al 1,4% del PIB. Entre las principales figuran Renfe, Correos, Loterías del Estado, Adif, Aena, las confederaciones hidrográficas, los puertos del Estado, los astilleros y Paradores de Turismo.",
+    "tag": "Tema 9"
+  },
+  "3": {
+    "enunciado": "¿Cuál es el subsector de las AAPP con mayor peso en el empleo público español en 2024?",
+    "opciones": [
+      "La Administración Central (Estado y organismos autónomos), con el 60% del empleo público.",
+      "La Seguridad Social, por el gran volumen de personal sanitario y de servicios sociales.",
+      "Las Comunidades Autónomas, con más del 60% del empleo público total.",
+      "Las Corporaciones Locales (ayuntamientos y diputaciones), con el 40% del empleo."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Las Comunidades Autónomas concentran la mayor parte del empleo público español, superando el 60% del total de empleados públicos en 2024, como consecuencia de las amplias competencias asumidas en sanidad, educación y servicios sociales.",
+    "tag": "Tema 9"
+  },
+  "4": {
+    "enunciado": "¿Qué competencias fueron transferidas a las Comunidades Autónomas tras la Constitución de 1978?",
+    "opciones": [
+      "Exclusivamente la gestión de infraestructuras viarias de carácter regional.",
+      "Agricultura, industria, educación, cultura, obras públicas, y posteriormente sanidad y servicios sociales.",
+      "Solo la educación y la cultura, manteniéndose el resto en manos del Estado central.",
+      "Únicamente las competencias en materia de orden público y policía autonómica."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La Constitución de 1978 abrió el proceso de descentralización. Competencias históricamente centralizadas como la agricultura, industria, educación, cultura y obras públicas fueron transferidas progresivamente a las CCAA, mientras que la sanidad y los servicios sociales se transfirieron desde la Seguridad Social.",
+    "tag": "Tema 9"
+  },
+  "5": {
+    "enunciado": "¿Qué implica el paso de una regulación 'estructural' a una 'conductual' en la economía española desde los años 90?",
+    "opciones": [
+      "El paso de regular el comportamiento de los agentes a regular la estructura del mercado.",
+      "El paso de regular la estructura del mercado (barreras, precios administrados) a regular el comportamiento de los agentes en mercados más abiertos.",
+      "La eliminación completa de toda regulación económica como consecuencia del libre mercado.",
+      "La centralización de todas las decisiones regulatorias en la Comisión Europea."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La integración en la UE impulsó un cambio en el tipo de intervención regulatoria: de regular directamente la estructura de los mercados (barreras de entrada, precios administrados, monopolios públicos) se pasó a regular el comportamiento de los agentes ya presentes en mercados más abiertos y competitivos.",
+    "tag": "Tema 9"
+  },
+  "6": {
+    "enunciado": "¿Qué es la CNMC y cuándo fue creada?",
+    "opciones": [
+      "La Comisión Nacional del Mercado de Capitales, creada en 1988 para supervisar las bolsas.",
+      "La Comisión Nacional de los Mercados y la Competencia, creada en 2013 para unificar la regulación sectorial y la defensa de la competencia.",
+      "La Comisión Nacional de Mercados y Comercio, creada en 2000 para regular el comercio electrónico.",
+      "El Consejo Nacional de Mercados y Competitividad, creado en 1999 con la entrada en el euro."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La CNMC (Comisión Nacional de los Mercados y la Competencia) se creó en 2013 fusionando organismos reguladores sectoriales preexistentes (CMT, CNE, CNC, entre otros) para concentrar en un único organismo independiente las funciones de supervisión de la competencia y regulación sectorial.",
+    "tag": "Tema 9"
+  },
+  "7": {
+    "enunciado": "¿Cómo se compara el gasto público español como porcentaje del PIB con la media de la zona euro?",
+    "opciones": [
+      "España supera la media de la zona euro, evidenciando un Estado del Bienestar más desarrollado.",
+      "España se sitúa por debajo de la media de la Eurozona (44,9% vs 49,4%), con menor intervención pública.",
+      "España iguala exactamente la media de la Eurozona.",
+      "España duplica la media de la Eurozona gracias a su mayor descentralización autonómica."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Pese al importante crecimiento del gasto público desde la transición, el ratio gasto/PIB de España (aproximadamente 44,9% en 2024) se sitúa por debajo de la media de la Eurozona (49,4%), indicando que el nivel de intervención pública es inferior al promedio de sus socios comunitarios.",
+    "tag": "Tema 9"
+  },
+  "8": {
+    "enunciado": "¿Cuándo España registró superávit presupuestario y por qué?",
+    "opciones": [
+      "En los años 2010, 2011 y 2012, gracias a los planes de austeridad impuestos por la UE.",
+      "En los años 2005, 2006 y 2007, gracias al fuerte crecimiento económico y los extraordinarios ingresos vinculados al boom inmobiliario.",
+      "Nunca ha registrado superávit en la democracia española.",
+      "En los años 1986, 1987 y 1988, al ingresar en la CEE y recibir fondos estructurales."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Durante la fase expansiva 2005-2007, los ingresos públicos crecieron extraordinariamente (especialmente el IVA y el impuesto de transmisiones patrimoniales vinculados al boom inmobiliario), mientras se contenía el gasto, permitiendo registrar superávits presupuestarios históricos.",
+    "tag": "Tema 9"
+  },
+  "9": {
+    "enunciado": "¿En qué año alcanzó España el máximo déficit público durante la crisis financiera de 2008?",
+    "opciones": [
+      "En 2007, justo antes del estallido de la crisis.",
+      "En 2009, cuando el déficit llegó al -11% del PIB.",
+      "En 2012, coincidiendo con el rescate bancario.",
+      "En 2020, como consecuencia de la pandemia del COVID-19."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El máximo déficit público se alcanzó en 2009, cuando el saldo negativo llegó al -11% del PIB, como consecuencia del desplome de ingresos (especialmente los vinculados al sector inmobiliario) y el aumento del gasto en prestaciones sociales.",
+    "tag": "Tema 9"
+  },
+  "10": {
+    "enunciado": "¿Cuál fue el máximo histórico de la deuda pública española como porcentaje del PIB y en qué año se produjo?",
+    "opciones": [
+      "El 60% del PIB en 2007, coincidiendo con el límite del Pacto de Estabilidad.",
+      "El 119,3% del PIB en 2020, como consecuencia de la pandemia.",
+      "El 150% del PIB en 2012, por el coste del rescate bancario.",
+      "El 35,6% del PIB en 2007, el mínimo histórico de la democracia."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La combinación del fuerte aumento del gasto para hacer frente a la pandemia y el desplome del PIB en 2020 elevó la ratio de deuda pública sobre el PIB hasta el 119,3%, el nivel más alto registrado en la historia contemporánea española.",
+    "tag": "Tema 9"
+  },
+  "11": {
+    "enunciado": "¿Cuál era la ratio de deuda pública española sobre el PIB en 2007, justo antes de la crisis?",
+    "opciones": [
+      "El 67,4% del PIB, ligeramente superior al límite del Pacto de Estabilidad.",
+      "El 60,0% del PIB, exactamente en el límite del Pacto de Estabilidad.",
+      "El 35,6% del PIB, muy por debajo del umbral del 60% del Pacto de Estabilidad.",
+      "El 95,5% del PIB, reflejo de los elevados déficits previos a la crisis."
+    ],
+    "respuesta": "C",
+    "razonamiento": "En 2007, justo antes de la crisis, la deuda pública española representaba apenas el 35,6% del PIB, muy por debajo del umbral del 60% del PEC. Los años de superávit previos habían reducido el endeudamiento público, aunque la deuda privada (bancaria y corporativa) era muy elevada.",
+    "tag": "Tema 9"
+  },
+  "12": {
+    "enunciado": "¿Cuál es la mayor partida individual del gasto público español?",
+    "opciones": [
+      "La sanidad, con un 30% del gasto total.",
+      "La educación, con un 25% del gasto total.",
+      "Las pensiones, que concentran aproximadamente el 31% del gasto público total.",
+      "Los intereses de la deuda, que absorben el 20% del gasto por el elevado endeudamiento."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Las pensiones representan aproximadamente el 31,1% del gasto público total en España, siendo con claridad la partida de mayor peso. Le siguen la sanidad (14,5%), la educación (9,3%) y los intereses de la deuda (5,5%).",
+    "tag": "Tema 9"
+  },
+  "13": {
+    "enunciado": "En comparación con la media de la UE-27, ¿en qué partidas destina España proporcionalmente más gasto público?",
+    "opciones": [
+      "En defensa y educación, y menos en pensiones y desempleo.",
+      "En sanidad e I+D, y menos en pensiones.",
+      "En pensiones y prestaciones por desempleo, y menos en defensa y educación.",
+      "En cultura y administración general, y menos en prestaciones sociales."
+    ],
+    "respuesta": "C",
+    "razonamiento": "España destina proporcionalmente más gasto que la media comunitaria a pensiones y prestaciones por desempleo, mientras que gasta relativamente menos que el promedio europeo en defensa, educación, sanidad y otros gastos sociales.",
+    "tag": "Tema 9"
+  },
+  "14": {
+    "enunciado": "¿Cuándo y por qué se introdujo el IVA en España?",
+    "opciones": [
+      "En 1977, como parte de los Pactos de la Moncloa para modernizar el sistema tributario.",
+      "En 1999, con la entrada en la zona euro, para armonizar la fiscalidad con la Eurozona.",
+      "En 1986, coincidiendo con la adhesión a la CEE, en sustitución del Impuesto General sobre el Tráfico de Empresas.",
+      "En 2002, para financiar el Estado del Bienestar tras la transición a la moneda única."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La adhesión de España a la CEE en 1986 obligó a armonizar el sistema fiscal con el comunitario. El IVA sustituyó al IGTE (Impuesto General sobre el Tráfico de Empresas) y se convirtió en el principal impuesto indirecto, pilar fundamental de los ingresos del sector público español.",
+    "tag": "Tema 9"
+  },
+  "15": {
+    "enunciado": "¿Cuál es la mayor fuente de ingresos del sector público español actualmente?",
+    "opciones": [
+      "Los impuestos directos (IRPF e Impuesto de Sociedades), con el 40% del total.",
+      "Los impuestos indirectos (IVA y otros), con el 35% del total.",
+      "Las cotizaciones sociales, con aproximadamente el 31% del total.",
+      "Los ingresos patrimoniales (dividendos de empresas públicas), con el 25%."
+    ],
+    "respuesta": "C",
+    "razonamiento": "En la estructura de ingresos de las AAPP españolas, las cotizaciones sociales (aproximadamente el 31,4% del total) constituyen la partida de mayor peso, seguidas por los impuestos directos (IRPF e IS, con el 30%) y los impuestos indirectos (IVA y otros, con el 26,3%).",
+    "tag": "Tema 9"
+  },
+  "16": {
+    "enunciado": "¿Cómo se compara la presión fiscal española con la media de la Unión Europea?",
+    "opciones": [
+      "España tiene una de las presiones fiscales más altas de la UE, superando el 50% del PIB.",
+      "España se encuentra entre los países con menor presión fiscal de la UE (41,9% del PIB en 2024), muy por debajo de países como Francia o Bélgica.",
+      "España tiene exactamente la media de la UE en presión fiscal.",
+      "España supera a Alemania y Francia en presión fiscal gracias al mayor peso de las cotizaciones."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Pese al aumento desde aproximadamente el 21% en 1975 hasta el 41,9% en 2024, España se encuentra entre los países con menor presión fiscal de la UE, significativamente por debajo de países como Francia, Bélgica, Dinamarca o Suecia que superan el 45-50%.",
+    "tag": "Tema 9"
+  },
+  "17": {
+    "enunciado": "¿Qué reforma fiscal sentó las bases del moderno sistema tributario español?",
+    "opciones": [
+      "La reforma de 1992 que introdujo el euro fiscal en anticipo de la moneda única.",
+      "La reforma del Plan de Estabilización de 1959 que liberalizó la economía española.",
+      "Los Pactos de la Moncloa de 1977 y la Constitución de 1978, que crearon el IRPF progresivo y reformaron el Impuesto de Sociedades.",
+      "La reforma de 2002 que implementó el Pacto de Estabilidad mediante la Ley General de Estabilidad Presupuestaria."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Los Pactos de la Moncloa de 1977 y la posterior Constitución de 1978 impulsaron la reforma fiscal que modernizó el sistema tributario: se creó el IRPF con carácter progresivo, se reformó el Impuesto de Sociedades y se estableció el marco para la introducción del IVA en 1986.",
+    "tag": "Tema 9"
+  },
+  "18": {
+    "enunciado": "¿Cuánto supuso el gasto público sobre el PIB en España en 2020 y por qué fue histórico?",
+    "opciones": [
+      "El 44,9%, nivel normal durante el ciclo económico.",
+      "El 38%, nivel mínimo histórico gracias a los planes de austeridad.",
+      "El 51,4%, nivel sin precedentes en la democracia española, por el desplome del PIB y el aumento extraordinario del gasto anti-pandemia.",
+      "El 60%, equivalente a la deuda pública, por las transferencias del Next Generation EU."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La combinación del desplome del PIB y el aumento extraordinario del gasto público (ERTEs, ayudas a empresas, gasto sanitario, prestaciones) elevó el ratio de gasto sobre el PIB hasta el 51,4% en 2020, nivel sin precedentes en la democracia española.",
+    "tag": "Tema 9"
+  },
+  "19": {
+    "enunciado": "¿Qué es el déficit estructural y por qué lo presenta España de forma persistente?",
+    "opciones": [
+      "Es el déficit que se genera exclusivamente por las variaciones del ciclo económico y desaparece en expansión.",
+      "Es el déficit que persiste una vez eliminado el efecto del ciclo, reflejando un desequilibrio permanente entre ingresos y gastos.",
+      "Es el déficit provocado por el pago de intereses de la deuda pública acumulada.",
+      "Es el déficit que se genera exclusivamente por el gasto en pensiones y no por otros factores."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El déficit estructural es el que persiste una vez eliminado el efecto del ciclo económico. España presenta este déficit de forma crónica; incluso en los años de máximo crecimiento (2005-2007), el superávit se explicaba en parte por ingresos fiscales atípicos ligados a la burbuja inmobiliaria.",
+    "tag": "Tema 9"
+  },
+  "20": {
+    "enunciado": "¿Cuál es el subsector de las AAPP con mayor peso en el gasto público total de España en 2023?",
+    "opciones": [
+      "La Administración Central, con el 50% del gasto total.",
+      "Las Corporaciones Locales, por su proximidad a los ciudadanos.",
+      "La Seguridad Social (33,5%), seguida muy de cerca por las CCAA (33%).",
+      "Las CCAA, con el 60% del gasto total por sus competencias en sanidad y educación."
+    ],
+    "respuesta": "C",
+    "razonamiento": "En 2023, la Seguridad Social es el mayor subsector de gasto (33,5% del total), seguida muy de cerca por las CCAA (33%). La Administración Central representa el 21,6% y las Corporaciones Locales el 11,9%.",
+    "tag": "Tema 9"
+  },
+  "21": {
+    "enunciado": "¿Qué porcentaje de la normativa económica vigente en España proviene de directivas y reglamentos de la Unión Europea?",
+    "opciones": [
+      "Aproximadamente el 10%, siendo la normativa española dominante.",
+      "Alrededor del 33%, siendo similar a la proporción en otros estados federales.",
+      "Aproximadamente dos tercios (66%), lo que limita significativamente el margen regulatorio nacional.",
+      "Prácticamente el 100%, ya que la UE ha armonizado toda la legislación económica."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Se estima que alrededor de dos tercios de las normas económicas aplicadas en España tienen su origen en directivas o reglamentos comunitarios, lo que limita considerablemente el margen de maniobra regulatorio de las AAPP españolas.",
+    "tag": "Tema 9"
+  },
+  "22": {
+    "enunciado": "¿Cuándo se desarrolló principalmente el Estado del Bienestar en España?",
+    "opciones": [
+      "Durante el franquismo, siendo uno de los más consolidados de Europa al iniciarse la transición.",
+      "A partir de la Constitución de 1978 y durante los años 80 y 90, partiendo de niveles muy inferiores a los europeos.",
+      "En los años 60 con el Plan de Estabilización y los Planes de Desarrollo.",
+      "En los años 2000, gracias a los superávits presupuestarios del período expansivo."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El Estado del Bienestar español era muy rudimentario al inicio de la transición. Su desarrollo acelerado se produjo a partir de la Constitución de 1978 y durante los años 80 y 90, cuando se universalizó la sanidad, se expandió la educación pública y se desarrolló el sistema de protección social.",
+    "tag": "Tema 9"
+  },
+  "23": {
+    "enunciado": "¿Cómo funciona el mecanismo de los estabilizadores automáticos del presupuesto público?",
+    "opciones": [
+      "Requieren decisiones discrecionales del Gobierno para activarse en cada fase del ciclo.",
+      "En recesión amplían el déficit (aumenta el gasto en desempleo y caen los ingresos) y en expansión lo reducen, sin necesidad de decisiones discrecionales.",
+      "Solo actúan en fase expansiva, reduciendo automáticamente el gasto público.",
+      "Solo actúan en recesión, aumentando el gasto, pero requieren autorización parlamentaria."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Los estabilizadores automáticos operan sin intervención deliberada del gobierno: en recesión, el gasto en prestaciones de desempleo aumenta y los ingresos fiscales caen (ampliando el déficit y sosteniendo la demanda); en expansión, ocurre lo contrario.",
+    "tag": "Tema 9"
+  },
+  "24": {
+    "enunciado": "¿Qué instrumentos utiliza el Tesoro Público español para financiar la deuda pública según diferentes plazos?",
+    "opciones": [
+      "Solo emite obligaciones del Estado a largo plazo para minimizar el riesgo de refinanciación.",
+      "Letras del Tesoro y Pagarés (corto plazo), Bonos del Estado (2-5 años) y Obligaciones del Estado (más de 5 años).",
+      "Solo emite bonos a 10 años, que son el instrumento de referencia del mercado europeo.",
+      "Emite exclusivamente deuda en moneda extranjera para diversificar el riesgo cambiario."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El Tesoro Público español dispone de una variada gama de instrumentos de financiación: Letras del Tesoro y Pagarés (corto plazo), Bonos del Estado (2-5 años) y Obligaciones del Estado (más de 5 años). La diversificación de plazos busca optimizar el coste de la deuda y gestionar el riesgo de refinanciación.",
+    "tag": "Tema 9"
+  },
+  "25": {
+    "enunciado": "¿Cómo se financia la Seguridad Social española, además de las cotizaciones sociales?",
+    "opciones": [
+      "Exclusivamente con cotizaciones sociales de trabajadores y empresas.",
+      "Con cotizaciones sociales y transferencias del Estado para cubrir prestaciones no contributivas y desequilibrios estructurales.",
+      "Con cotizaciones sociales y la recaudación del IVA, que se destina íntegramente a la Seguridad Social.",
+      "Con cotizaciones sociales y fondos europeos específicos del Fondo Social Europeo."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La Seguridad Social se financia principalmente mediante cotizaciones sociales, pero también recibe transferencias significativas del Estado, que complementan su financiación para cubrir las prestaciones no contributivas y los desequilibrios estructurales entre ingresos por cotizaciones y gastos en pensiones y sanidad.",
+    "tag": "Tema 9"
+  },
+  "26": {
+    "enunciado": "¿En cuántos puntos porcentuales se redujo el gasto público como porcentaje del PIB en España durante la fase expansiva 1995-2007?",
+    "opciones": [
+      "En 2 puntos porcentuales, una reducción moderada.",
+      "En 5 puntos porcentuales, gracias a la moderación del gasto.",
+      "En cerca de 10 puntos porcentuales, combinando fuerte crecimiento del PIB con cierta contención del gasto.",
+      "En 15 puntos porcentuales, la mayor reducción de la OCDE en ese período."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Durante la fase expansiva 1995-2007, la combinación de fuerte crecimiento económico (que elevaba el PIB denominador) con cierta contención del gasto permitió reducir el ratio de gasto público sobre el PIB en cerca de 10 puntos porcentuales, favoreciendo incluso superávits presupuestarios entre 2005 y 2007.",
+    "tag": "Tema 9"
+  }
+}
