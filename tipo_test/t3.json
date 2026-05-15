@@ -1,0 +1,290 @@
+{
+  "1": {
+    "enunciado": "¿Qué actividades integran el Sector Primario según la Contabilidad Nacional española?",
+    "opciones": [
+      "Exclusivamente la agricultura y la ganadería, que representan más del 93% del VAB sectorial.",
+      "Agricultura, ganadería, selvicultura y pesca, siendo la agricultura y ganadería la actividad dominante.",
+      "Agricultura, industria agroalimentaria y distribución de alimentos al por mayor.",
+      "Agricultura, minería, extracción de hidrocarburos y pesca."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El Sector Primario está integrado por la rama 'Agricultura, ganadería, selvicultura y pesca'. En 2023, la agricultura y ganadería representaban el 93,3% del VAB sectorial y el 92,6% del empleo, siendo la actividad claramente dominante.",
+    "tag": "Tema 3"
+  },
+  "2": {
+    "enunciado": "Cuando se consideran las industrias manufactureras asociadas al sector primario, ¿cómo varía su importancia económica?",
+    "opciones": [
+      "Disminuye, porque las manufacturas se clasifican en el sector industrial y restan peso al primario.",
+      "Se mantiene igual, ya que las manufacturas se contabilizan siempre de forma separada.",
+      "Aumenta considerablemente, al incluir industrias como alimentos, bebidas, transformados de pesca y madera.",
+      "Varía según el año, siendo mayor en épocas de expansión y menor en recesión."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El Sector Primario suministra materias primas a determinadas industrias, por lo que su importancia es mayor cuando se consideran las manufacturas asociadas. En 2022, el bloque primario más industrial asociado representaba 68.033 millones de euros de VAB y 1.257 miles de empleos.",
+    "tag": "Tema 3"
+  },
+  "3": {
+    "enunciado": "¿Cuál de las siguientes afirmaciones sobre el peso del sector agrario en el VAB total de España es correcta?",
+    "opciones": [
+      "Ha aumentado desde 1985 (5,7%) hasta 2024 (2,8%) gracias a la modernización del sector.",
+      "Ha disminuido desde el 5,7% en 1985 hasta el 2,8% en 2024 a precios corrientes, reflejando la terciarización.",
+      "Se ha mantenido estable en torno al 3% desde la adhesión a la UE en 1986.",
+      "Ha superado el 10% del VAB en los últimos años por el auge de las exportaciones agroalimentarias."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El peso del VAB agrario sobre el VAB total ha descendido de forma continuada: del 5,7% en 1985 al 4,2% en 1995, el 3,1% en 2005 y el 2,8% en 2024 (a precios corrientes), reflejando el proceso de terciarización de la economía española.",
+    "tag": "Tema 3"
+  },
+  "4": {
+    "enunciado": "¿Cuáles son los dos factores que explican el crecimiento de la productividad del trabajo agrario en España, y cuál ha tenido mayor peso desde 1985?",
+    "opciones": [
+      "Los rendimientos por hectárea y la ratio de estructuras (superficie por empleo), siendo esta última la de mayor peso desde 1985.",
+      "La mecanización y las subvenciones de la PAC, siendo las subvenciones el factor dominante.",
+      "Los rendimientos por hectárea y la ratio de estructuras, siendo los rendimientos el factor dominante en todo el período.",
+      "La tecnología genética y el riego, siendo el riego el factor más relevante."
+    ],
+    "respuesta": "A",
+    "razonamiento": "El crecimiento de la productividad agraria en España se explica por la mejora de los rendimientos por hectárea y por la ratio de estructuras (superficie disponible por persona empleada). A partir de 1985, la ratio de estructuras ha tenido mayor peso, impulsada por el éxodo rural y el envejecimiento de la población agraria.",
+    "tag": "Tema 3"
+  },
+  "5": {
+    "enunciado": "El éxodo rural hacia las ciudades a partir de 1960, ¿qué efecto tuvo sobre la mecanización del campo español?",
+    "opciones": [
+      "Frenó la mecanización al reducir los salarios agrarios por la abundancia de mano de obra.",
+      "No tuvo efecto sobre la mecanización, que respondió exclusivamente a los precios de la maquinaria.",
+      "Impulsó la mecanización al provocar escasez de mano de obra y encarecimiento relativo de los salarios agrarios.",
+      "Redujo la mecanización al disminuir el número de explotaciones y la demanda de maquinaria."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El éxodo rural generó escasez de mano de obra agraria, lo que encareció relativamente los salarios agrarios respecto al precio de los bienes de inversión como la maquinaria, incentivando la sustitución de trabajo por capital y, por tanto, la mecanización del campo.",
+    "tag": "Tema 3"
+  },
+  "6": {
+    "enunciado": "¿Cuál fue el principal cambio en la organización de la Política Agrícola Común (PAC) en 2007?",
+    "opciones": [
+      "Se crearon 21 nuevas Organizaciones Comunes de Mercado (OCM) para cubrir todos los productos.",
+      "Se eliminaron todas las OCM existentes y se liberalizó completamente el mercado agrario.",
+      "Se fusionaron las 21 OCM existentes en una única OCM para todos los productos agrarios.",
+      "Se transfirió la gestión de la PAC íntegramente a los Estados miembros mediante planes nacionales."
+    ],
+    "respuesta": "C",
+    "razonamiento": "A partir de 2007, se fusionaron las 21 Organizaciones Comunes de Mercado existentes en una única OCM para todos los productos agrarios, simplificando la gestión de la PAC.",
+    "tag": "Tema 3"
+  },
+  "7": {
+    "enunciado": "¿Cuál de los siguientes es un objetivo histórico y principio fundacional de la PAC respecto a los precios?",
+    "opciones": [
+      "Garantizar precios elevados para el consumidor final, maximizando el ingreso de los agricultores.",
+      "Asegurar el aprovisionamiento alimenticio de la población a precios razonables.",
+      "Eliminar cualquier intervención pública en la fijación de precios agrarios.",
+      "Garantizar precios mínimos de venta para los agricultores por encima del mercado mundial."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Uno de los objetivos históricos y principios fundacionales de la PAC ha sido asegurar el aprovisionamiento alimenticio de la población a unos precios razonables, compatibilizando la seguridad alimentaria con un nivel de vida equitativo para los agricultores.",
+    "tag": "Tema 3"
+  },
+  "8": {
+    "enunciado": "¿Qué implica el principio de 'Preferencia Comunitaria' de la PAC?",
+    "opciones": [
+      "Los estados miembros deben priorizar el consumo de sus propios productos nacionales frente a los de otros países de la UE.",
+      "Las producciones agrarias de la UE se protegen frente a la competencia de países externos, con libre circulación interna entre estados miembros.",
+      "Los agricultores de la UE reciben precios superiores a los del mercado mundial mediante subvenciones directas.",
+      "Los estados miembros con mayor producción agraria tienen preferencia en la asignación de fondos de la PAC."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El principio de Preferencia Comunitaria implica que las producciones agrarias de la Comunidad se protegen frente a la competencia de países externos (mediante aranceles o restricciones), pero existe una Unidad de Mercado para la libre circulación entre los estados miembros.",
+    "tag": "Tema 3"
+  },
+  "9": {
+    "enunciado": "¿Qué objetivo en materia de agricultura ecológica establece la estrategia 'De la granja a la mesa' para 2030?",
+    "opciones": [
+      "Reducir la superficie de agricultura ecológica al 10% para garantizar el abastecimiento.",
+      "Eliminar el uso de pesticidas en un 50% sin variar la distribución de superficies.",
+      "Que la agricultura ecológica represente el 25% de la Superficie Agrícola Utilizada.",
+      "Que el 50% de las explotaciones adopten técnicas de agricultura de precisión."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La estrategia 'De la granja a la mesa' plantea incrementar la agricultura ecológica, fijando como objetivo para 2030 que suponga el 25% de la Superficie Agrícola Utilizada, dentro de un marco más amplio de sostenibilidad medioambiental.",
+    "tag": "Tema 3"
+  },
+  "10": {
+    "enunciado": "¿Qué caracteriza la estructura de las explotaciones agrarias en España en términos de distribución de la producción?",
+    "opciones": [
+      "La mayoría de la producción proviene de un gran número de pequeñas explotaciones familiares distribuidas de forma equilibrada.",
+      "Las explotaciones grandes (más de 60 UDE) representan el 17,7% del total pero acaparan el 80,2% de la producción estándar.",
+      "Las explotaciones medianas concentran el 60% de la producción, siendo las grandes y pequeñas marginales.",
+      "La producción está distribuida equitativamente entre todos los tipos de explotaciones."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Existe un gran desequilibrio: las explotaciones grandes (más de 60 UDE) representan solo el 17,7% del total pero acaparan el 80,2% de la producción estándar total, evidenciando una estructura dual con muchas pequeñas explotaciones de baja producción.",
+    "tag": "Tema 3"
+  },
+  "11": {
+    "enunciado": "¿Son de carácter obligatorio los 'Eco-Esquemas' de la PAC para todos los agricultores que reciben pagos directos?",
+    "opciones": [
+      "Sí, son de cumplimiento obligatorio para acceder al pago básico de la PAC.",
+      "Sí, pero solo para explotaciones de más de 10 hectáreas.",
+      "No, los agricultores quedan en libertad de acogerse o no a estos Eco-esquemas.",
+      "Sí, pero con un período de adaptación de cinco años para las explotaciones pequeñas."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Aunque los Estados miembros deben establecer Eco-esquemas como parte de su plan estratégico, los agricultores quedan en libertad de acogerse o no a estos compromisos voluntarios de mayor exigencia medioambiental a cambio de pagos adicionales.",
+    "tag": "Tema 3"
+  },
+  "12": {
+    "enunciado": "¿Cuál era la relación capital-producto del sector agrario español antes de la transformación de los años 60?",
+    "opciones": [
+      "Muy alta, con gran intensidad de capital por las grandes propiedades latifundistas mecanizadas.",
+      "Media, comparable a la de los países europeos de la época.",
+      "Muy baja, por tratarse de una agricultura tradicional e intensiva en trabajo.",
+      "Nula, ya que el sector agrario no utilizaba ningún tipo de capital en esa época."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Antes de los años 60, la agricultura española carecía de mecanización y era tradicional e intensiva en factor trabajo, por lo que su relación capital-producto era sumamente baja.",
+    "tag": "Tema 3"
+  },
+  "13": {
+    "enunciado": "Según la Ley de Engel, ¿cómo evoluciona el gasto en alimentos de primera necesidad en países desarrollados al aumentar la renta?",
+    "opciones": [
+      "Aumenta en términos absolutos y relativos, ya que la mejora de la renta permite acceder a alimentos de mayor calidad.",
+      "Se mantiene constante en proporción a la renta, independientemente del nivel de desarrollo.",
+      "La proporción del gasto destinada a alimentos tiende a reducirse conforme aumenta la renta.",
+      "Aumenta proporcionalmente en expansión y se reduce en recesión, siguiendo el ciclo económico."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La Ley de Engel establece que conforme aumenta la renta en un país desarrollado, la proporción del gasto que se destina a alimentos de primera necesidad tiende a reducirse, lo que implica una elasticidad-renta baja o incluso negativa para estos productos.",
+    "tag": "Tema 3"
+  },
+  "14": {
+    "enunciado": "¿Cuál es el principal capítulo exportador del comercio exterior agroalimentario español en términos de valor?",
+    "opciones": [
+      "Los cereales y leguminosas, aprovechando la vasta superficie de agricultura general.",
+      "El aceite de oliva, por el liderazgo mundial de España en olivar.",
+      "Las frutas, verduras y hortalizas, que encabezan las exportaciones agroalimentarias.",
+      "Las carnes y el ganado en pie, que constituyen el segundo capítulo exportador."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Las frutas, verduras y hortalizas son el principal capítulo exportador del comercio agroalimentario español. Las carnes y el ganado en pie constituyen el segundo capítulo exportador, siendo también fuertemente superavitarios.",
+    "tag": "Tema 3"
+  },
+  "15": {
+    "enunciado": "¿Con qué países o regiones mantiene España un déficit comercial agroalimentario significativo?",
+    "opciones": [
+      "Con la UE, que es el principal destino de sus exportaciones agroalimentarias.",
+      "Con el Reino Unido, principal cliente de las exportaciones agroalimentarias españolas.",
+      "No existe déficit; España tiene superávit agroalimentario con todas las regiones del mundo.",
+      "Con determinados países extracomunitarios (como algunas regiones de África o Sudamérica), lastrando la tasa de cobertura extracomunitaria."
+    ],
+    "respuesta": "D",
+    "razonamiento": "Aunque España tiene una posición superavitaria en el comercio agroalimentario con la mayoría de socios, el déficit con algunos países extracomunitarios afecta a la tasa de cobertura en esos mercados. El Reino Unido, en cambio, es uno de los mejores clientes con saldo claramente positivo.",
+    "tag": "Tema 3"
+  },
+  "16": {
+    "enunciado": "¿Qué objetivo financiero contempla la reforma de la PAC en materia de gestión de crisis de mercados?",
+    "opciones": [
+      "Un fondo de garantía permanente de 10.000 millones de euros para subvencionar precios.",
+      "La creación de una reserva de crisis de hasta 1.500 millones de euros para mejorar la gestión de los mercados agrarios.",
+      "La eliminación de toda reserva financiera para forzar la autorregulación del mercado.",
+      "Un seguro obligatorio de ingresos con prima del 50% subvencionada para todas las explotaciones."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La reforma de la PAC contempla la creación de una reserva de crisis por un máximo de 1.500 millones de euros para mejorar la gestión y regulación de los mercados agrarios ante situaciones de perturbación severa.",
+    "tag": "Tema 3"
+  },
+  "17": {
+    "enunciado": "¿Cómo ha evolucionado el coeficiente de apertura externa de la agricultura española desde 1985?",
+    "opciones": [
+      "Ha permanecido estable en torno al mismo nivel, sin cambios significativos.",
+      "Ha disminuido a medida que las exportaciones perdían competitividad.",
+      "Ha aumentado notablemente, casi triplicándose entre 1985 y 2024.",
+      "Ha disminuido desde la entrada del euro por la pérdida del instrumento del tipo de cambio."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Debido a una creciente integración internacional, el coeficiente de apertura externa de la agricultura española casi se ha triplicado entre 1985 y 2024, reflejando el fuerte dinamismo exportador del sector agroalimentario.",
+    "tag": "Tema 3"
+  },
+  "18": {
+    "enunciado": "¿Qué país de los comparados en el Tema 3 tiene el modelo de productividad agraria basado en una elevadísima productividad de la tierra pero con la menor superficie por persona ocupada?",
+    "opciones": [
+      "Alemania, por su intenso uso de pesticidas y fertilizantes.",
+      "España, por su especialización en horticultura intensiva.",
+      "Francia, por su amplio mercado de exportación de productos de calidad.",
+      "Italia, que destaca por alta productividad de la tierra con la menor superficie por empleo."
+    ],
+    "respuesta": "D",
+    "razonamiento": "Italia basa su modelo de productividad agraria en una elevadísima productividad de la tierra, pero su superficie por persona empleada es la más baja al compararla con Alemania, España y Francia, lo que contrasta con el modelo español o alemán de mayor extensificación.",
+    "tag": "Tema 3"
+  },
+  "19": {
+    "enunciado": "¿Cuál es la tendencia histórica de los precios percibidos por los agricultores españoles en comparación con el IPC?",
+    "opciones": [
+      "Los precios agrarios han crecido por encima del IPC, mejorando la renta real de los agricultores.",
+      "Los precios agrarios han crecido exactamente al mismo ritmo que el IPC.",
+      "Los precios percibidos por los agricultores han crecido menos que el IPC, comprimiendo sus márgenes.",
+      "Los precios agrarios han sido muy volátiles pero con una media igual al IPC a largo plazo."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Históricamente, los precios percibidos por los agricultores en la venta de sus producciones han crecido menos que el Índice de Precios al Consumo, lo que ha comprimido sus márgenes y ha constituido un acicate para buscar ganancias de productividad.",
+    "tag": "Tema 3"
+  },
+  "20": {
+    "enunciado": "¿Qué implica la nueva PAC Post-2020 respecto a la flexibilidad de los Estados miembros?",
+    "opciones": [
+      "Centraliza todas las decisiones en la Comisión Europea, eliminando la capacidad nacional de adaptación.",
+      "Amplía la flexibilidad de los Estados miembros para adaptar las medidas a las condiciones locales a través de sus Planes Estratégicos Nacionales.",
+      "Reduce la flexibilidad y establece normas uniformes para todos los países miembros.",
+      "Transfiere la gestión íntegra a los municipios y entidades locales, eliminando el papel de los Estados."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La nueva PAC Post-2020 tiene por objeto ampliar la flexibilidad de los Estados miembros para adaptar las medidas a las condiciones locales a través de sus Planes Estratégicos Nacionales, dentro del marco general europeo.",
+    "tag": "Tema 3"
+  },
+  "21": {
+    "enunciado": "¿Cuál es la orientación agraria que mayor valor de producción genera en España, según el Cuadro 1 del Tema 3?",
+    "opciones": [
+      "La horticultura, con el 19,3% de la producción total.",
+      "Los granívoros (ganado porcino y avícola), con el 25,2% de la producción total.",
+      "La agricultura general (cereales, etc.), con el 41,2% de la superficie.",
+      "Los frutales y cítricos, con el 13,2% de la producción."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Los granívoros (ganado porcino y avícola) son la orientación agraria con mayor valor de producción en España, representando el 25,2% del total, a pesar de ocupar solo el 2,6% de la Superficie Agrícola Utilizada, reflejando su elevada intensidad productiva.",
+    "tag": "Tema 3"
+  },
+  "22": {
+    "enunciado": "¿Qué orientación agraria ocupa el mayor porcentaje de la Superficie Agrícola Utilizada (SAU) en España?",
+    "opciones": [
+      "Los granívoros, con el 25,2%.",
+      "Los bovinos, con el 14,5%.",
+      "La agricultura general (cereales y otros cultivos extensivos), con el 41,2%.",
+      "El olivar, con el 9,9%."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La agricultura general (cereales, leguminosas y otros cultivos extensivos) ocupa el 41,2% de la SAU en España, siendo la orientación con mayor superficie, aunque su aportación al valor de la producción es proporcionalmente menor (9,9%).",
+    "tag": "Tema 3"
+  },
+  "23": {
+    "enunciado": "La liberalización comercial impulsada por la OMC, ¿qué efecto tiene sobre las producciones de frutas y verduras españolas?",
+    "opciones": [
+      "Las protege al establecer aranceles mínimos sobre los productos no comunitarios.",
+      "Las elimina como sector de exportación al favorecer la especialización en productos industriales.",
+      "Aumenta la competencia de terceros países, representando un riesgo para la cuota de mercado española.",
+      "No tiene ningún efecto, ya que la PAC protege íntegramente a todos los productos españoles."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La liberalización promovida por la OMC reduce barreras al comercio, lo que facilita la entrada de productos extracomunitarios y aumenta la competencia para las producciones españolas de frutas y verduras en los mercados europeos e internacionales.",
+    "tag": "Tema 3"
+  },
+  "24": {
+    "enunciado": "¿Cuál era el porcentaje de empleo agrario sobre el empleo total en España en 1985, y cómo ha evolucionado hasta 2024?",
+    "opciones": [
+      "Era del 38,7% en 1985 y ha caído al 3,5% en 2024.",
+      "Era del 14,1% en 1985 y ha caído al 3,5% en 2024.",
+      "Era del 5,7% en 1985 y ha subido al 2,8% en 2024.",
+      "Era del 7,1% en 1985 y se mantiene en torno al 7% en 2024."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El empleo agrario sobre el empleo total era del 14,1% en 1985 (ya reducido desde el 38,7% de 1960), y ha seguido descendiendo hasta el 4,7% en 2005, el 4,0% en 2015 y el 3,5% en 2024, reflejando la continua pérdida de peso del sector.",
+    "tag": "Tema 3"
+  }
+}

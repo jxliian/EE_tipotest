@@ -1,0 +1,302 @@
+{
+  "1": {
+    "enunciado": "En 1960, ¿qué porcentaje de la población activa española estaba empleada en agricultura y pesca?",
+    "opciones": [
+      "14,0%, igual que Alemania en ese mismo año.",
+      "38,7%, una cifra muy superior a la de las economías europeas más industrializadas.",
+      "23,2%, similar a la de Francia en ese período.",
+      "30,3%, coincidiendo con el peso del sector industrial en España."
+    ],
+    "respuesta": "B",
+    "razonamiento": "En 1960, el 38,7% del empleo español se concentraba en agricultura y pesca, frente al 14,0% de Alemania o el 23,2% de Francia, lo que evidencia el retraso estructural de España respecto a los países europeos más avanzados.",
+    "tag": "Tema 2"
+  },
+  "2": {
+    "enunciado": "¿Cuál fue la tasa media anual de crecimiento del PIB per cápita real de España durante el periodo 1961-2024?",
+    "opciones": [
+      "1,9%, igual que Alemania y Estados Unidos en el mismo período.",
+      "2,0%, igual que la Eurozona y Francia.",
+      "2,4%, por encima de la media de la Eurozona (2,0%).",
+      "3,7%, igual que Irlanda, el país de mayor crecimiento del período."
+    ],
+    "respuesta": "C",
+    "razonamiento": "España creció a una tasa media anual del 2,4% en PIBpc entre 1961 y 2024, por encima de la Eurozona (2,0%), aunque con fluctuaciones más intensas tanto en expansiones como en recesiones.",
+    "tag": "Tema 2"
+  },
+  "3": {
+    "enunciado": "Según la descomposición del crecimiento, la tasa de variación de la renta per cápita puede calcularse, de forma aproximada, como:",
+    "opciones": [
+      "La diferencia entre la tasa de variación de la productividad y la del empleo per cápita.",
+      "El cociente entre la tasa de crecimiento del PIB real y la tasa de inflación.",
+      "La suma de las tasas de variación de la productividad del trabajo y del empleo per cápita.",
+      "El producto de la tasa de actividad por la tasa de ocupación."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El PIBpc = (PIB/Empleo) × (Empleo/Población), por lo que su tasa de variación se aproxima sumando (no restando) las tasas de variación de la productividad del trabajo y del empleo per cápita.",
+    "tag": "Tema 2"
+  },
+  "4": {
+    "enunciado": "Durante el periodo 1961-1985, ¿cuál fue la tasa media anual de crecimiento de la productividad del trabajo en España?",
+    "opciones": [
+      "0,6%, inferior a la de Alemania (0,8%) en ese período.",
+      "1,6%, similar a la del Reino Unido.",
+      "2,3%, coincidiendo con la media del período completo 1961-2024.",
+      "4,9%, muy superior a la de Alemania (3,0%) o la Eurozona (3,6%)."
+    ],
+    "respuesta": "D",
+    "razonamiento": "En el período 1961-1985, España experimentó un espectacular crecimiento de la productividad del trabajo del 4,9% anual, muy por encima de Alemania (3,0%) o la Eurozona (3,6%), impulsado por la rápida industrialización y el trasvase de empleo desde la agricultura.",
+    "tag": "Tema 2"
+  },
+  "5": {
+    "enunciado": "¿Qué porcentaje de la población activa española trabajaba en el sector servicios en 2023?",
+    "opciones": [
+      "47,6%, nivel registrado en 1985.",
+      "31,0%, correspondiente al año 1960.",
+      "73,8%, coincidiendo con la media de la UE-27.",
+      "78,2%, ligeramente inferior al 80,9% de Francia."
+    ],
+    "respuesta": "D",
+    "razonamiento": "En 2023, el 78,2% del empleo en España se concentraba en el sector servicios, frente al 31,0% de 1960, reflejando la intensa terciarización de la economía. Francia alcanzaba el 80,9% en ese mismo año.",
+    "tag": "Tema 2"
+  },
+  "6": {
+    "enunciado": "En 2022, ¿qué país presentaba el mayor porcentaje de población en edad de trabajar (PET) sobre el total de la población?",
+    "opciones": [
+      "Alemania, con el 63,2%, por su envejecimiento más avanzado.",
+      "Francia, con el 61,2%, el más bajo del cuadro.",
+      "España, con el 65,4%, superando a Alemania.",
+      "Irlanda, con el 65,2%, gracias a su estructura demográfica más joven."
+    ],
+    "respuesta": "C",
+    "razonamiento": "En 2022, España presentaba el mayor porcentaje de PET sobre la población total (65,4%), superior al 63,2% de Alemania, cuyo envejecimiento más acelerado reduce proporcionalmente la población activa potencial.",
+    "tag": "Tema 2"
+  },
+  "7": {
+    "enunciado": "Durante el período 1961-1985, el empleo per cápita en España registró una tasa media de variación de:",
+    "opciones": [
+      "+1,0%, contribuyendo positivamente al crecimiento del PIBpc.",
+      "+0,1%, aportación marginal al PIBpc.",
+      "-1,3%, contribuyendo negativamente al crecimiento del PIBpc.",
+      "-0,4%, similar a la media de la Eurozona en ese período."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Entre 1961 y 1985, el empleo per cápita en España cayó un 1,3% anual de media, reflejo del éxodo rural y la reconversión industrial, lo que lastraba el crecimiento del PIBpc que se sustentó exclusivamente en la fuerte productividad.",
+    "tag": "Tema 2"
+  },
+  "8": {
+    "enunciado": "¿Cuál de las siguientes variables NO es una fuente directa de aumento de la Productividad Aparente del Trabajo?",
+    "opciones": [
+      "El incremento del capital físico por trabajador (mecanización).",
+      "La mejora del capital humano (formación y cualificación).",
+      "Los avances en la Productividad Total de los Factores (PTF).",
+      "El aumento de la tasa de desempleo friccional."
+    ],
+    "respuesta": "D",
+    "razonamiento": "La Productividad Aparente del Trabajo aumenta gracias al capital físico, el capital humano y la PTF. La tasa de desempleo friccional es un indicador de rotación laboral, no una fuente de productividad.",
+    "tag": "Tema 2"
+  },
+  "9": {
+    "enunciado": "En la función de producción Cobb-Douglas, ¿qué representan los parámetros α (alfa) y β (beta)?",
+    "opciones": [
+      "α representa la elasticidad del capital humano y β la del capital físico.",
+      "α representa la elasticidad del capital físico y β la del capital humano.",
+      "Ambos representan el nivel de la PTF dividido entre los factores productivos.",
+      "α representa la tasa de crecimiento del PIB y β la tasa de inflación."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Convencionalmente, en la función Cobb-Douglas el parámetro α (alfa) representa la elasticidad del output respecto al capital físico, mientras que β (beta) representa la elasticidad respecto al capital humano.",
+    "tag": "Tema 2"
+  },
+  "10": {
+    "enunciado": "Entre 1960 y 2024, ¿cuáles fueron las fuentes que más contribuyeron al aumento de la Productividad Aparente del Trabajo en España?",
+    "opciones": [
+      "El capital humano (49%) y el empleo per cápita (36%).",
+      "La PTF (49%) y el capital físico (36%), siendo el capital humano el menor contribuyente (15%).",
+      "El capital físico (60%) y la PTF (40%), sin contribución significativa del capital humano.",
+      "El capital humano (50%) y el capital físico (50%), siendo la PTF residual."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El aumento de la Productividad Aparente del Trabajo en España estuvo soportado mayoritariamente por la PTF (49%) y el capital físico (36%), mientras que la contribución aislada del capital humano se quedó en un 15%.",
+    "tag": "Tema 2"
+  },
+  "11": {
+    "enunciado": "¿Qué se entiende por output gap o brecha de producción?",
+    "opciones": [
+      "La diferencia entre el PIB nominal y el PIB real de una economía.",
+      "La diferencia entre las exportaciones y las importaciones de bienes y servicios.",
+      "La diferencia entre el PIB potencial (tendencial) y el PIB real efectivamente registrado.",
+      "La suma del PIB potencial y el PIB real, dividida entre dos."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El output gap es la brecha entre el PIB potencial o tendencial (máxima capacidad productiva sostenible) y el PIB real observado. Cuando el PIB real supera al potencial, hay presiones inflacionistas; cuando está por debajo, hay recursos ociosos.",
+    "tag": "Tema 2"
+  },
+  "12": {
+    "enunciado": "Durante el periodo de expansión 1995-2007 en España, ¿cómo se situó el PIB real respecto al PIB potencial?",
+    "opciones": [
+      "Por debajo del PIB potencial, generando un output gap negativo y deflación.",
+      "Exactamente igual al PIB potencial, con una brecha nula.",
+      "Por encima del PIB potencial de forma continua, generando tensiones inflacionistas.",
+      "Por encima solo en los años 2005-2007, cuando hubo superávit fiscal."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Durante la expansión 1995-2007, el PIB real español estuvo recalentado y sistemáticamente por encima del PIB potencial tendencial, lo que generó presiones inflacionistas y un diferencial de inflación positivo respecto a los socios europeos.",
+    "tag": "Tema 2"
+  },
+  "13": {
+    "enunciado": "¿Cuál es la situación de la inversión española en I+D como porcentaje del PIB en comparación con los países europeos más avanzados?",
+    "opciones": [
+      "España supera a Francia y Alemania gracias a sus clusters tecnológicos.",
+      "España se sitúa en la media de los países desarrollados, en torno al 3% del PIB.",
+      "España dedica un porcentaje notablemente inferior (en torno al 1,4% del PIB), muy por debajo de Francia y Alemania.",
+      "España no registra gasto en I+D ya que es financiado directamente por la UE."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La inversión en I+D de España como porcentaje del PIB (en torno al 1,4%) se sitúa históricamente muy por debajo de la media de los países desarrollados y de países como Francia o Alemania, lo que lastra la PTF y la capacidad innovadora.",
+    "tag": "Tema 2"
+  },
+  "14": {
+    "enunciado": "¿Cuál de las siguientes afirmaciones sobre la PTF (Productividad Total de los Factores) en España desde inicios de los años 90 es correcta?",
+    "opciones": [
+      "Ha experimentado un notable y sostenido aumento, siendo el principal motor del crecimiento.",
+      "Ha permanecido prácticamente estancada, con un crecimiento nulo o casi nulo.",
+      "Ha caído drásticamente hasta registrar valores negativos persistentes.",
+      "Ha convergido plenamente con la PTF de Alemania y Francia."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Los estudios marcan un nulo aumento o estancamiento casi persistente de la PTF española desde inicios de la década de los 90, lo que explica en gran medida el estancamiento relativo de la productividad respecto a las economías más avanzadas.",
+    "tag": "Tema 2"
+  },
+  "15": {
+    "enunciado": "¿Cuál es la definición más completa de capital humano?",
+    "opciones": [
+      "Exclusivamente los títulos universitarios y de posgrado acreditados por los trabajadores.",
+      "El stock de maquinaria, instalaciones e infraestructuras productivas de una economía.",
+      "Los conocimientos, habilidades, salud y talentos de los trabajadores que aumentan su capacidad productiva.",
+      "El conjunto de activos financieros y reservas de divisas del sistema bancario."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El capital humano trasciende la educación formal y engloba cualquier aptitud, estado de salud o destreza que aumente la contribución y el rendimiento del trabajador, siendo una fuente clave de productividad a largo plazo.",
+    "tag": "Tema 2"
+  },
+  "16": {
+    "enunciado": "Durante la crisis de 2020 (pandemia), ¿cómo se comportó la productividad del trabajo en España en comparación con crisis anteriores?",
+    "opciones": [
+      "De forma anticíclica como siempre: la productividad subió al destruirse masivamente empleo.",
+      "De forma procíclica atípica: la productividad cayó junto al PIB porque los ERTEs mantuvieron el empleo artificialmente.",
+      "De forma neutral, sin apenas variación respecto al año anterior.",
+      "De forma muy positiva, gracias a la aceleración de la digitalización empresarial."
+    ],
+    "respuesta": "B",
+    "razonamiento": "En la crisis de 2020, a diferencia de crisis anteriores, las políticas de ERTEs mantuvieron artificialmente el empleo (sin producción real), provocando una caída brusca de la productividad por trabajador. Este comportamiento procíclico atípico contrasta con las recesiones previas donde la destrucción de empleo elevaba estadísticamente la productividad.",
+    "tag": "Tema 2"
+  },
+  "17": {
+    "enunciado": "Entre 1961 y 2024, ¿qué país registró el mayor crecimiento medio anual del PIB per cápita entre los incluidos en el Cuadro 2?",
+    "opciones": [
+      "España, con un 2,4% de crecimiento medio anual.",
+      "Japón, con un 2,8% de crecimiento medio anual.",
+      "Irlanda, con un 3,7% de crecimiento medio anual.",
+      "Portugal, con un 2,7% de crecimiento medio anual."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Irlanda registró el mayor crecimiento medio anual del PIBpc entre 1961 y 2024 (3,7%), por encima de Japón (2,8%), España (2,4%) y Portugal (2,7%), impulsado sobre todo por el período 1986-2024 donde creció a un 4,1% anual.",
+    "tag": "Tema 2"
+  },
+  "18": {
+    "enunciado": "Desde mediados de los años 80 hasta la Gran Recesión de 2008, ¿cómo evolucionó la productividad del trabajo en España relativa a la media de la Eurozona?",
+    "opciones": [
+      "Aumentó de forma continua, superando la media de la Eurozona en 2007.",
+      "Se mantuvo estable, con oscilaciones mínimas en torno al 100% de la Eurozona.",
+      "Experimentó un prolongado descenso, alejándose de la media europea.",
+      "Cayó bruscamente solo en los años de la burbuja inmobiliaria (2003-2007)."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La productividad relativa de España (como porcentaje de la media de la Eurozona) experimentó un prolongado descenso desde finales de los años 80 hasta la Gran Recesión de 2008, en contraste con el fuerte crecimiento del PIBpc impulsado por el empleo.",
+    "tag": "Tema 2"
+  },
+  "19": {
+    "enunciado": "¿Cuál de las siguientes afirmaciones sobre el ascenso de la Población en Edad de Trabajar (PET) en España e Irlanda es correcta?",
+    "opciones": [
+      "Fue más temprano e intenso que en Estados Unidos, gracias a su incorporación pionera al mercado laboral.",
+      "Fue simultáneo al de las economías más desarrolladas de Europa Occidental durante los años 60.",
+      "Fue algo más tardío que en Estados Unidos y se prolongó durante más tiempo, debido al retraso del baby boom y la entrada masiva de inmigrantes.",
+      "Fue exclusivamente resultado de políticas de incentivos a la natalidad impulsadas por la UE."
+    ],
+    "respuesta": "C",
+    "razonamiento": "En países menos desarrollados como España e Irlanda, el ascenso de la PET fue algo más tardío que en Estados Unidos y se prolongó más tiempo, impulsado por el retraso del baby boom y, posteriormente, por la intensa entrada de inmigrantes.",
+    "tag": "Tema 2"
+  },
+  "20": {
+    "enunciado": "¿Por qué la mayor competencia externa y la liberalización de los mercados interiores en España contribuyeron al crecimiento económico?",
+    "opciones": [
+      "Porque eliminaron la competencia de las importaciones, protegiendo la producción nacional.",
+      "Porque incentivaron mejoras en la eficiencia empresarial y la adopción de tecnología, aumentando la PTF.",
+      "Porque redujeron los salarios reales, abaratando los costes productivos.",
+      "Porque generaron déficits comerciales que impulsaron la demanda interna vía importaciones."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La mayor competencia externa y la liberalización de los mercados interiores incentivaron mejoras en la eficiencia, la asignación de recursos y la adopción de nuevas tecnologías, contribuyendo positivamente a la PTF y, por tanto, al crecimiento económico.",
+    "tag": "Tema 2"
+  },
+  "21": {
+    "enunciado": "¿Cuál es el número medio de años de estudio de la población activa en España en 2024, comparado con 1960?",
+    "opciones": [
+      "Prácticamente igual: unos 5 años en ambos períodos.",
+      "Ha aumentado ligeramente de 5,3 años en 1960 a 7 años en 2024.",
+      "Ha crecido enormemente, pasando de 5,3 años en 1960 a más de 12 años en 2024.",
+      "Ha descendido desde los 12 años en 1960 a 5 años en 2024 por la masificación educativa."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El nivel educativo ha crecido enormemente: de apenas 5,3 años de media en 1960 a más de 12 años en 2024. Sin embargo, esta mejora no se ha traducido de manera proporcional en aumentos de productividad, evidenciando desajustes formativos y sobrecualificación.",
+    "tag": "Tema 2"
+  },
+  "22": {
+    "enunciado": "¿Qué factor explica principalmente la elevada tasa de desempleo registrada en las recesiones españolas posteriores a 1986 en comparación con otros países europeos?",
+    "opciones": [
+      "La rigidez salarial al alza, que impide ajustar los salarios nominales.",
+      "La masiva destrucción de empleo ante las perturbaciones, reflejo de un ajuste vía cantidad en lugar de precio.",
+      "El exceso de gasto público en prestaciones por desempleo que desincentiva la búsqueda de empleo.",
+      "La falta de políticas de inmigración que limita el crecimiento de la oferta laboral."
+    ],
+    "respuesta": "B",
+    "razonamiento": "En las recesiones españolas posteriores a 1986, el ajuste del mercado de trabajo se produce principalmente vía cantidad (destrucción masiva de empleo) en lugar de vía precio (reducción de salarios), lo que genera tasas de paro mucho más elevadas que en los países europeos.",
+    "tag": "Tema 2"
+  },
+  "23": {
+    "enunciado": "La masiva entrada de inmigrantes en España durante los años 90 y 2000, ¿qué tipo de shock supuso para la economía?",
+    "opciones": [
+      "Un shock de demanda negativo, al aumentar el gasto público en servicios sociales.",
+      "Un shock de oferta negativo, al presionar a la baja los salarios de los trabajadores nativos.",
+      "Un shock de oferta positivo, al ensanchar la capacidad productiva y el PIB potencial.",
+      "Un shock de demanda positivo exclusivamente, sin efectos sobre la oferta agregada."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La masiva entrada de inmigrantes actuó como un potente shock de oferta positivo: amplió la fuerza laboral, engrosó la Población en Edad de Trabajar y expandió el PIB potencial, contribuyendo al fuerte crecimiento económico del período.",
+    "tag": "Tema 2"
+  },
+  "24": {
+    "enunciado": "¿Qué describe el PIB potencial de una economía?",
+    "opciones": [
+      "La tendencia de la demanda agregada a largo plazo, incluyendo exportaciones e importaciones.",
+      "La capacidad máxima sostenible de crecimiento de la oferta agregada a largo plazo.",
+      "El nivel de PIB que se alcanzaría si no existiera inflación.",
+      "El PIB que se registraría con pleno empleo, sin considerar los factores de capital."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El PIB potencial describe la tendencia o capacidad máxima sostenible de crecimiento de la oferta agregada a largo plazo, determinada por los factores productivos disponibles (trabajo, capital físico, capital humano y PTF).",
+    "tag": "Tema 2"
+  },
+  "25": {
+    "enunciado": "En la contabilidad del capital, ¿se considera el capital residencial (viviendas) como capital directamente productivo?",
+    "opciones": [
+      "Sí, porque genera rendimientos de alquiler que contribuyen al PIB.",
+      "Sí, porque su construcción emplea trabajadores y genera demanda de materiales.",
+      "No, porque en la Contabilidad Nacional no se destina a la producción de bienes y servicios.",
+      "Depende: si la vivienda está alquilada sí se considera productiva; si es propia, no."
+    ],
+    "respuesta": "C",
+    "razonamiento": "En la Contabilidad Nacional, el capital residencial (viviendas) no se clasifica como Capital Directamente Productivo, ya que no se destina a la producción de bienes y servicios, diferenciándose así del capital físico productivo (maquinaria, instalaciones, infraestructuras).",
+    "tag": "Tema 2"
+  }
+}

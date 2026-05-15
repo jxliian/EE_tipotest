@@ -1,0 +1,290 @@
+{
+  "1": {
+    "enunciado": "¿Cómo se definen los 'servicios no destinados a la venta' en el contexto del sector público?",
+    "opciones": [
+      "Son servicios suministrados a través del mercado a precios que cubren íntegramente sus costes de producción.",
+      "Son servicios suministrados por el sector público de forma gratuita o a precios totalmente desvinculados de su coste real.",
+      "Son servicios de baja calidad que el mercado privado no desea ofrecer por ser poco rentables.",
+      "Son servicios exportados gratuitamente a países en desarrollo como parte de la cooperación internacional."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Los servicios no destinados a la venta son aquellos suministrados por el sector público de forma gratuita o a un precio totalmente desvinculado de su coste real de producción, como la sanidad o la educación pública.",
+    "tag": "Tema 5"
+  },
+  "2": {
+    "enunciado": "¿Cuál es la diferencia entre 'servicios progresivos' y 'servicios estancados'?",
+    "opciones": [
+      "Los servicios progresivos son los del sector público y los estancados los del sector privado.",
+      "Los servicios estancados tienen alta productividad gracias a la capitalización tecnológica.",
+      "Los servicios progresivos permiten capitalización e incorporación de tecnología; los estancados muestran enormes dificultades para reducir mano de obra sin mermar la calidad.",
+      "Los servicios progresivos crecen en épocas de expansión y los estancados solo en recesión."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Los servicios progresivos (como las TIC o la banca) permiten una creciente capitalización e incorporación de tecnología para mejorar su productividad. Los servicios estancados (como la peluquería o la enseñanza presencial) muestran enormes dificultades para reducir la mano de obra por unidad de producto sin mermar la calidad.",
+    "tag": "Tema 5"
+  },
+  "3": {
+    "enunciado": "¿Por qué es tan difícil medir la productividad en sectores como la Administración Pública o la Sanidad?",
+    "opciones": [
+      "Porque el sector público no genera ningún tipo de valor añadido contabilizable.",
+      "Porque la producción se estima a menudo mediante los recursos o 'inputs' utilizados, en lugar del resultado real generado.",
+      "Porque estos sectores no están incluidos en las estadísticas de Contabilidad Nacional.",
+      "Porque la productividad de los funcionarios es legalmente confidencial."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Una de las principales dificultades para medir la productividad en servicios como la Administración Pública o la Sanidad es que la producción se estima a menudo mediante los recursos o 'inputs' utilizados, en lugar del verdadero resultado generado (output), lo que hace prácticamente imposible detectar mejoras reales de eficiencia.",
+    "tag": "Tema 5"
+  },
+  "4": {
+    "enunciado": "¿Cuándo pasan a contabilizarse estadísticamente como servicios las actividades terciarias realizadas por empresas industriales?",
+    "opciones": [
+      "Siempre: todas las actividades de servicios se computan en el sector terciario independientemente de quién las realice.",
+      "Solo cuando representan más del 50% del valor añadido de la empresa industrial.",
+      "Únicamente cuando la empresa industrial externaliza esas actividades y las encarga a empresas especializadas del sector servicios.",
+      "Cuando el Estado las regula como actividades de interés general."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Las actividades terciarias producidas internamente por empresas de otros sectores no se contabilizan estadísticamente en el sector servicios. Solo pasan a formar parte del terciario cuando la empresa industrial las externaliza, contratándolas con empresas especializadas del sector.",
+    "tag": "Tema 5"
+  },
+  "5": {
+    "enunciado": "¿Cuál fue el proceso de terciarización en España en comparación con las principales economías de la UE?",
+    "opciones": [
+      "España fue pionera en la terciarización, adelantándose a Francia y Alemania en los años 60.",
+      "España experimentó la terciarización de forma simultánea a los principales países de la UE.",
+      "La terciarización fue relativamente reciente en España (acelerada desde los años 80), mientras que en la UE fue anterior.",
+      "La terciarización en España es aún incompleta, con menos del 50% del empleo en servicios."
+    ],
+    "respuesta": "C",
+    "razonamiento": "En España, el proceso de terciarización fue relativamente reciente, acelerándose a partir de los años ochenta, mientras que en las principales economías de la UE este proceso se experimentó con anterioridad, fruto de su industrialización y desarrollo más temprano.",
+    "tag": "Tema 5"
+  },
+  "6": {
+    "enunciado": "¿Por qué el sector servicios se expande su participación en la producción a precios corrientes pese a tener menor crecimiento de productividad que la industria?",
+    "opciones": [
+      "Porque sus precios han crecido a un ritmo inferior al de los bienes industriales.",
+      "Porque el sector público subvenciona artificialmente la producción de servicios.",
+      "Porque sus precios han crecido a un ritmo marcadamente superior al de los bienes industriales, encarecimiento relativo.",
+      "Porque el empleo en servicios ha caído, elevando el VAB por trabajador."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La expansión del peso de los servicios en la producción a precios corrientes se explica por el encarecimiento relativo de los servicios: sus precios han crecido a un ritmo marcadamente superior al de los bienes industriales, cuya productividad permite reducir costes y contener precios.",
+    "tag": "Tema 5"
+  },
+  "7": {
+    "enunciado": "¿Por qué el desplazamiento del empleo hacia el sector servicios no se debe a su mayor productividad?",
+    "opciones": [
+      "Porque el sector servicios tiene mayor productividad que la industria y atrae más inversión.",
+      "Porque el sector servicios es más intensivo en capital, lo que libera mano de obra para otras actividades.",
+      "Precisamente porque su productividad crece más lentamente, lo que obliga a incorporar mucha más mano de obra para atender los aumentos de demanda.",
+      "Porque la regulación pública obliga a contratar más trabajadores en servicios esenciales."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El empleo se desplaza a los servicios precisamente porque su productividad crece a un ritmo inferior al de la agricultura y la industria, lo que obliga a incorporar mucha más mano de obra para poder atender los aumentos de la demanda.",
+    "tag": "Tema 5"
+  },
+  "8": {
+    "enunciado": "¿Cuál es la principal razón del fuerte avance de los servicios no destinados a la venta en España?",
+    "opciones": [
+      "El mayor gasto de las empresas privadas en servicios de seguridad y mantenimiento.",
+      "El desarrollo del Estado del Bienestar (sanidad y educación) y la profunda descentralización autonómica y local.",
+      "La privatización de servicios que antes realizaba el sector público.",
+      "El crecimiento del turismo que genera demanda de servicios públicos adicionales."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El fuerte avance de los servicios no destinados a la venta se justifica por el desarrollo del Estado del Bienestar (universalización de la sanidad y educación) y por la profunda descentralización de las Administraciones Públicas a nivel autonómico y local.",
+    "tag": "Tema 5"
+  },
+  "9": {
+    "enunciado": "¿Qué peso tiene la hostelería en la producción de servicios en España comparado con la media de la UE-27?",
+    "opciones": [
+      "La hostelería es marginal en España (1%), igual que en la UE-27.",
+      "La hostelería tiene un peso en España (8,9%) muy superior a la media de la UE-27 (3,7%).",
+      "La hostelería en España (3,7%) coincide exactamente con la media europea.",
+      "La hostelería supone el 20% de la producción de servicios en España, siendo el sector dominante."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La hostelería representa en torno a un 8,9% del total de la producción de servicios en España, una cifra que contrasta fuertemente con la media mucho menor del 3,7% en la UE-27, reflejando el peso del turismo en la economía española.",
+    "tag": "Tema 5"
+  },
+  "10": {
+    "enunciado": "¿Cuál es el peso de las actividades sanitarias y de servicios sociales en la producción de servicios en España respecto a la media de la UE-27?",
+    "opciones": [
+      "España (8,4%) supera la media de la UE-27 (10,2%), gracias a su sistema sanitario universal.",
+      "España (8,4%) se sitúa por debajo de la media comunitaria (10,2%), pese a su importancia social.",
+      "España (10,2%) coincide exactamente con la media de la UE-27.",
+      "España (15%) está muy por encima de la UE-27 (8,4%) por la descentralización sanitaria autonómica."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Las actividades sanitarias y de servicios sociales en España tienen un peso relativo (8,4%) netamente inferior a la media comunitaria de la UE-27 (10,2%), a pesar de la importancia social del sistema sanitario universal español.",
+    "tag": "Tema 5"
+  },
+  "11": {
+    "enunciado": "¿Cuál es el principal motor del crecimiento de la producción de servicios en España?",
+    "opciones": [
+      "Las ganancias de productividad, que representan el 39,8% de la aportación al crecimiento.",
+      "El incremento intensivo de la cantidad de empleo, siendo la aportación de la productividad muy reducida (29,8%).",
+      "La inversión extranjera en el sector servicios español.",
+      "El gasto público en subsidios a empresas de servicios."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El principal motor del crecimiento de la producción de servicios en España ha sido el incremento intensivo de la cantidad de empleo, ya que la aportación de las ganancias de productividad ha sido francamente reducida (29,8% en España frente al 39,8% europeo).",
+    "tag": "Tema 5"
+  },
+  "12": {
+    "enunciado": "¿Por qué desciende la productividad en la hostelería española?",
+    "opciones": [
+      "Por la gran dimensión de sus empresas, que genera ineficiencias organizativas.",
+      "Por la saturación del mercado turístico, que reduce el valor añadido por cliente.",
+      "Por una elevada intensidad en trabajo combinada con una reducida dimensión empresarial que impide aprovechar economías de escala.",
+      "Por la excesiva regulación del sector que impide la mecanización de los procesos."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El descenso secular de la productividad en la hostelería se explica por una elevada intensidad en trabajo combinada con una reducida dimensión de las empresas, que les impide aprovechar economías de escala y adoptar soluciones tecnológicas de alta inversión.",
+    "tag": "Tema 5"
+  },
+  "13": {
+    "enunciado": "¿Cuál es la posición de España en términos de productividad por hora trabajada en actividades financieras y de seguros respecto a la media de la UE-27?",
+    "opciones": [
+      "Inferior a la media europea, como en el resto del sector servicios.",
+      "Superior a la media europea, destacando como una anomalía positiva respecto al sector terciario en general.",
+      "Exactamente igual a la media europea, sin diferencia significativa.",
+      "No existe información fiable sobre este subsector en España."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Las actividades financieras y de seguros registran en España unos niveles de productividad por hora trabajada muy superiores y favorables respecto a la media europea, representando una anomalía positiva dentro del panorama general de baja productividad del sector servicios español.",
+    "tag": "Tema 5"
+  },
+  "14": {
+    "enunciado": "¿A qué se debe principalmente el lento avance de la productividad en los servicios españoles?",
+    "opciones": [
+      "A una especialización en actividades con elevada intensidad de capital físico que dificulta el crecimiento del empleo.",
+      "A una especialización en actividades de baja intensidad en capital físico y humano (hostelería, distribución tradicional) muy intensivas en mano de obra no cualificada.",
+      "A la excesiva intervención regulatoria del Estado que bloquea la adopción de nuevas tecnologías.",
+      "A la fuga de talento cualificado hacia el sector industrial y el sector público."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El lento avance de la productividad en los servicios españoles se debe a la especialización en actividades de baja intensidad en capital físico y humano (como la hostelería y la distribución tradicional), que son muy intensivas en mano de obra no cualificada.",
+    "tag": "Tema 5"
+  },
+  "15": {
+    "enunciado": "¿Cuáles son las tendencias recientes de las exportaciones españolas de servicios más allá del turismo?",
+    "opciones": [
+      "Se han concentrado aún más en el turismo, aumentando su dependencia de este sector.",
+      "Han mostrado una tendencia hacia la diversificación, aumentando el peso de servicios a empresas, finanzas y TIC.",
+      "Han caído en términos absolutos por la competencia de los servicios digitales globales.",
+      "Se han especializado exclusivamente en el transporte marítimo y aéreo."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Aunque el turismo sigue siendo el pilar fundamental, las exportaciones españolas de servicios han mostrado una tendencia hacia la diversificación, con un claro aumento de otras actividades terciarias (servicios a empresas, finanzas, telecomunicaciones, TIC).",
+    "tag": "Tema 5"
+  },
+  "16": {
+    "enunciado": "¿Qué efecto redistributivo genera la liberalización de los servicios en España?",
+    "opciones": [
+      "Redistribuye renta desde los consumidores hacia los empresarios del sector, que aumentan sus márgenes.",
+      "Redistribuye renta desde los empresarios y trabajadores del sector hacia los consumidores, al reducir precios.",
+      "No tiene efectos redistributivos, ya que solo afecta a la estructura empresarial del sector.",
+      "Beneficia exclusivamente a los trabajadores del sector, que ven aumentar sus salarios."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La liberalización genera el efecto redistributivo inverso al monopolio: al fomentar la competencia y reducir los precios de los servicios, provoca una redistribución de rentas desde los empresarios (que pierden el poder de fijación de precios) hacia los consumidores.",
+    "tag": "Tema 5"
+  },
+  "17": {
+    "enunciado": "¿Cuántos operadores compiten actualmente en el mercado de alta velocidad ferroviaria en España?",
+    "opciones": [
+      "Uno: Renfe, como operador público en monopolio legal.",
+      "Dos: Renfe y Ouigo.",
+      "Tres: Renfe, Ouigo e Iryo.",
+      "Cuatro: Renfe, Ouigo, Iryo y una empresa regional de Cataluña."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La liberalización del transporte ferroviario de alta velocidad ha resultado en la coexistencia de tres operadores: Renfe (público), Ouigo (filial de la SNCF francesa) e Iryo (consorcio privado liderado por Air Nostrum y Trenitalia), que compiten en el mercado español de AVE.",
+    "tag": "Tema 5"
+  },
+  "18": {
+    "enunciado": "¿Qué prohíbe la normativa vigente respecto a las farmacias en España?",
+    "opciones": [
+      "La apertura de farmacias de más de 200 metros cuadrados en zonas residenciales.",
+      "La venta online de medicamentos sin receta.",
+      "Cualquier tipo de estrategia de integración vertical u horizontal, exigiendo titularidad personal de un farmacéutico colegiado.",
+      "La prescripción de medicamentos genéricos en lugar de los de marca."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La regulación vigente de oficinas de farmacia en España prohíbe expresamente cualquier tipo de estrategia de integración (vertical con laboratorios o distribuidores, u horizontal mediante cadenas corporativas), siendo obligatoria la titularidad personal de un farmacéutico colegiado.",
+    "tag": "Tema 5"
+  },
+  "19": {
+    "enunciado": "¿Qué tendencia reciente presenta el mercado de telefonía móvil en España respecto a la concentración?",
+    "opciones": [
+      "Tendencia hacia la fragmentación: los grandes operadores pierden cuota frente a los operadores virtuales.",
+      "Tendencia hacia la concentración: los tres operadores dominantes superan el 90% de la cuota de mercado en 2024.",
+      "Estabilidad: la cuota de mercado se ha mantenido constante en los últimos 10 años.",
+      "Desconcentración por mandato regulatorio de la CNMC que forzó a dividir las grandes empresas."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La tendencia reciente muestra un proceso de intensa concentración en el mercado de telefonía móvil español. En 2024, la cuota de mercado combinada de los tres operadores dominantes supera claramente el 90%, a pesar del proceso previo de apertura a la competencia.",
+    "tag": "Tema 5"
+  },
+  "20": {
+    "enunciado": "¿Por qué la existencia de diferentes normativas en las regiones españolas para el sector de la distribución comercial supone un obstáculo?",
+    "opciones": [
+      "Porque impide la importación de productos extranjeros en algunas regiones.",
+      "Porque las disparidades normativas autonómicas fragmentan el mercado, lastrando el desarrollo de estrategias comerciales integradas a nivel nacional.",
+      "Porque obliga a las grandes superficies a contratar exclusivamente trabajadores locales.",
+      "Porque genera doble imposición fiscal sobre los mismos productos en distintas comunidades."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Las notables disparidades normativas autonómicas (en horarios, rebajas, fiscalidad y licencias) fragmentan de facto la unidad de mercado, lastrando el desarrollo de estrategias comerciales integradas a nivel nacional por parte de las grandes cadenas de distribución.",
+    "tag": "Tema 5"
+  },
+  "21": {
+    "enunciado": "¿Cuál es el concepto de 'sector refugio' aplicado al sector servicios?",
+    "opciones": [
+      "El sector servicios actúa como refugio de inversión en épocas de incertidumbre bursátil.",
+      "El sector servicios absorbe mano de obra expulsada de otros sectores gracias a sus bajas barreras de entrada y el predominio de pymes.",
+      "El sector servicios refugia a las empresas industriales que externalizan sus actividades auxiliares.",
+      "El sector servicios protege a las economías de los ciclos de precios de las materias primas."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El concepto de 'sector refugio' se apoya en que las reducidas barreras de entrada, los bajos requerimientos de capital y el predominio de pequeñas empresas permiten que el sector servicios absorba mano de obra expulsada de otros sectores en épocas de dificultad económica.",
+    "tag": "Tema 5"
+  },
+  "22": {
+    "enunciado": "¿Qué factor explica principalmente que el sector servicios aumente su participación relativa en la economía durante las etapas de crisis?",
+    "opciones": [
+      "Su mayor crecimiento de la demanda durante las crisis por ser bienes inferiores.",
+      "Su mayor capacidad de exportación que compensa la caída de la demanda interna.",
+      "Su menor sensibilidad a las fluctuaciones cíclicas respecto a la industria y la construcción.",
+      "Las subvenciones públicas que recibe el sector durante las recesiones para mantener el empleo."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El sector servicios tiende a aumentar su participación relativa en la economía durante las crisis porque es menos sensible a las fluctuaciones cíclicas extremas que la industria o la construcción, por lo que su peso relativo aumenta automáticamente cuando estos sectores caen con fuerza.",
+    "tag": "Tema 5"
+  },
+  "23": {
+    "enunciado": "¿Cuál de los siguientes sectores de la balanza de servicios española también registra superávit comercial, además del turismo?",
+    "opciones": [
+      "Solo el turismo registra superávit; el resto de servicios tiene déficit estructural.",
+      "Los transportes, telecomunicaciones, informática y otros servicios empresariales.",
+      "Los servicios sanitarios, ya que España exporta servicios de salud a países europeos.",
+      "Los servicios educativos, gracias a la creciente exportación de enseñanza universitaria."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Aunque el turismo es el principal aportador neto de la balanza de servicios, no es el único sector superavitario. Transportes, telecomunicaciones, informática y otros servicios empresariales también registran sólidos superávits en el comercio exterior de servicios español.",
+    "tag": "Tema 5"
+  },
+  "24": {
+    "enunciado": "¿Qué tipo de servicios ha estado históricamente muy protegido de la competencia internacional en España (excepción hecha del turismo)?",
+    "opciones": [
+      "Los servicios financieros, por la especial protección de la banca nacional.",
+      "La mayor parte de las actividades terciarias, al haber estado al margen de la competencia internacional.",
+      "Los servicios de telecomunicaciones, por el monopolio estatal de Telefónica.",
+      "Solo la Administración Pública, el resto estaba completamente abierto a la competencia."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Históricamente, y a excepción de sectores específicos como el turismo, la inmensa mayoría de las actividades terciarias españolas han estado muy protegidas y al margen de la competencia internacional, lo que ha frenado la modernización y las ganancias de productividad.",
+    "tag": "Tema 5"
+  }
+}

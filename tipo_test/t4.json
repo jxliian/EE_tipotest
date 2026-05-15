@@ -1,0 +1,290 @@
+{
+  "1": {
+    "enunciado": "¿Por qué se considera al sector energético como estratégico para el conjunto de la economía, más allá de su propio valor productivo?",
+    "opciones": [
+      "Porque emplea a la mayor parte de la mano de obra industrial del país.",
+      "Porque genera los mayores ingresos de exportación de la economía española.",
+      "Porque es un input fundamental que, al ganar en eficiencia, genera efectos de arrastre que benefician al resto de actividades productivas.",
+      "Porque su regulación determina el tipo de cambio y las condiciones monetarias del país."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La energía actúa como input fundamental para el resto de los sectores productivos. Al ser un insumo universal, los avances en eficiencia energética generan efectos de arrastre directos sobre la competitividad de todas las demás actividades económicas.",
+    "tag": "Tema 4"
+  },
+  "2": {
+    "enunciado": "¿Cuál es el sector económico que mayor cantidad de energía consume en España?",
+    "opciones": [
+      "Los servicios, especialmente el turismo y la hostelería.",
+      "La industria, que es el mayor consumidor de energía.",
+      "El transporte, como principal consumidor de combustibles fósiles.",
+      "La construcción, por el intenso uso de maquinaria pesada."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La industria es el sector que mayor cantidad de energía consume, actuando a su vez como proveedor de bienes de equipo para el resto de sectores.",
+    "tag": "Tema 4"
+  },
+  "3": {
+    "enunciado": "¿Cuál es el grado de autoabastecimiento energético de España respecto a sus necesidades de energía primaria?",
+    "opciones": [
+      "Aproximadamente el 70%, gracias al desarrollo de las energías renovables.",
+      "Prácticamente el 100%, siendo España autosuficiente en energía.",
+      "En torno al 30%, con una fuerte dependencia del exterior.",
+      "Alrededor del 50%, similar a la media de la Unión Europea."
+    ],
+    "respuesta": "C",
+    "razonamiento": "España mantiene históricamente un fuerte desajuste en su balance energético, con un grado de autoabastecimiento de solo el 30% de las necesidades de energía primaria, dependiendo del exterior para el 70% restante.",
+    "tag": "Tema 4"
+  },
+  "4": {
+    "enunciado": "En el mercado español de hidrocarburos, ¿qué estructura de mercado predomina tras los procesos de privatización?",
+    "opciones": [
+      "Competencia perfecta, con decenas de empresas de similar tamaño compitiendo.",
+      "Monopolio estatal, con Repsol como empresa pública dominante.",
+      "Oligopolio: Repsol, Cepsa y BP controlan más del 70% del mercado.",
+      "Duopolio entre Repsol e Iberdrola con cuota conjunta del 85%."
+    ],
+    "respuesta": "C",
+    "razonamiento": "A pesar de las privatizaciones, se ha mantenido un elevado grado de concentración en el sector de hidrocarburos: Repsol, Cepsa y BP conforman un oligopolio que controla más del 70% del mercado.",
+    "tag": "Tema 4"
+  },
+  "5": {
+    "enunciado": "¿Quién ostenta el monopolio del transporte de electricidad en alta tensión en España?",
+    "opciones": [
+      "Iberdrola, como empresa privada líder del sector.",
+      "Endesa, heredera del antiguo grupo público.",
+      "Red Eléctrica Española (REE), que actúa como monopolio natural regulado.",
+      "El mercado opera en régimen de libre competencia entre varios operadores."
+    ],
+    "respuesta": "C",
+    "razonamiento": "En la fase de transporte en alta tensión no existe libre competencia: el monopolio lo ostenta exclusivamente Red Eléctrica Española, que actúa como operador del sistema bajo supervisión regulatoria.",
+    "tag": "Tema 4"
+  },
+  "6": {
+    "enunciado": "¿Qué transformación caracterizó principalmente la estructura de la demanda energética española durante los años noventa?",
+    "opciones": [
+      "La sustitución del gas natural por energías renovables.",
+      "La sustitución del petróleo por el gas natural como fuente energética.",
+      "La electrificación masiva de la industria en detrimento del carbón.",
+      "La introducción de la energía nuclear como fuente principal de generación eléctrica."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Durante la década de los 90, la transformación principal de la estructura de la demanda energética en España se centró en la sustitución del petróleo por el gas natural, que ganó cuota en usos industriales, residenciales y en la generación eléctrica.",
+    "tag": "Tema 4"
+  },
+  "7": {
+    "enunciado": "¿Qué diferencia al concepto de 'industria' según el Sistema Europeo de Cuentas (SEC) del uso coloquial del término?",
+    "opciones": [
+      "El SEC incluye en industria a la construcción, mientras que el uso coloquial la excluye.",
+      "El SEC considera industria únicamente las actividades manufactureras, excluyendo las extractivas.",
+      "El SEC incluye tanto las manufacturas como la minería, el petróleo y el gas natural.",
+      "El SEC considera industria todo aquello que genera bienes físicos tangibles, incluyendo la pesca."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El Sistema Europeo de Cuentas (SEC) delimita y considera como industria exclusivamente a las actividades manufactureras, excluyendo a las actividades extractivas (minería, petróleo, gas), que se clasifican en otro sector.",
+    "tag": "Tema 4"
+  },
+  "8": {
+    "enunciado": "¿Cuáles son las 'ramas industriales de demanda fuerte' según la clasificación por tipo de demanda?",
+    "opciones": [
+      "Sectores tradicionales como el textil, la siderurgia y el calzado, por su estabilidad histórica.",
+      "Las ramas de más reciente desarrollo e innovación: aeroespacial, electrónica y farmacéutica.",
+      "Las ramas con mayor número de empleados: automoción, alimentación y construcción.",
+      "Las ramas con mayor cobertura de exportación: alimentación, vinos y aceite de oliva."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Las ramas de demanda fuerte son las de más reciente desarrollo y mayor intensidad innovadora (como aeroespacial, electrónica y productos farmacéuticos), mientras que los sectores tradicionales como el textil o la siderurgia se encuadran en las ramas de demanda débil.",
+    "tag": "Tema 4"
+  },
+  "9": {
+    "enunciado": "¿Por qué la progresiva externalización de servicios TIC e informáticos por parte de empresas industriales reduce estadísticamente el peso de la industria en el PIB?",
+    "opciones": [
+      "Porque las empresas TIC no tributan y sus ingresos no se computan en el PIB.",
+      "Porque los servicios externalizados pasan a contabilizarse en el sector servicios, reduciendo el VAB medido en industria.",
+      "Porque la externalización destruye empleo industrial que no se compensa en el sector servicios.",
+      "Porque las empresas exteriorizan solo los servicios de menor valor añadido, reduciendo su VAB."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La externalización de servicios TIC y digitales genera el efecto estadístico de reducir el peso de la industria: esos recursos que antes se producían internamente (y contabilizaban en el VAB industrial) pasan ahora a contabilizarse dentro del sector servicios.",
+    "tag": "Tema 4"
+  },
+  "10": {
+    "enunciado": "¿Cómo compara la volatilidad cíclica de la producción industrial española respecto al conjunto de la economía?",
+    "opciones": [
+      "La industria es más estable que la economía en general, actuando como sector de refugio.",
+      "La industria presenta una fluctuación cíclica similar a la del conjunto de la economía.",
+      "La industria española sufre mayor intensidad de fluctuaciones cíclicas: cae más en recesión y sube más en expansión.",
+      "La industria es más estable en recesión pero más volátil en expansión."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La industria española sufre una mayor intensidad de fluctuaciones cíclicas, retrocediendo notablemente más en las fases depresivas y avanzando también más rápido en las fases de recuperación en comparación con la economía general.",
+    "tag": "Tema 4"
+  },
+  "11": {
+    "enunciado": "¿En qué consiste la 'desindustrialización' que comparte España con las principales economías europeas?",
+    "opciones": [
+      "La desaparición total de la industria manufacturera y su sustitución por servicios.",
+      "La pérdida de peso relativo de la manufactura en el VAB y en el empleo.",
+      "El traslado de todas las fábricas a países asiáticos de menor coste.",
+      "La incapacidad de la industria española para exportar en mercados internacionales."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La desindustrialización es la pérdida de peso relativo de la industria manufacturera tanto en el VAB como en la generación de empleo, tendencia que España comparte con las principales economías europeas, aunque no implica la desaparición del sector.",
+    "tag": "Tema 4"
+  },
+  "12": {
+    "enunciado": "¿En qué consiste la 'fragmentación internacional de la producción' o deslocalización?",
+    "opciones": [
+      "Trasladar las fases más innovadoras y tecnológicas a países emergentes con mayor capital humano.",
+      "Concentrar toda la producción en un único país para obtener economías de escala.",
+      "Trasladar las fases más rutinarias e intensivas en trabajo a economías de menor renta, conservando las de mayor valor en países desarrollados.",
+      "Diversificar la producción entre múltiples países para reducir el riesgo geopolítico."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La deslocalización y fragmentación consiste en trasladar hacia economías con menores salarios las fases más rutinarias e intensivas en trabajo (fabricación), conservando las de mayor valor tecnológico (diseño, I+D, marketing) en los países desarrollados.",
+    "tag": "Tema 4"
+  },
+  "13": {
+    "enunciado": "¿Qué ha impulsado el fenómeno del 'retorno' o 'reshoring' de la actividad industrial a los países de origen?",
+    "opciones": [
+      "El abaratamiento del transporte internacional, que hace menos costoso producir lejos.",
+      "El encarecimiento de los costes del transporte, la reducción de diferenciales salariales y los riesgos de las cadenas globales.",
+      "Los incentivos fiscales de los países desarrollados para atraer fabricación.",
+      "La mejora de la calidad de los productos fabricados en países emergentes."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El retorno de la actividad industrial se ve impulsado por el encarecimiento de los costes del transporte internacional, la reducción gradual de los diferenciales salariales con los países emergentes y la toma de conciencia sobre los riesgos de las cadenas de suministro globales.",
+    "tag": "Tema 4"
+  },
+  "14": {
+    "enunciado": "¿Cómo se financian principalmente las actividades industriales de alta intensidad tecnológica en España?",
+    "opciones": [
+      "Mayoritariamente por capital residente nacional, gracias al ahorro interno de las pymes.",
+      "Por capital público del Estado a través de las empresas de la SEPI.",
+      "En más del 50% por capital extranjero, siendo la propiedad de residentes más frecuente en las ramas tradicionales.",
+      "Por fondos de la UE a través del FEDER destinados exclusivamente a pymes innovadoras."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Las actividades industriales de mayor requerimiento tecnológico en España han estado fuertemente impulsadas por la penetración de capital extranjero (generando más del 50% de su VAB), mientras que la propiedad de residentes predomina en las ramas tradicionales de baja tecnología.",
+    "tag": "Tema 4"
+  },
+  "15": {
+    "enunciado": "¿Cuál fue la mejora de competitividad en costes obtenida por la industria española durante la Gran Recesión?",
+    "opciones": [
+      "Una devaluación nominal de la moneda que abarató automáticamente los precios de exportación.",
+      "Una devaluación interna mediante la destrucción masiva de empleo, el cierre de empresas ineficientes y la moderación salarial.",
+      "Una mejora de la productividad por innovación tecnológica que redujo los costes unitarios.",
+      "Una reducción de los costes energéticos por la caída del precio del petróleo."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Al no poder devaluar la moneda (dentro del euro), durante la Gran Recesión se obtuvo una mejora en competitividad mediante una 'devaluación interna': destrucción masiva de empleo, cierre de empresas ineficientes y aplicación de contención salarial.",
+    "tag": "Tema 4"
+  },
+  "16": {
+    "enunciado": "¿Cuál fue la tasa media de crecimiento de la productividad laboral en la industria española entre 1995 y 2024?",
+    "opciones": [
+      "3,5%, superior a la media de la Eurozona.",
+      "1,9%, igual a la media de la Eurozona.",
+      "1,4%, inferior a la media de la Eurozona (1,9%).",
+      "0,5%, muy inferior incluso a los países periféricos de la Eurozona."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Entre 1995 y 2024, la productividad laboral en la industria española aumentó a una tasa media del 1,4%, siendo inferior al promedio del 1,9% alcanzado por los países de la Eurozona, evidenciando el déficit productivo relativo del sector.",
+    "tag": "Tema 4"
+  },
+  "17": {
+    "enunciado": "¿En qué se caracteriza la 'paradoja' del dinamismo exportador de la industria española?",
+    "opciones": [
+      "Las exportaciones crecen a pesar de tener precios superiores a los competidores.",
+      "Las exportaciones crecen por la calidad inferior que permite ofrecer precios muy bajos.",
+      "Las exportaciones crecen gracias a determinadas producciones que ofrecen una relación calidad-precio favorable, compitiendo con mano de obra comparativamente más barata.",
+      "Las exportaciones crecen exclusivamente por la debilidad del euro frente al dólar."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El éxito exportador de la industria española radica en la mayor calidad relativa de ciertas producciones que, combinada con mano de obra comparativamente más barata que en los países europeos más avanzados, ofrece una relación calidad-precio muy favorable en los mercados internacionales.",
+    "tag": "Tema 4"
+  },
+  "18": {
+    "enunciado": "¿Cuál es el objetivo de la SEPI (Sociedad Estatal de Participaciones Industriales)?",
+    "opciones": [
+      "Revertir las privatizaciones de los años 90 para recuperar el control estatal de la industria.",
+      "Reordenar, integrar y administrar eficientemente las empresas del remanente del sector público empresarial.",
+      "Financiar a través de crédito blando las inversiones industriales de las pymes españolas.",
+      "Regular la competencia en los mercados industriales junto a la CNMC."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La SEPI no fue concebida para revertir las privatizaciones, sino para reordenar, integrar y administrar eficientemente las empresas que aún formaban parte del remanente del sector público empresarial tras los procesos de privatización de los años 90.",
+    "tag": "Tema 4"
+  },
+  "19": {
+    "enunciado": "¿Qué tipo de política industrial predomina actualmente en España?",
+    "opciones": [
+      "Política 'vertical', centrada en proteger ramas específicas mediante subvenciones directas y aranceles.",
+      "Política 'horizontal', dirigida a mejorar las condiciones generales competitivas de todas las empresas.",
+      "Política de 'campeones nacionales', apoyando a grandes grupos industriales con capital público.",
+      "Política de intervención directa en precios y producción, heredada del período franquista."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La política industrial española actual se concibe de naturaleza 'horizontal', dirigiéndose a mejorar las condiciones generales competitivas de todas las empresas mediante estímulos a la innovación, formación e internacionalización, en lugar de proteger verticalmente ramas específicas.",
+    "tag": "Tema 4"
+  },
+  "20": {
+    "enunciado": "¿Qué rasgos caracterizan a las actividades industriales tradicionales (ramas de demanda débil) en España?",
+    "opciones": [
+      "Gran dimensión empresarial, alta intensidad tecnológica y exportación masiva a mercados globales.",
+      "Pequeña dimensión empresarial, menor intensidad tecnológica y orientación principalmente al mercado interno.",
+      "Dependencia del capital extranjero para financiar su modernización tecnológica.",
+      "Alta cualificación de la mano de obra y elevados salarios respecto a los sectores avanzados."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Las actividades industriales tradicionales en España se caracterizan por una pequeña dimensión media empresarial, una menor cantidad de capital físico, humano y tecnológico, y orientación predominante al mercado interno, operando con mayor intensidad de recursos naturales y trabajo.",
+    "tag": "Tema 4"
+  },
+  "21": {
+    "enunciado": "¿Qué consecuencia ha tenido la deslocalización hacia países del este de Europa sobre las exportaciones españolas de manufacturas TIC?",
+    "opciones": [
+      "Ha favorecido a España al especializarse en la fase de diseño y I+D de las TIC.",
+      "Ha aumentado las exportaciones españolas TIC al acceder a nuevos mercados orientales.",
+      "Ha mermado la cuota exportadora española de manufacturas TIC, al trasladarse las multinacionales tecnológicas a Hungría, Polonia y República Checa.",
+      "No ha tenido efecto porque España nunca tuvo presencia relevante en la exportación de TIC."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Las grandes empresas multinacionales tecnológicas se deslocaliz aron hacia países del este europeo como Hungría, República Checa y Polonia, superando las cuotas exportadoras españolas y mermando su participación en el comercio mundial de manufacturas TIC.",
+    "tag": "Tema 4"
+  },
+  "22": {
+    "enunciado": "¿Cuál es la visión histórica predominante en España sobre la política industrial?",
+    "opciones": [
+      "Una visión intervencionista que apostaba por la creación de 'campeones nacionales'.",
+      "Una visión liberal que desconfiaba de la viabilidad de la intervención pública directa.",
+      "Una visión mixta, combinando proteccionismo exterior con liberalismo interior.",
+      "Una visión socialista, con la mayor parte del tejido industrial en manos del Estado."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Históricamente ha prevalecido en España una política industrial de corte netamente liberal, caracterizada por su desconfianza ante la viabilidad de recurrir a la intervención pública directa para desarrollar el sector industrial.",
+    "tag": "Tema 4"
+  },
+  "23": {
+    "enunciado": "¿Cómo ha afectado la pandemia de COVID-19 a la cuota de participación española en la producción industrial de la UE?",
+    "opciones": [
+      "Ha permitido a España recuperar y superar su cuota histórica gracias a los fondos Next Generation.",
+      "La pandemia no ha tenido efecto significativo sobre la cuota industrial española en la UE.",
+      "Tras la pandemia, la participación relativa de la industria española en la producción industrial de la UE volvió a reducirse.",
+      "Ha aumentado la cuota industrial española al reforzarse las cadenas de valor europeas."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Tras la pandemia de COVID-19, en lugar de superar su cuota, la participación relativa de la industria española en la producción industrial total de la Unión Europea volvió a reducirse, continuando la tendencia de pérdida de peso relativo.",
+    "tag": "Tema 4"
+  },
+  "24": {
+    "enunciado": "¿Cuál de las siguientes afirmaciones sobre la industria manufacturera y sus características frente a otros sectores es correcta?",
+    "opciones": [
+      "Tiene menor productividad que los servicios porque usa tecnología más antigua.",
+      "Es más susceptible de incorporar el progreso técnico que ahorra mano de obra, lo que le confiere mayor productividad.",
+      "Tiene la misma productividad que los servicios pero mayor estabilidad en el empleo.",
+      "Su productividad depende exclusivamente de la cualificación de la mano de obra."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La industria manufacturera presenta una productividad laboral mayor que la agricultura y los servicios porque es más susceptible de incorporar el progreso técnico que ahorra mano de obra, mediante la automatización, la robotización y la digitalización de procesos.",
+    "tag": "Tema 4"
+  }
+}
