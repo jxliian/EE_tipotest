@@ -1,0 +1,1633 @@
+[
+  {
+    "enunciado": "En la balanza de pagos, España acostumbra a presentar un déficit en:",
+    "opciones": [
+      "A. Cuenta comercial.",
+      "B. Cuenta de capital.",
+      "C. Cuenta de Servicios.",
+      "D. Todas las otras opciones son falsas."
+    ],
+    "respuesta": "A",
+    "razonamiento": "España presenta déficit estructural en la cuenta comercial porque importa más bienes de los que exporta.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "En la balanza de pagos, España ha presentado siempre un superávit en la:",
+    "opciones": [
+      "A. Cuenta comercial.",
+      "B. Cuentas de rentas secundarias.",
+      "C. Cuenta de rentas primarias.",
+      "D. Cuenta de Servicios."
+    ],
+    "respuesta": "D",
+    "razonamiento": "España presenta superávit en la cuenta de servicios gracias principalmente al turismo.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "Respecto a la distribución geográfica del comercio internacional español se puede afirmar:",
+    "opciones": [
+      "A. La unión europea es nuestro principal cliente (principal destino de las exportaciones).",
+      "B. La mayor parte de las importaciones proceden de los países de la OPEP.",
+      "C. China es responsable de la mayor parte de las importaciones españolas.",
+      "D. España mantiene un saldo comercial positivo con los países de la OPEP."
+    ],
+    "respuesta": "A",
+    "razonamiento": "La UE es el principal destino de las exportaciones españolas, absorbiendo más del 60% del total.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "La cuenta de capital ha estado normalmente en superávit debido a:",
+    "opciones": [
+      "A. La importancia del turismo.",
+      "B. Las rentas del capital que España ingresa por vender activos intangibles al exterior.",
+      "C. Las remesas de migrantes.",
+      "D. Las transferencias de los Fondos de Cohesión de la Unión Europea."
+    ],
+    "respuesta": "D",
+    "razonamiento": "La cuenta de capital recoge las transferencias de capital, entre las que destacan los Fondos de Cohesión y Estructurales de la UE.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "Si España experimenta un crecimiento económico superior al de sus socios comerciales es de esperar que:",
+    "opciones": [
+      "A. La cuenta comercial registre un superávit.",
+      "B. Las importaciones y exportaciones no se vean afectadas.",
+      "C. Las exportaciones crezcan más que las importaciones.",
+      "D. Las importaciones crezcan más que las exportaciones."
+    ],
+    "respuesta": "D",
+    "razonamiento": "Un mayor crecimiento interno eleva la renta y el consumo, lo que incrementa las importaciones más que las exportaciones.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "Durante la crisis económica que empezó en el 2008, España logra reducir su déficit comercial mediante:",
+    "opciones": [
+      "A. Políticas de devaluación interna.",
+      "B. Mediante la devaluación de la moneda.",
+      "C. No logra reducir el déficit comercial durante la crisis, el déficit comercial empeoró.",
+      "D. Consiguiendo una tasa de crecimiento económico superior a la de los países de la OECD."
+    ],
+    "respuesta": "A",
+    "razonamiento": "Sin poder devaluar el euro, España recurrió a la devaluación interna (reducción de costes y precios) para ganar competitividad.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "Entre los factores principales que explican el comportamiento de las importaciones encontramos:",
+    "opciones": [
+      "A. Cambios en la demanda internacional.",
+      "B. Cambios en las preferencias individuales.",
+      "C. Los cambios en la renta. A mayor renta, mayores importaciones.",
+      "D. Los cambios en la renta. A menor renta, mayores importaciones."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Las importaciones dependen principalmente de la renta interna: a mayor renta, mayor consumo de bienes importados.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "Durante la crisis económica que comenzó en el 2008 el déficit comercial español:",
+    "opciones": [
+      "A. Ha aumentado gracias al incremento del desempleo.",
+      "B. Se ha visto reducido debido a una disminución de las importaciones y fomento de las exportaciones.",
+      "C. Se ha visto reducido gracias a que España devaluó su moneda.",
+      "D. Ha incrementado gracias al aumento del precio del petróleo."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La caída de la demanda interna redujo las importaciones y las reformas de competitividad fomentaron las exportaciones.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "Parte del ajuste exterior a partir de 2008 se logró gracias a:",
+    "opciones": [
+      "A. La devaluación del euro por parte del Banco Central Europeo.",
+      "B. La caída de los precios del petróleo.",
+      "C. La política monetaria restrictiva del Banco Central Europeo.",
+      "D. El incremento de los salarios en España."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La caída del precio del petróleo redujo la factura energética importada, contribuyendo a mejorar el saldo exterior.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "España tiene una ventaja comercial en:",
+    "opciones": [
+      "A. Productos energéticos.",
+      "B. Bienes de equipo de alto contenido tecnológico.",
+      "C. Bienes de consumo derivados de la agricultura.",
+      "D. Bienes intermedios."
+    ],
+    "respuesta": "C",
+    "razonamiento": "España presenta ventaja comparativa en productos agroalimentarios y bienes de consumo derivados de la agricultura.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "La inversión extranjera directa:",
+    "opciones": [
+      "A. Es un tipo de inversión cuyo objetivo es a largo plazo.",
+      "B. Puede implicar la compra de una empresa existente en el exterior.",
+      "C. Puede implicar la creación de una nueva filial en el exterior.",
+      "D. Todas las otras opciones son correctas."
+    ],
+    "respuesta": "D",
+    "razonamiento": "La IED incluye todas estas modalidades: es a largo plazo, puede realizarse mediante adquisición o creación de nueva filial.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "La inversión extranjera directa que tiene lugar cuando la matriz establece plantas en otros mercados para desarrollar la misma actividad económica que en origen es:",
+    "opciones": [
+      "A. Una inversión horizontal.",
+      "B. Una inversión vertical.",
+      "C. Una fusión o adquisición.",
+      "D. Una inversión diversificada o conglomerada."
+    ],
+    "respuesta": "A",
+    "razonamiento": "La IED horizontal replica la misma actividad de la empresa matriz en el país de destino.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "La inversión extranjera directa que tiene lugar cuando la matriz reparte el proceso de producción en varios países es:",
+    "opciones": [
+      "A. Una inversión horizontal.",
+      "B. Una fusión o adquisición.",
+      "C. Una inversión diversificada o conglomerada.",
+      "D. Una inversión vertical."
+    ],
+    "respuesta": "D",
+    "razonamiento": "La IED vertical fragmenta la cadena de producción entre distintos países para aprovechar ventajas comparativas.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "Si una instructora de Ski en Sierra Nevada suele buscar trabajo para los meses de invierno. Dicha instructora solo trabaja y busca trabajo en invierno. En la actualidad, mes de mayo, dicha instructora no se encuentra trabajando y forma parte de:",
+    "opciones": [
+      "A. Población empleada.",
+      "B. Población activa.",
+      "C. Población inactiva.",
+      "D. Población desempleada."
+    ],
+    "respuesta": "C",
+    "razonamiento": "En mayo no busca trabajo (solo lo hace en invierno), por lo que forma parte de la población inactiva.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "Si la tasa de empleo de un país es igual al 75%, ello nos indica que:",
+    "opciones": [
+      "A. El 25% restante hace referencia a la población cuya edad es inferior a 16 años.",
+      "B. El 25% restante de la población mayor de 16 años forma parte de la población inactiva.",
+      "C. El 25% restante de la población mayor de 16 años pertenece a la población desempleada.",
+      "D. Ninguna de las otras opciones es correcta."
+    ],
+    "respuesta": "D",
+    "razonamiento": "La tasa de empleo es el cociente entre ocupados y población en edad de trabajar; el 25% restante incluye tanto inactivos como desempleados.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "Entre los factores que explican la favorable evolución del mercado de trabajo en España entre 1995 y 2007 está:",
+    "opciones": [
+      "A. El fuerte crecimiento de los precios.",
+      "B. La subida de las prestaciones por desempleo.",
+      "C. La fuerte inversión en sectores intensivos en mano de obra, como la construcción.",
+      "D. La subida de los salarios."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El boom de la construcción y el turismo, sectores muy intensivos en mano de obra, explican la fuerte creación de empleo del periodo.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes afirmaciones es VERDADERA?",
+    "opciones": [
+      "A. La tasa de paro es el resultado de dividir la población parada entre la población potencialmente activa.",
+      "B. El paro registrado y el paro EPA de una economía coinciden.",
+      "C. Aquellas personas que se dedican solo a estudiar forman parte de la población inactiva.",
+      "D. Todas las otras respuestas son verdaderas."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Las personas que solo estudian y no buscan empleo son población inactiva según la EPA.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "Si un joven parado español emigra a otro país, ¿Cómo afecta este hecho al mercado de trabajo en España?",
+    "opciones": [
+      "A. La población activa, potencialmente activa y parada se reducen en España.",
+      "B. La tasa de actividad se reduce, la tasa de ocupación disminuye y la tasa de paro disminuye.",
+      "C. La población activa, inactiva, ocupada y parada se reducen.",
+      "D. La tasa de actividad disminuye, la tasa de ocupación no varía y la tasa de paro tampoco."
+    ],
+    "respuesta": "A",
+    "razonamiento": "Al emigrar, el joven sale de la población activa (parado) y también de la población potencialmente activa española.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "El mercado de trabajo español se caracteriza por:",
+    "opciones": [
+      "A. Experimentar una fuerte creación de empleo en las fases recesivas y una elevada destrucción de empleo en las expansivas.",
+      "B. Tener una reducida tasa de temporalidad.",
+      "C. Contar con una tasa de actividad y ocupación más alta que la media comunitaria.",
+      "D. Experimentar fases recurrentes de creación y destrucción de empleo. Las primeras suceden durante las fases expansivas, y la segunda durante las fases recesivas."
+    ],
+    "respuesta": "D",
+    "razonamiento": "El mercado laboral español se caracteriza por alta volatilidad: crea mucho empleo en expansión y lo destruye rápidamente en recesión.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "El incremento de la población activa y la tasa de actividad en el mercado de trabajo español desde 1985 hasta 2007 se deben a:",
+    "opciones": [
+      "A. El baby boom de los sesenta.",
+      "B. Incorporación de la mujer al mercado de trabajo.",
+      "C. Entrada de inmigrantes.",
+      "D. Todas."
+    ],
+    "respuesta": "D",
+    "razonamiento": "Los tres factores contribuyeron simultáneamente al fuerte aumento de la población activa española en ese periodo.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "En relación al mercado de trabajo español y de la UE, indique cuál de las siguientes afirmaciones es verdadera:",
+    "opciones": [
+      "A. La tasa de paro juvenil es muy superior a la de la población general. Ello es así tanto en España como en la UE.",
+      "B. En España la tasa de paro juvenil es muy superior a la población general. En cambio, en la UE la tasa de paro general y la juvenil son muy similares.",
+      "C. En la UE sucede que a mayor nivel de estudios menor es la tasa de paro. En cambio, en España ello no sucede.",
+      "D. Siempre hay diferencias importantes entre hombres y mujeres en España. Ello no sucede en la UE."
+    ],
+    "respuesta": "A",
+    "razonamiento": "El paro juvenil duplica o triplica al paro general tanto en España como en el conjunto de la UE.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "Con la llegada de la democracia a España, se suceden varias reformas a finales de los 70 y en 1980 que afectan al mercado de trabajo. ¿Cuál de las siguientes afirmaciones es FALSA en relación a los cambios sucedidos?",
+    "opciones": [
+      "A. Se introducen las prestaciones por desempleo.",
+      "B. No hay cambios relevantes en los costes de despido.",
+      "C. Hay cambios relevantes en los costes de despido.",
+      "D. Se reduce la flexibilidad salarial."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Tras la democracia no se produjeron cambios relevantes en los costes de despido, que continuaron siendo elevados. La afirmación C es falsa.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "El gasto destinado a asesorar y apoyar al parado, a formarlo e, incluso, subvencionar su contratación hace referencia a:",
+    "opciones": [
+      "A. Políticas activas de mercado de trabajo.",
+      "B. Prestación por desempleo.",
+      "C. Costes de despido.",
+      "D. Ninguna de las otras opciones hace referencia al gasto mencionado."
+    ],
+    "respuesta": "A",
+    "razonamiento": "Las políticas activas de empleo incluyen formación, orientación y subvenciones a la contratación, a diferencia de las políticas pasivas (prestaciones).",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "Indique cuál de las siguientes afirmaciones es correcta en relación a la reforma laboral de 2012.",
+    "opciones": [
+      "A. Recupera la ultraactividad indefinida.",
+      "B. Impulsa las políticas activas de empleo.",
+      "C. Impulsa la centralización de la negociación al otorgar primacía a los convenios de empresa.",
+      "D. Impulsa la descentralización de la negociación al otorgar primacía a los convenios de empresa."
+    ],
+    "respuesta": "D",
+    "razonamiento": "La reforma de 2012 descentralizó la negociación colectiva al dar prioridad a los convenios de empresa sobre los sectoriales.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "Indique cuál de las siguientes afirmaciones es correcta en relación a la reforma laboral de 2012:",
+    "opciones": [
+      "A. Facilita el despido por causas económicas.",
+      "B. Aborda la problemática de la elevada contratación temporal que tiene España.",
+      "C. Reduce las prestaciones por desempleo a partir del tercer mes de desempleo.",
+      "D. Elimina el monopolio del servicio público de empleo y permite la entrada de agencias privadas."
+    ],
+    "respuesta": "A",
+    "razonamiento": "La reforma de 2012 amplió las causas económicas que justifican el despido y redujo su coste indemnizatorio.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "El desempleo persiste en España por:",
+    "opciones": [
+      "A. Mayor crecimiento del coste laboral real por trabajador que en la UE y rigidez de los salarios reales.",
+      "B. Baja intensidad de búsqueda de empleo en un porcentaje alto de parados.",
+      "C. El desajuste entre cualificaciones, localización geográfica y demanda de empleo.",
+      "D. Todas las otras opciones son correctas."
+    ],
+    "respuesta": "D",
+    "razonamiento": "La persistencia del desempleo en España responde a múltiples factores estructurales: costes laborales, desajuste de cualificaciones y escasa búsqueda.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "Señale cuál de las siguientes opciones NO se incluye en la triple vertiente del sector público:",
+    "opciones": [
+      "A. Marco institucional definitorio de los límites de los agentes económicos.",
+      "B. Asignación de recursos a través de la hacienda pública.",
+      "C. Empresas públicas.",
+      "D. Política monetaria."
+    ],
+    "respuesta": "D",
+    "razonamiento": "La política monetaria es competencia del Banco Central Europeo, no forma parte de la triple vertiente del sector público español.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "El sector público participa de manera activa en los mercados mediante:",
+    "opciones": [
+      "A. Emprendimiento de actividades empresariales (empresas públicas).",
+      "B. Establecimiento de regulaciones.",
+      "C. Emprendimiento de actividades empresariales y establecimiento de regulaciones.",
+      "D. El sector público no participa de manera activa en los mercados."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El sector público actúa en los mercados tanto a través de empresas públicas como mediante la regulación de las actividades privadas.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "Entre los aspectos positivos de los cambios regulatorios en España en los últimos años, no se incluye:",
+    "opciones": [
+      "A. La mayor transparencia.",
+      "B. La menor discrecionalidad de la Administración.",
+      "C. La coordinación entre los distintos niveles de gobierno.",
+      "D. La simplificación de los procedimientos administrativos."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La coordinación entre niveles de gobierno sigue siendo una asignatura pendiente del sistema regulatorio español.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "En relación a las regulaciones, entre las cuestiones pendientes que le falta abordar o mejorar al sector público español se encuentra:",
+    "opciones": [
+      "A. La calidad de las normas.",
+      "B. El estudio del impacto económico de las regulaciones.",
+      "C. La calidad de las normas y el estudio del impacto económico de las regulaciones.",
+      "D. La escasez de normas y la no adopción de la regulación procedente de la UE."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Tanto la calidad normativa como el análisis del impacto económico de las regulaciones son debilidades pendientes del sector público español.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "Desde mediados de los 70, España alcanzaría el superávit presupuestario:",
+    "opciones": [
+      "A. Entre 2005 y 2007, como resultado de la disciplina fiscal y la expansión cíclica.",
+      "B. Entre 1999 y 2002 por la disciplina fiscal para la UEM, y de nuevo entre 2005 y 2007.",
+      "C. Entre 2005 y 2007, como resultado del superávit comercial.",
+      "D. Tras el 2014, hasta el comienzo de la crisis COVID-19."
+    ],
+    "respuesta": "A",
+    "razonamiento": "España solo logró superávit presupuestario entre 2005 y 2007, gracias a la combinación de disciplina fiscal y expansión económica.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "En cuanto al gasto del sector público español, España, en relación al conjunto de países de la Eurozona:",
+    "opciones": [
+      "A. Es uno de los países más desarrollados en el sector público.",
+      "B. Su gasto público como porcentaje del PIB es inferior a la media.",
+      "C. Es uno de los países con mayor gasto público de la Eurozona.",
+      "D. Es uno de los más desarrollados en sector público y con mayor gasto público."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El gasto público español como % del PIB se sitúa por debajo de la media de la Eurozona.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "Dentro de los impuestos directos, en términos de recaudación el más importante es:",
+    "opciones": [
+      "A. El IRPF.",
+      "B. Impuesto sobre el patrimonio.",
+      "C. Impuesto sobre sociedades.",
+      "D. El IVA."
+    ],
+    "respuesta": "A",
+    "razonamiento": "El IRPF es el impuesto que más recauda en España, siendo la principal fuente de ingresos tributarios directos.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "Respecto al ratio del Gasto Público sobre el PIB:",
+    "opciones": [
+      "A. Su oscilación depende principalmente de las políticas discrecionales.",
+      "B. Se dispara en épocas de recesión por la disminución del PIB y el papel de los estabilizadores automáticos.",
+      "C. Disminuye en épocas de crecimiento económico por la estabilización del PIB pero los estabilizadores automáticos no contribuyen a la reducción del gasto.",
+      "D. Se dispara en recesión y disminuye en crecimiento gracias solo al crecimiento del PIB."
+    ],
+    "respuesta": "B",
+    "razonamiento": "En recesión el PIB cae y el gasto aumenta automáticamente (más prestaciones), por lo que el ratio GP/PIB se dispara.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "La partida fundamental de gasto de la AA.PP. en España es:",
+    "opciones": [
+      "A. Remuneraciones de asalariados.",
+      "B. Pensiones sociales.",
+      "C. Compra de bienes y servicios.",
+      "D. Intereses de la Deuda."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Las pensiones sociales representan la mayor partida de gasto público en España, superando el 40% del gasto total.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "Las reformas de 2011 y 2013 sobre el sistema de pensiones en España NO incluyeron:",
+    "opciones": [
+      "A. El retraso de la edad de jubilación a los 67 años.",
+      "B. Ampliación del periodo de cómputo desde los 25 a los 35 años.",
+      "C. Obstaculización de la jubilación anticipada.",
+      "D. Incentivos para prolongar la vida laboral."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La ampliación del periodo de cómputo de 25 a 35 años fue parte de la reforma de 2011 (Ley 27/2011), no de 2013.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "En comparación con el modelo continental, el modelo financiero y bancario anglosajón se caracteriza por:",
+    "opciones": [
+      "A. El crédito bancario es más importante y predomina el modelo de banca universal.",
+      "B. El crédito bancario es más importante, pero la banca suele especializarse en un segmento.",
+      "C. La emisión de activos financieros y la capitalización bursátil tiene mayor relevancia, además la banca suele especializarse en un segmento de actividad.",
+      "D. La emisión de activos financieros y la capitalización bursátil tiene mayor relevancia, además predomina el modelo de banca universal."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El modelo anglosajón se basa más en los mercados de capitales y la banca especializada, frente al modelo continental basado en crédito bancario universal.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "En relación al sistema financiero español y el ahorro de los hogares españoles, indique cuál de las siguientes afirmaciones NO describe su evolución entre 1980 y la actualidad:",
+    "opciones": [
+      "A. Expansión de la importancia de los intermediarios financieros no bancarios.",
+      "B. Crecimiento del porcentaje ahorrado en forma de efectivo y depósitos bancarios.",
+      "C. Crecimiento del ahorro en forma de tenencia de acciones.",
+      "D. Disminución del porcentaje ahorrado en forma de efectivo y depósitos bancarios."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Desde 1980 el porcentaje del ahorro en efectivo y depósitos ha disminuido a favor de fondos de inversión, acciones y seguros.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes tipos de entidades es sin ánimo de lucro?",
+    "opciones": [
+      "A. Banca.",
+      "B. Caja de ahorros.",
+      "C. Cooperativas de créditos.",
+      "D. Ninguna, todas tienen ánimo de lucro."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Las cajas de ahorros son entidades sin ánimo de lucro con carácter fundacional, a diferencia de los bancos y cooperativas de crédito.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "En las dos últimas décadas del siglo XX el sistema bancario español experimentó una transformación radical debido a:",
+    "opciones": [
+      "A. Supresión de las restricciones tales como la regulación de los tipos de interés.",
+      "B. Progreso tecnológico que reduce de manera considerable las barreras de entrada al negocio bancario.",
+      "C. Eliminación de las trabas que impedían a las cajas de ahorro operar en todo el territorio nacional.",
+      "D. Todas las opciones anteriores son correctas."
+    ],
+    "respuesta": "D",
+    "razonamiento": "La liberalización, la tecnología y la expansión territorial de las cajas contribuyeron conjuntamente a transformar el sistema bancario español.",
+    "tag": "Examen 1"
+  },
+  {
+    "enunciado": "Para reducir el intervencionismo de la economía y alinearse con la economía de mercados de los países europeos, el gobierno de España elaboró en 1959:",
+    "opciones": [
+      "A. El plan de estabilización.",
+      "B. Plan de estabilización y crecimiento.",
+      "C. Programa de saneamiento y reforma.",
+      "D. Plan de convergencia exterior."
+    ],
+    "respuesta": "A",
+    "razonamiento": "El Plan de Estabilización de 1959 supuso el fin de la autarquía y el inicio de la apertura económica de España.",
+    "tag": "Examen 3 - Tema 1"
+  },
+  {
+    "enunciado": "A partir de 1959 en España se empezó a desarrollar el Plan de Estabilización, ¿cuál de estas medidas NO se llevó a cabo?",
+    "opciones": [
+      "A. Devaluación de la peseta.",
+      "B. Medidas de apoyo a la inversión privada.",
+      "C. Aumento del gasto público.",
+      "D. Apertura al exterior."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El Plan de Estabilización de 1959 fue contractivo: redujo el gasto público para frenar la inflación, no lo aumentó.",
+    "tag": "Examen 3 - Tema 1"
+  },
+  {
+    "enunciado": "De las características que presentaba la economía española en la etapa de la autarquía, ¿cuál de ellas es FALSA?",
+    "opciones": [
+      "A. Existía un fuerte intervencionismo gubernamental.",
+      "B. Se desencadenó una espiral precios-salarios.",
+      "C. El sector público era deficitario.",
+      "D. Las cuentas con el exterior estaban equilibradas dado que la economía era cerrada."
+    ],
+    "respuesta": "D",
+    "razonamiento": "El cierre de la economía no garantizaba el equilibrio exterior; de hecho hubo desequilibrios y escasez de divisas durante la autarquía.",
+    "tag": "Examen 3 - Tema 1"
+  },
+  {
+    "enunciado": "Con la llegada de la democracia, ¿cuál de las siguientes fue una consecuencia relevante para la economía española?",
+    "opciones": [
+      "A. Aumenta la demanda de los recursos tecnológicos.",
+      "B. Dependencia del exterior.",
+      "C. Integración en la UE.",
+      "D. Crecimiento Industrial."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La transición a la democracia abrió el camino para la adhesión de España a la Comunidad Económica Europea en 1986.",
+    "tag": "Examen 3 - Tema 1"
+  },
+  {
+    "enunciado": "¿Qué desequilibrios se fueron gestando en la economía española entre 1986 y 1988? Señale la respuesta correcta.",
+    "opciones": [
+      "A. La inflación creció debido al mayor crecimiento de los precios en productos industriales.",
+      "B. La política monetaria expansiva redujo la competitividad exterior.",
+      "C. Se deterioró el saldo comercial exterior debido a la inflación dual y a la inflación diferencial.",
+      "D. Se incrementó el déficit público sobre todo en el componente estructural."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La inflación dual (servicios frente a bienes comercializables) y la inflación diferencial con Europa deterioraron el saldo comercial.",
+    "tag": "Examen 3 - Tema 1"
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes etapas de la economía española ha registrado variaciones del PIB real positivas en todos los años?",
+    "opciones": [
+      "A. 2008-2018.",
+      "B. 1986-1992.",
+      "C. 1992-1995.",
+      "D. 1974-1985."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El periodo 1986-1992 fue una fase de expansión continua coincidiendo con la entrada en la CEE, sin registrar ningún año de PIB negativo.",
+    "tag": "Examen 3 - Tema 1"
+  },
+  {
+    "enunciado": "¿Qué efectos produce la denominada 'inflación dual'? Señala la CORRECTA.",
+    "opciones": [
+      "A. Aumentan la competitividad de los servicios ya que sus precios crecen menos que los bienes.",
+      "B. Riesgo de sustitución de servicios importados por servicios nacionales.",
+      "C. Absorben recursos financieros que podrían destinarse a otros fines.",
+      "D. Los precios de los bienes manufacturados suben más que los de los servicios."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La inflación dual (precios de servicios crecen más que bienes) desvía recursos financieros hacia el sector servicios, restando fondos a la industria.",
+    "tag": "Examen 3 - Tema 1"
+  },
+  {
+    "enunciado": "Tras la entrada de España en la CEE en 1986, se inicia un periodo de recuperación económica. ¿Cuáles fueron sus factores determinantes? Señala la INCORRECTA.",
+    "opciones": [
+      "A. La reducción del déficit público y del déficit exterior.",
+      "B. El incremento de la inversión de España en el extranjero.",
+      "C. La apreciación del dólar, que permitió incrementar el comercio exterior.",
+      "D. El control de la inflación realizado desde unos años antes."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La recuperación se debió a la inversión extranjera en España (no española en el extranjero) y a la apertura de nuevos mercados.",
+    "tag": "Examen 3 - Tema 1"
+  },
+  {
+    "enunciado": "Entre las expansiones de los períodos 1986-1991 y el periodo 1995-1998...",
+    "opciones": [
+      "A. Destaca la eliminación de los equilibrios en el primer periodo y la acumulación de desequilibrios en 1995-1998.",
+      "B. Entre 1995 y 1998 hubo una expansión caracterizada por interrumpir la acumulación de desequilibrios, mientras que en 1986-1991 se creció con desequilibrios.",
+      "C. Hubo desequilibrios en las dos expansiones.",
+      "D. Se pudo eliminar los desequilibrios en ambas expansiones."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La expansión 1995-1998 fue más equilibrada que la de 1986-1991, que generó inflación y déficit comercial.",
+    "tag": "Examen 3 - Tema 1"
+  },
+  {
+    "enunciado": "¿Qué características tuvo la crisis económica que padeció España entre los años 1993-1994?",
+    "opciones": [
+      "A. El descenso del ritmo de crecimiento del PIB, sin llegar a ser negativo.",
+      "B. Una apreciación moderada de la peseta.",
+      "C. Tasas elevadas de inflación.",
+      "D. Todas las respuestas son correctas."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La crisis de 1993-1994 se caracterizó por caída del PIB, depreciación de la peseta y tasas elevadas de inflación.",
+    "tag": "Examen 3 - Tema 1"
+  },
+  {
+    "enunciado": "En relación al comercio exterior de España, es cierto que:",
+    "opciones": [
+      "A. La economía española ha incrementado notablemente su apertura exterior desde 1985.",
+      "B. Nuestras importaciones dependen de la renta de los países clientes.",
+      "C. Durante el periodo de bonanza económica de 1996 a 2007 se registró un superávit comercial del 10% del PIB.",
+      "D. La cuota de ventas españolas en el mercado internacional ha descendido desde 1998."
+    ],
+    "respuesta": "A",
+    "razonamiento": "Desde la entrada en la CEE en 1986, el grado de apertura exterior de España ha aumentado de forma notable y sostenida.",
+    "tag": "Examen 3 - Tema 1"
+  },
+  {
+    "enunciado": "Entre los cambios que se han producido en la orientación del comercio exterior español, ¿cuál es la falsa?",
+    "opciones": [
+      "A. Las importaciones proceden en un 55% de la UE, siendo proveedores relevantes también China y los países de la OPEP.",
+      "B. El saldo comercial es deficitario con China y los países de la OPEP.",
+      "C. Nuestro saldo comercial es positivo con todos los países de la UE.",
+      "D. Los países de la UE absorben la mayor parte de nuestras exportaciones."
+    ],
+    "respuesta": "C",
+    "razonamiento": "España tiene déficit comercial con algunos países de la UE; el saldo no es positivo con todos ellos.",
+    "tag": "Examen 3 - Tema 1"
+  },
+  {
+    "enunciado": "Durante el periodo de expansión de la economía española 1995-2007, ¿cuál de los siguientes factores NO se puede considerar expansivo?",
+    "opciones": [
+      "A. El aumento de la FBK Fijo.",
+      "B. La Política Fiscal llevada a cabo en este periodo.",
+      "C. La creación de un gran volumen de empleos.",
+      "D. El Incremento del Consumo."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La política fiscal del periodo fue contractiva (control del déficit para cumplir con Maastricht), no expansiva.",
+    "tag": "Examen 3 - Tema 1"
+  },
+  {
+    "enunciado": "A pesar del crecimiento de nuestra economía entre 1995 y 2007, ¿cuáles eran nuestras principales debilidades? Señala la INCORRECTA.",
+    "opciones": [
+      "A. El mercado de trabajo presenta una dualidad entre jóvenes y adultos.",
+      "B. El tejido productivo estaba demasiado especializado en sectores de tecnología media-baja.",
+      "C. El sector público era ineficiente en la gestión de los recursos.",
+      "D. Nuestro sistema financiero cubrió las necesidades de la economía con recursos internos."
+    ],
+    "respuesta": "D",
+    "razonamiento": "España dependía del ahorro externo para financiar su economía; el sistema financiero no se sostuvo con recursos internos.",
+    "tag": "Examen 3 - Tema 1"
+  },
+  {
+    "enunciado": "Dentro de los problemas del mercado de trabajo en el periodo 1995-2007 encontramos:",
+    "opciones": [
+      "A. Dualidad del mercado de trabajo, creciente endeudamiento y escaso incremento de la productividad.",
+      "B. Dualidad del mercado de trabajo, escaso incremento de la productividad del trabajo y escasa sensibilidad de los salarios a la evolución de la productividad.",
+      "C. Ninguna de las anteriores es correcta.",
+      "D. Necesidad de capitales extranjeros, creciente endeudamiento y dependencia exterior."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Los principales problemas eran la dualidad laboral, la baja productividad y la desvinculación de salarios respecto a la productividad.",
+    "tag": "Examen 3 - Tema 1"
+  },
+  {
+    "enunciado": "Durante el periodo expansivo de 1995-2007, señale la respuesta falsa:",
+    "opciones": [
+      "A. España llegó a obtener superávit presupuestario.",
+      "B. La creación de empleo mejoró gracias a la moderación salarial.",
+      "C. Los tipos de interés eran altos.",
+      "D. El sector público construyó infraestructuras innecesarias."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Los tipos de interés eran bajos al ingresar en la zona euro, lo que estimuló el endeudamiento y el boom inmobiliario.",
+    "tag": "Examen 3 - Tema 1"
+  },
+  {
+    "enunciado": "Cuando España entra en la Unión Económica y Monetaria:",
+    "opciones": [
+      "A. Cumple todos los criterios.",
+      "B. No cumple ninguno.",
+      "C. Cumple todos menos el de deuda pública.",
+      "D. Todas las anteriores son falsas."
+    ],
+    "respuesta": "C",
+    "razonamiento": "España cumplió los criterios de inflación, déficit y tipos de interés para entrar en el euro, pero la deuda pública superaba el 60% del PIB.",
+    "tag": "Examen 3 - Tema 1"
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes medidas se introdujeron en la tercera etapa de la Unión Económica y Monetaria, a partir del 1 de enero de 1999?",
+    "opciones": [
+      "A. La libre utilización del ECU (Unidad de Cuentas Europea).",
+      "B. Creación del Instituto Monetario Europeo (IME).",
+      "C. Incremento de la coordinación de las políticas monetarias entre los bancos centrales de los países miembros.",
+      "D. La entrada en vigor del mecanismo de tipos de cambio europeo (MTCII)."
+    ],
+    "respuesta": "D",
+    "razonamiento": "En la tercera etapa (1999) se introdujo el euro como moneda única y el MTCII para los países no adheridos al euro.",
+    "tag": "Examen 3 - Tema 1"
+  },
+  {
+    "enunciado": "Entre los puntos más importantes que recogía el Tratado de la UE, señale cuál de los siguientes no procede.",
+    "opciones": [
+      "A. Una Política Monetaria Única.",
+      "B. La cohesión económica y social.",
+      "C. El cumplimiento obligatorio de los criterios de convergencia real.",
+      "D. Asegurar la competencia efectiva dentro del mercado común."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El Tratado de Maastricht exigía convergencia nominal (inflación, déficit, deuda, tipos de interés), no la convergencia real, que es un objetivo de política económica.",
+    "tag": "Examen 3 - Tema 1"
+  },
+  {
+    "enunciado": "Desde comienzos de los años sesenta hasta 2018, la economía española:",
+    "opciones": [
+      "A. Ha tenido fluctuaciones del PIB más intensas que los países de la UE.",
+      "B. Ha tenido escasas relaciones económicas con los países de su entorno.",
+      "C. Ha registrado un crecimiento del PIB real inferior al de la UE.",
+      "D. Ha sufrido menos que los países comunitarios las crisis económicas."
+    ],
+    "respuesta": "A",
+    "razonamiento": "La economía española ha mostrado mayor volatilidad cíclica que la media europea, con expansiones y recesiones más intensas.",
+    "tag": "Examen 3 - Tema 1"
+  },
+  {
+    "enunciado": "El requisito de déficit público a la hora de cumplir con la convergencia nominal no podía superar el:",
+    "opciones": [
+      "A. 1% del PIB.",
+      "B. 2% del PIB.",
+      "C. 3% del PIB.",
+      "D. 4% del PIB."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Los criterios de Maastricht exigían que el déficit público no superara el 3% del PIB para poder acceder al euro.",
+    "tag": "Examen 3 - Tema 1"
+  },
+  {
+    "enunciado": "Señala cuál de las siguientes afirmaciones es falsa:",
+    "opciones": [
+      "A. Uno de los puntos débiles de las encuestas de innovación es su coste de realización.",
+      "B. El progreso técnico y la innovación tecnológica no se consideran factores significativos en el crecimiento económico.",
+      "C. En el modelo japonés de propiedad de la empresa, el accionista principal tiene participación minoritaria pero interviene en las decisiones."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El progreso técnico y la innovación son precisamente los principales factores del crecimiento económico moderno según la teoría del crecimiento endógeno.",
+    "tag": "Examen 3 - Tema 2"
+  },
+  {
+    "enunciado": "El crecimiento de la PAT en España durante el periodo 1960-2018 se ha debido, principalmente, a:",
+    "opciones": [
+      "A. Capital físico por trabajador.",
+      "B. Productividad total de los factores.",
+      "C. El capital humano.",
+      "D. La tasa de empleo."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La PTF (eficiencia en el uso de los recursos) ha sido el principal contribuyente al crecimiento de la producción aparente del trabajo en España.",
+    "tag": "Examen 3 - Tema 2"
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes afirmaciones en torno al capital humano es INCORRECTA?",
+    "opciones": [
+      "A. El capital humano influye en el progreso técnico.",
+      "B. El capital humano incluye el conjunto de conocimientos acumulados útiles para producir bienes y servicios.",
+      "C. El capital humano se considera un gasto no una inversión.",
+      "D. El gasto en educación / PIB es un indicador de análisis de capital humano."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El capital humano es una inversión que genera rendimientos futuros, no un gasto corriente; aumenta la productividad y el crecimiento potencial.",
+    "tag": "Examen 3 - Tema 2"
+  },
+  {
+    "enunciado": "Entre los shocks de oferta que se han producido en España, ¿cuál de los siguientes se considera un shock de oferta positivo?",
+    "opciones": [
+      "A. Entrada masiva de inmigrantes.",
+      "B. Aumentos de las cotizaciones a la Seguridad Social.",
+      "C. Aumentos del precio del crudo y otras materias primas.",
+      "D. Todos los shocks anteriores son negativos."
+    ],
+    "respuesta": "A",
+    "razonamiento": "La llegada masiva de inmigrantes amplía la oferta de trabajo y reduce los costes laborales, lo que constituye un shock de oferta positivo.",
+    "tag": "Examen 3 - Tema 2"
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes transformaciones estructurales NO se ha producido en la economía española?",
+    "opciones": [
+      "A. Un aumento de peso del gasto público en el PIB.",
+      "B. Disminución del peso de la agricultura en favor de la industria y los servicios.",
+      "C. Una mayor equidad en la distribución de la renta.",
+      "D. Un descenso en las inversiones en el exterior de las empresas españolas."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La desigualdad en la distribución de la renta ha aumentado en España, especialmente desde la crisis de 2008.",
+    "tag": "Examen 3 - Tema 2"
+  },
+  {
+    "enunciado": "La transformación del sistema agrario tradicional en un sistema agroindustrial que se produjo en España en la segunda mitad del siglo XX, trajo consigo:",
+    "opciones": [
+      "A. Un aumento de las grandes firmas agroalimentarias.",
+      "B. Aumento del peso del sector agrario en la economía.",
+      "C. Un descenso de la apertura exterior.",
+      "D. Un descenso de la productividad agraria."
+    ],
+    "respuesta": "A",
+    "razonamiento": "La modernización agraria favoreció la concentración empresarial y el surgimiento de grandes empresas agroalimentarias.",
+    "tag": "Examen 3 - Tema 3"
+  },
+  {
+    "enunciado": "Una consecuencia directa de la ruptura del modelo de agricultura tradicional es:",
+    "opciones": [
+      "A. La mecanización de las grandes, medianas y pequeñas explotaciones.",
+      "B. El aumento de las rentas agrarias de los empresarios.",
+      "C. El alza de los salarios agrícolas.",
+      "D. El aumento de la productividad."
+    ],
+    "respuesta": "A",
+    "razonamiento": "La ruptura del modelo tradicional se materializó en la mecanización generalizada de todo tipo de explotaciones agrarias.",
+    "tag": "Examen 3 - Tema 3"
+  },
+  {
+    "enunciado": "Señale la opción incorrecta respecto a la mecanización agraria:",
+    "opciones": [
+      "A. Con la entrada de la mecanización a la agricultura se rompió con el modelo tradicional.",
+      "B. La mecanización de la agricultura no tuvo consecuencias en el sector financiero.",
+      "C. Una de las causas de la ruptura del modelo tradicional fue el cambio de la mano de obra.",
+      "D. Con la ruptura del modelo tradicional aparecieron excedentes de productos como el trigo y el vino."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La mecanización requirió financiación, por lo que sí tuvo consecuencias importantes en el sector financiero, generando endeudamiento agrario.",
+    "tag": "Examen 3 - Tema 3"
+  },
+  {
+    "enunciado": "¿En qué se manifestó la ruptura del Sistema Agrario Tradicional en España?",
+    "opciones": [
+      "A. En un descenso de empleo de medios corrientes de producción fuera del sector.",
+      "B. En un incremento de los salarios agrícolas.",
+      "C. En la incorporación a la población activa de mano de obra joven.",
+      "D. En el aumento relativo de las rentas agrarias."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El éxodo rural incorporó mano de obra joven procedente del campo a la industria y los servicios urbanos.",
+    "tag": "Examen 3 - Tema 3"
+  },
+  {
+    "enunciado": "¿Cuáles de estas características NO pertenece a la agricultura tradicional española?",
+    "opciones": [
+      "A. Bajo nivel de desarrollo de los mercados agrarios.",
+      "B. Alto nivel de productividad.",
+      "C. Demanda de alimentos poco diversificada.",
+      "D. Gran abundancia de mano de obra mal remunerada."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La agricultura tradicional española se caracterizaba por baja productividad, no alta; la mecanización fue precisamente lo que elevó la productividad.",
+    "tag": "Examen 3 - Tema 3"
+  },
+  {
+    "enunciado": "Dentro de las consecuencias dadas por el éxodo rural, motivado por cambios en la mano de obra y la mecanización, se encuentran:",
+    "opciones": [
+      "A. Incremento del endeudamiento y aumento de la productividad.",
+      "B. Disminución de la productividad y disminución del endeudamiento.",
+      "C. Incremento de las rentas agrarias y aparición de excedentes en algunos productos.",
+      "D. Se crea un déficit constante de todos los productos."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El éxodo rural y la mecanización aumentaron la productividad, las rentas agrarias y generaron excedentes de cereales, vino y aceite.",
+    "tag": "Examen 3 - Tema 3"
+  },
+  {
+    "enunciado": "Uno de los rasgos definitorios del sistema agrario español es:",
+    "opciones": [
+      "A. La especialización territorial.",
+      "B. La orientación al precio.",
+      "C. Los cambios en la estructura social.",
+      "D. El crecimiento de la población agraria."
+    ],
+    "respuesta": "A",
+    "razonamiento": "El sistema agrario español se caracteriza por una fuerte especialización territorial: ganadería en el norte, cultivos extensivos en el interior, horticultura en el levante.",
+    "tag": "Examen 3 - Tema 3"
+  },
+  {
+    "enunciado": "Identifica cuál no es un problema actual en la agricultura:",
+    "opciones": [
+      "A. Coste excesivo de la propiedad y la tenencia de tierra.",
+      "B. Incremento de la competencia, debido a la apertura de los mercados.",
+      "C. Incremento excesivo de la población agraria.",
+      "D. Todas son falsas."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El problema actual es precisamente el envejecimiento y la escasez de población agraria, no un exceso de ella.",
+    "tag": "Examen 3 - Tema 3"
+  },
+  {
+    "enunciado": "¿Qué hechos de los siguientes se corresponden con las transformaciones del sector agrario?",
+    "opciones": [
+      "A. Déficit de la balanza agroalimentaria.",
+      "B. Reducción del gasto familiar destinado a la alimentación.",
+      "C. Fracción decreciente de oferta agraria.",
+      "D. Todas son falsas."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El desarrollo económico reduce el peso relativo del gasto en alimentación en el presupuesto familiar (Ley de Engel).",
+    "tag": "Examen 3 - Tema 3"
+  },
+  {
+    "enunciado": "Señale la opción correcta respecto a la Política Agraria Común (PAC):",
+    "opciones": [
+      "A. El sector primario no tiene ninguna repercusión en el mantenimiento del mundo rural.",
+      "B. La PAC está formada exclusivamente por el FEAGA.",
+      "C. El sector primario no es un sector con importancia estratégica en la economía.",
+      "D. La PAC está formada por el FEAGA y el FEADER."
+    ],
+    "respuesta": "D",
+    "razonamiento": "La PAC se articula a través de dos fondos: el FEAGA (pagos directos y mercados) y el FEADER (desarrollo rural).",
+    "tag": "Examen 3 - Tema 3"
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes rasgos NO define el sector agrario español en los últimos años?",
+    "opciones": [
+      "A. El sistema productivo agrario se ha hecho más intensivo en capital.",
+      "B. El ganado de cebo se ha incrementado.",
+      "C. Se han desarrollado componentes del complejo agro-industrial.",
+      "D. El peso relativo del sector en producción es menor en España que en la media de países europeos."
+    ],
+    "respuesta": "D",
+    "razonamiento": "El peso del sector agrario en el PIB español es similar o superior a la media europea; España es una potencia agroalimentaria en la UE.",
+    "tag": "Examen 3 - Tema 3"
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes orientaciones agrarias tiene menor rendimiento por superficie en España?",
+    "opciones": [
+      "A. Horticultura.",
+      "B. Agricultura General.",
+      "C. Granívoros.",
+      "D. Frutales y cítricos."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La agricultura general (cultivos extensivos de cereales) tiene el menor rendimiento por superficie en comparación con la horticultura o los frutales.",
+    "tag": "Examen 3 - Tema 3"
+  },
+  {
+    "enunciado": "¿En qué año y sector España empleaba más porcentaje de empleo que la UE-12?",
+    "opciones": [
+      "A. En servicios en 1960.",
+      "B. En industria en 2018.",
+      "C. En industria en 1985.",
+      "D. En agricultura en 1985."
+    ],
+    "respuesta": "D",
+    "razonamiento": "En 1985 España tenía un porcentaje de empleo agrícola claramente superior a la media de la UE-12, reflejando su menor nivel de desarrollo.",
+    "tag": "Examen 3 - Tema 3"
+  },
+  {
+    "enunciado": "Respecto a la especialización territorial del sector agrario en España, destaca:",
+    "opciones": [
+      "A. La especialización ganadera en el sur de España.",
+      "B. La especialización ganadera en Castilla y León.",
+      "C. La especialización exportadora de Andalucía.",
+      "D. La especialización ganadera en el sur de España y la especialización ganadera en Castilla y León."
+    ],
+    "respuesta": "D",
+    "razonamiento": "Tanto el suroeste (Extremadura) como Castilla y León presentan una especialización ganadera destacada dentro del mapa agrario español.",
+    "tag": "Examen 3 - Tema 3"
+  },
+  {
+    "enunciado": "Señalar la respuesta CORRECTA en relación a la especialización productiva y comercial del sector energético español en la actualidad.",
+    "opciones": [
+      "A. La energía nuclear ha ido descendiendo sustituyendo al gas natural.",
+      "B. Las necesidades de abastecimiento de energía procedente del exterior se han reducido al 30% del total.",
+      "C. El gas natural y las energías renovables suponen más del 50% del consumo de energía primaria en España.",
+      "D. Todas las respuestas anteriores son falsas."
+    ],
+    "respuesta": "D",
+    "razonamiento": "España sigue dependiendo en alta medida del exterior y la estructura de consumo energético es más diversificada que lo que indican las otras opciones.",
+    "tag": "Examen 3 - Tema 4"
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes rasgos del sector de la energía en España es CORRECTO?",
+    "opciones": [
+      "A. Tiene importantes efectos de arrastre hacia atrás sobre otras ramas de la economía.",
+      "B. Se ha producido un aumento del capital extranjero llegando a un control mayoritario en la toma de decisiones.",
+      "C. Es un sector poco regulado e intervenido en la actualidad.",
+      "D. El sector comenzó a liberalizarse en los años 90 consiguiendo prácticamente la competencia efectiva en el mercado."
+    ],
+    "respuesta": "D",
+    "razonamiento": "La liberalización del sector energético comenzó en los años 90, especialmente en comercialización de electricidad y gas natural.",
+    "tag": "Examen 3 - Tema 4"
+  },
+  {
+    "enunciado": "¿Cuáles se consideran rasgos específicos del sector energético?",
+    "opciones": [
+      "A. Carácter estratégico.",
+      "B. Estrecha relación con el proceso de industrialización de países.",
+      "C. Tendencia a desarrollarse según modelos de mercados competitivos.",
+      "D. A y B son correctas."
+    ],
+    "respuesta": "D",
+    "razonamiento": "El sector energético se caracteriza por su carácter estratégico y su estrecha vinculación con el desarrollo industrial, pero tiende a desarrollarse en mercados no competitivos.",
+    "tag": "Examen 3 - Tema 4"
+  },
+  {
+    "enunciado": "Las energías que más se consumen en España en el periodo 1985-2018 son:",
+    "opciones": [
+      "A. El petróleo y el carbón.",
+      "B. El petróleo y el Gas Natural.",
+      "C. Gas Natural y energías renovables.",
+      "D. Energías Renovables y el carbón."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El petróleo y el gas natural han sido y son las fuentes de energía primaria más consumidas en España, con una participación conjunta superior al 60%.",
+    "tag": "Examen 3 - Tema 4"
+  },
+  {
+    "enunciado": "Respecto a los rasgos específicos en el sector energético, señale la respuesta incorrecta:",
+    "opciones": [
+      "A. Estrecha relación con el proceso de industrialización de los países.",
+      "B. Tendencia a desarrollarse según modelos de mercados competitivos.",
+      "C. Dificultades para la liberación del mercado energético.",
+      "D. Reconocido carácter estratégico."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El sector energético tiende a desarrollarse en mercados no competitivos (oligopolios o monopolios) debido a sus altas barreras de entrada y carácter estratégico.",
+    "tag": "Examen 3 - Tema 4"
+  },
+  {
+    "enunciado": "La construcción se define como el conjunto de actividades destinadas a la transformación de outputs en bienes materiales inmóviles. Indica la respuesta correcta:",
+    "opciones": [
+      "A. Sí, además se distinguen dos ramas: edificación y obra civil.",
+      "B. No, puesto que se transforman los outputs en bienes materiales móviles.",
+      "C. No, la construcción se define como el conjunto de actividades destinadas a la transformación de inputs en bienes materiales inmóviles.",
+      "D. No, puesto que se transforman los inputs en bienes materiales móviles."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La construcción transforma inputs (materias primas como cemento, acero) en bienes inmóviles (edificios, infraestructuras), no outputs.",
+    "tag": "Examen 3 - Tema 4"
+  },
+  {
+    "enunciado": "Indique cuál de las siguientes afirmaciones sobre la desindustrialización es incorrecta:",
+    "opciones": [
+      "A. La competencia exterior es en parte responsable de la desindustrialización española.",
+      "B. La desindustrialización siempre es negativa.",
+      "C. La industrialización puede tener un efecto positivo sobre la renta per cápita del sector agrícola.",
+      "D. Todas las otras opciones son correctas."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La desindustrialización no siempre es negativa; puede reflejar el desarrollo del sector servicios de mayor valor añadido.",
+    "tag": "Examen 3 - Tema 4"
+  },
+  {
+    "enunciado": "Entre las razones que explican la pérdida de importancia del sector industrial en el PIB español se encuentra:",
+    "opciones": [
+      "A. La baja eficiencia del sector.",
+      "B. La externalización de servicios.",
+      "C. La mayor productividad de los servicios frente al sector industrial.",
+      "D. Todas las otras opciones son correctas."
+    ],
+    "respuesta": "D",
+    "razonamiento": "La desindustrialización responde a múltiples factores: externalización de servicios, competencia exterior y cambio de precios relativos.",
+    "tag": "Examen 3 - Tema 4"
+  },
+  {
+    "enunciado": "De las siguientes afirmaciones en torno a la eficiencia productiva de la industria española, es FALSO que:",
+    "opciones": [
+      "A. Desde 1990, se ha mejorado la eficiencia productiva de la industria española.",
+      "B. En el periodo 1995-2007 se produjo un distanciamiento de los niveles de productividad europea.",
+      "C. Desde la entrada en Europa, la productividad ha aumentado en España a una tasa muy inferior al promedio de la UE.",
+      "D. La crisis trajo consigo una devaluación interna, mejorando la competitividad en costes frente a la UE."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El distanciamiento de productividad respecto a la UE se produjo principalmente a partir del año 2000, no desde la entrada en Europa en 1986.",
+    "tag": "Examen 3 - Tema 4"
+  },
+  {
+    "enunciado": "Uno de los rasgos que caracteriza el comportamiento de las manufacturas españolas es:",
+    "opciones": [
+      "A. Tiene una menor sensibilidad cuando aparecen shocks externos que el resto de la economía.",
+      "B. Tiene un carácter contracíclico en el perfil de evolución del sector.",
+      "C. Cuenta con un elevado ritmo de crecimiento que mantiene en las etapas de recesión.",
+      "D. En el perfil de evolución se registran mayores oscilaciones cíclicas."
+    ],
+    "respuesta": "D",
+    "razonamiento": "Las manufacturas españolas muestran un comportamiento más cíclico que el conjunto de la economía, amplificando las oscilaciones del ciclo económico.",
+    "tag": "Examen 3 - Tema 4"
+  },
+  {
+    "enunciado": "Las manufacturas intermedias son aquellas que:",
+    "opciones": [
+      "A. Siguen predominando en el tejido industrial.",
+      "B. Reducen su participación a partir de 1995.",
+      "C. Son las que más han avanzado.",
+      "D. Ninguna es correcta."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Las manufacturas intermedias (automoción, química) han sido las que más han avanzado en la estructura industrial española.",
+    "tag": "Examen 3 - Tema 4"
+  },
+  {
+    "enunciado": "Supongamos que la industria química invierte un 55% en I+D y la elasticidad-renta de su mercado es baja. ¿Cómo clasificaría a dicha industria?",
+    "opciones": [
+      "A. Industria avanzada.",
+      "B. Industria intermedia.",
+      "C. Industria tradicional.",
+      "D. Ninguna es correcta."
+    ],
+    "respuesta": "D",
+    "razonamiento": "Alta inversión en I+D sugiere industria avanzada, pero baja elasticidad-renta indica demanda estancada propia de industria tradicional; hay contradicción, ninguna categoría encaja bien.",
+    "tag": "Examen 3 - Tema 4"
+  },
+  {
+    "enunciado": "Entre las características que presentan las ramas industriales intermedias y avanzadas, ¿cuál de las siguientes es FALSA?",
+    "opciones": [
+      "A. Presentan una oferta más concentrada en las empresas líderes.",
+      "B. Cuenta con mayor capital extranjero.",
+      "C. Tienen un menor impulso de la demanda a diferencia de las tradicionales.",
+      "D. Utilizan menos trabajo por unidades de producto."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Las industrias intermedias y avanzadas tienen mayor impulso de la demanda (alta elasticidad-renta), no menor; son las tradicionales las que tienen demanda estancada.",
+    "tag": "Examen 3 - Tema 4"
+  },
+  {
+    "enunciado": "¿Qué país europeo tiene un mayor peso de las manufacturas?",
+    "opciones": [
+      "A. Reino Unido.",
+      "B. Francia.",
+      "C. España.",
+      "D. Alemania."
+    ],
+    "respuesta": "D",
+    "razonamiento": "Alemania tiene el mayor peso del sector manufacturero en el PIB de Europa, siendo el principal exportador industrial del continente.",
+    "tag": "Examen 3 - Tema 4"
+  },
+  {
+    "enunciado": "De las siguientes afirmaciones en torno a la política industrial española, es CIERTO que:",
+    "opciones": [
+      "A. La política industrial española confiaba en la intervención pública para impulsar el desarrollo del sector.",
+      "B. La nueva política industrial de comienzos del nuevo siglo es de naturaleza vertical, apoyando a subsectores concretos.",
+      "C. Se llevó a cabo una política de reconversión industrial en los años sesenta.",
+      "D. Se privatizaron empresas públicas en la primera mitad de la década de los noventa."
+    ],
+    "respuesta": "D",
+    "razonamiento": "En los años 90 se privatizaron grandes empresas públicas como Telefónica, Endesa o Repsol, siguiendo las tendencias liberalizadoras europeas.",
+    "tag": "Examen 3 - Tema 4"
+  },
+  {
+    "enunciado": "La evolución de la industria manufacturera desde la entrada de España en la CEE ha experimentado grandes cambios. Señala el FALSO:",
+    "opciones": [
+      "A. La participación de la industria española en la producción industrial europea no ha parado de descender desde 1985.",
+      "B. Se han registrado fluctuaciones cíclicas en la industria española de mayor intensidad.",
+      "C. La eficiencia productiva de la industria española ha crecido por encima de la del resto de sectores.",
+      "D. Desde 1985 y durante la reciente crisis ha sido más intenso el proceso de desindustrialización en España."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La eficiencia productiva de la industria española no ha crecido por encima del resto de sectores; de hecho, ha perdido terreno respecto a servicios.",
+    "tag": "Examen 3 - Tema 4"
+  },
+  {
+    "enunciado": "Señale la respuesta correcta entre las siguientes opciones sobre la liberalización de servicios:",
+    "opciones": [
+      "A. Apenas se produce intervencionismo del estado español en las actividades de servicios.",
+      "B. El intervencionismo permite lograr grandes avances y agiliza el mercado de servicios.",
+      "C. La liberalización de los servicios permite mejorar el nivel y la calidad de vida pues provoca una disminución de los precios y una mayor calidad de los servicios.",
+      "D. La liberalización de los servicios tiene efectos negativos en la distribución de la renta."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La liberalización del sector servicios aumenta la competencia, lo que reduce precios y mejora la calidad, beneficiando al consumidor.",
+    "tag": "Examen 3 - Tema 5"
+  },
+  {
+    "enunciado": "Señale cuál es la opción falsa respecto al proceso de terciarización español:",
+    "opciones": [
+      "A. El proceso de terciarización se define como la ganancia del peso relativo de los servicios en términos de producción y empleo.",
+      "B. Una de las principales características de la terciarización en España no es la falta de una estructura empresarial adecuada.",
+      "C. Los principales factores que explican este rápido proceso son el descenso de la industria y la desagrarización.",
+      "D. En España el sector servicios ha tardado un tiempo relativamente reducido en adquirir una importancia equivalente a la del resto de países europeos."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La falta de una estructura empresarial adecuada es precisamente una de las principales características (debilidades) de la terciarización española.",
+    "tag": "Examen 3 - Tema 5"
+  },
+  {
+    "enunciado": "De entre las siguientes afirmaciones sobre el sector servicios, señale cuál es la opción correcta:",
+    "opciones": [
+      "A. El sector servicios en España tiene cada vez un carácter menos estratégico.",
+      "B. Tradicionalmente, el sector servicios tiene un carácter inflacionista de nuestra economía.",
+      "C. De acuerdo al comportamiento de los precios, podemos decir que existe una elevada heterogeneidad.",
+      "D. No existen grandes dificultades a la hora de medir la productividad cuando hablamos de servicios."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El sector servicios es muy heterogéneo en cuanto a precios: algunos son inflacionistas (sanidad, educación) y otros no (telecomunicaciones).",
+    "tag": "Examen 3 - Tema 5"
+  },
+  {
+    "enunciado": "Señale cuál de las siguientes ramas ocupa un menor peso en la estructura de la producción de servicios en España:",
+    "opciones": [
+      "A. Administración pública.",
+      "B. Actividades financieras y de seguros.",
+      "C. Hostelería.",
+      "D. Inmobiliarias y servicios a empresas."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Las actividades financieras y de seguros tienen un peso menor en la producción de servicios española en comparación con hostelería o administración pública.",
+    "tag": "Examen 3 - Tema 5"
+  },
+  {
+    "enunciado": "En cuanto al uso de las TIC en el sector servicios de España podemos decir:",
+    "opciones": [
+      "A. No se está favoreciendo el comercio electrónico, pues España es uno de los países con más pobreza.",
+      "B. España destaca por un progresivo comercio electrónico.",
+      "C. España se sitúa por encima de la media de la UE en cuanto a telecomunicaciones se refiere.",
+      "D. B y C son correctas."
+    ],
+    "respuesta": "D",
+    "razonamiento": "España ha desarrollado un comercio electrónico progresivo y se sitúa por encima de la media UE en telecomunicaciones.",
+    "tag": "Examen 3 - Tema 5"
+  },
+  {
+    "enunciado": "Dentro de los factores explicativos del crecimiento del sector servicios debido al consumo de las familias, señale la incorrecta:",
+    "opciones": [
+      "A. Sociales.",
+      "B. Transportes.",
+      "C. Demografía.",
+      "D. Comunicaciones."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La demografía no se considera un factor de demanda que explique el crecimiento del sector servicios por consumo familiar; los factores son sociales, transportes y comunicaciones.",
+    "tag": "Examen 3 - Tema 5"
+  },
+  {
+    "enunciado": "Atendiendo a la especialización productiva de los servicios en España, ¿cuál es FALSA?",
+    "opciones": [
+      "A. Los servicios de mercado realizan una aportación a la producción en España inferior a la de la UE.",
+      "B. El comercio y la hostelería son las actividades de servicios con mayor peso sobre el total en España.",
+      "C. Los servicios vinculados al estado de bienestar tienen menor presencia relativa en España que en la UE.",
+      "D. Los servicios empresariales tienen menor importancia en España en relación a otros países de la UE."
+    ],
+    "respuesta": "D",
+    "razonamiento": "Los servicios empresariales han ganado peso en España, por lo que afirmar que tienen menor importancia respecto a la UE es la opción más cuestionable.",
+    "tag": "Examen 3 - Tema 5"
+  },
+  {
+    "enunciado": "Atendiendo a la clasificación del sector servicios, es Falso que:",
+    "opciones": [
+      "A. Los servicios progresivos permiten incorporar capital y mejorar tecnologías.",
+      "B. Un servicio puede ser intermedio o final según su destino.",
+      "C. Los servicios no destinados a la venta son prestados tanto por el sector público como por empresas privadas.",
+      "D. Los servicios estancados muestran dificultades para reducir la mano de obra por unidad de producto."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Los servicios no destinados a la venta (educación, sanidad públicas) son prestados principalmente por el sector público, no por empresas privadas.",
+    "tag": "Examen 3 - Tema 5"
+  },
+  {
+    "enunciado": "Entre los factores de oferta nuevos que se dan en el sector servicios, se encuentra:",
+    "opciones": [
+      "A. La facilidad de despido en el sector.",
+      "B. El predominio de PYMEs.",
+      "C. Los bajos costes de acceso al sector por parte de las empresas.",
+      "D. El desarrollo de procesos de desregulación y liberación."
+    ],
+    "respuesta": "D",
+    "razonamiento": "La desregulación y liberalización del sector servicios es el principal factor de oferta que ha impulsado su crecimiento en España.",
+    "tag": "Examen 3 - Tema 5"
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes actividades de servicios ha descendido en productividad en el periodo de 2001 a 2017?",
+    "opciones": [
+      "A. La hostelería.",
+      "B. Distribución comercial.",
+      "C. Información y comunicación.",
+      "D. Actividades financieras y seguros."
+    ],
+    "respuesta": "A",
+    "razonamiento": "La hostelería ha registrado un descenso de productividad en ese periodo, mientras que distribución comercial e información y comunicación la han incrementado.",
+    "tag": "Examen 3 - Tema 5"
+  },
+  {
+    "enunciado": "Los servicios estancados y progresivos son:",
+    "opciones": [
+      "A. Los progresivos son aquellos en los que es complejo alterar las necesidades de mano de obra por unidad de producto sin perjudicar la calidad.",
+      "B. Los servicios progresivos son los prestados por el gobierno para alcanzar mayor igualdad de oportunidades.",
+      "C. Los estancados son aquellos en los que es complejo alterar las necesidades de mano de obra por unidad de producto sin perjudicar la producción. En cambio, los progresivos son aquellos en los que es factible mejorar la productividad.",
+      "D. Los servicios estancados son aquellos cuya demanda se encuentra estancada."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Los servicios estancados (peluquería, hostelería) no pueden reducir mano de obra sin perder calidad; los progresivos (telecomunicaciones) sí pueden mejorar productividad con capital.",
+    "tag": "Examen 3 - Tema 5"
+  },
+  {
+    "enunciado": "Si una instructora de Ski en Sierra Nevada suele buscar trabajo para los meses de invierno. En la actualidad, mes de junio, no se encuentra trabajando y forma parte de:",
+    "opciones": [
+      "A. Población empleada.",
+      "B. Población activa.",
+      "C. Población inactiva.",
+      "D. Población desempleada."
+    ],
+    "respuesta": "C",
+    "razonamiento": "En junio no busca trabajo activamente (solo trabaja y busca en invierno), por lo que es población inactiva según la definición EPA.",
+    "tag": "Examen 3 - Tema 7"
+  },
+  {
+    "enunciado": "La tasa de paro EPA:",
+    "opciones": [
+      "A. Coincide siempre con la tasa de paro registrado.",
+      "B. Representa las demandas de empleo pendientes de satisfacer el último día del mes en las oficinas públicas de empleo.",
+      "C. Se refiere a un semestre.",
+      "D. Suele ser superior al paro registrado."
+    ],
+    "respuesta": "D",
+    "razonamiento": "La EPA capta a todos los que buscan empleo, mientras que el paro registrado solo incluye a quienes acuden al SEPE; por eso la EPA suele ser mayor.",
+    "tag": "Examen 3 - Tema 7"
+  },
+  {
+    "enunciado": "La tasa de actividad se obtiene como:",
+    "opciones": [
+      "A. La suma de la tasa de paro y la tasa de ocupación.",
+      "B. Dividiendo la población activa entre la población total del país, multiplicada por 100.",
+      "C. Dividiendo la población activa entre la población menor de 16 años, multiplicada por 100.",
+      "D. Dividiendo la población activa entre la población potencialmente activa, multiplicada por 100."
+    ],
+    "respuesta": "D",
+    "razonamiento": "La tasa de actividad mide el porcentaje de la población en edad de trabajar (potencialmente activa) que está activa (ocupada o buscando empleo).",
+    "tag": "Examen 3 - Tema 7"
+  },
+  {
+    "enunciado": "Respecto a la tasa de ocupación, vemos que:",
+    "opciones": [
+      "A. En España hay muy poco empleo temporal.",
+      "B. Nos encontramos por encima de la media Europea, tanto en hombres como en mujeres.",
+      "C. Es menor a la media Europea, en hombres, mujeres y en términos totales.",
+      "D. Es mayor a la media Europea solamente en el caso de mujeres."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La tasa de ocupación española es inferior a la media europea tanto en hombres como en mujeres, con una brecha especialmente notable en mujeres.",
+    "tag": "Examen 3 - Tema 7"
+  },
+  {
+    "enunciado": "El desempleo en España:",
+    "opciones": [
+      "A. Es similar en todas las Comunidades Autónomas.",
+      "B. No es diferente según el nivel de estudios.",
+      "C. Es mayor en Andalucía y Extremadura que en el resto de CCAA.",
+      "D. Es mayor en Castilla y León que en el resto de CCAA."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Andalucía, Extremadura y Canarias presentan las tasas de desempleo más elevadas de España, por encima de la media nacional.",
+    "tag": "Examen 3 - Tema 7"
+  },
+  {
+    "enunciado": "La tasa de actividad:",
+    "opciones": [
+      "A. Se ha reducido recientemente por el envejecimiento de la población y porque cada vez la gente joven tiene una menor tasa de actividad.",
+      "B. Se ha reducido recientemente únicamente por el envejecimiento de la población.",
+      "C. Es menor ahora que en el año 2000.",
+      "D. No fue afectada por la incorporación de la mujer al mercado de trabajo."
+    ],
+    "respuesta": "A",
+    "razonamiento": "La tasa de actividad se ha reducido por el envejecimiento demográfico y la menor participación laboral de los jóvenes.",
+    "tag": "Examen 3 - Tema 7"
+  },
+  {
+    "enunciado": "En España hay una persistencia de desempleo debido a:",
+    "opciones": [
+      "A. La bajada de los costes laborales reales por trabajador más que en Europa y la rigidez de los salarios reales.",
+      "B. La subida de los costes laborales reales por trabajador más que en Europa y la flexibilidad de los salarios reales.",
+      "C. La subida de los costes laborales reales por trabajador más que en Europa y la rigidez de los salarios reales.",
+      "D. La subida de los costes laborales reales por trabajador más que en Europa y la flexibilidad de los salarios reales."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Los costes laborales en España han crecido más que en Europa y la rigidez salarial impide el ajuste por precios, generando desempleo persistente.",
+    "tag": "Examen 3 - Tema 7"
+  },
+  {
+    "enunciado": "Algunos factores demográficos que impulsan el aumento de población activa son (señale la correcta):",
+    "opciones": [
+      "A. Ascenso de la población en edad de trabajar.",
+      "B. Incorporación de la mujer al mercado de trabajo.",
+      "C. Entrada de inmigrantes.",
+      "D. Todas son correctas."
+    ],
+    "respuesta": "D",
+    "razonamiento": "Los tres factores (baby boom, incorporación femenina e inmigración) contribuyeron al aumento de la población activa española.",
+    "tag": "Examen 3 - Tema 7"
+  },
+  {
+    "enunciado": "¿Hay 4 tipos de desempleo? ¿Cuáles son?",
+    "opciones": [
+      "A. Friccional, cíclico, estructural y de larga duración.",
+      "B. Friccional, real, estructural e intermedio.",
+      "C. Friccional, cíclico, estructural y partido.",
+      "D. Friccional, cíclico, de corta duración y de larga duración."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Los cuatro tipos de desempleo son: friccional (búsqueda de empleo), cíclico (recesión), estructural (desajuste cualificaciones) y partido (segmentación del mercado).",
+    "tag": "Examen 3 - Tema 7"
+  },
+  {
+    "enunciado": "'Parte de la Población Activa que en la semana de referencia ha tenido un trabajo por cuenta ajena o ha ejercido una actividad por cuenta propia.' Corresponde a:",
+    "opciones": [
+      "A. Población inactiva.",
+      "B. Población activa.",
+      "C. Población ocupada.",
+      "D. Población parada."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Esta es la definición exacta de población ocupada según la Encuesta de Población Activa (EPA).",
+    "tag": "Examen 3 - Tema 7"
+  },
+  {
+    "enunciado": "La fórmula para calcular la tasa de paro es la siguiente:",
+    "opciones": [
+      "A. Población parada / Población Activa * 100.",
+      "B. Población parada / Población Potencialmente Activa * 100.",
+      "C. Población activa / Población parada * 100.",
+      "D. Ninguna de las opciones es correcta."
+    ],
+    "respuesta": "A",
+    "razonamiento": "La tasa de paro se calcula dividiendo la población parada entre la población activa total, multiplicado por 100.",
+    "tag": "Examen 3 - Tema 7"
+  },
+  {
+    "enunciado": "La población parada o desempleada es aquella parte de la población activa que cumple simultáneamente las siguientes condiciones:",
+    "opciones": [
+      "A. Estar sin trabajo, estudiar y estar disponible para trabajar en el plazo máximo de dos semanas.",
+      "B. Estar sin trabajo, estar buscando empleo de forma activa y estar disponible para trabajar en el plazo máximo de dos semanas.",
+      "C. Tener más de 16 años, estar sin trabajo y estar disponible en el plazo máximo de un mes.",
+      "D. Ninguna de las opciones es correcta."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La EPA define al parado como quien: no tiene trabajo, busca activamente empleo y está disponible para incorporarse en un máximo de dos semanas.",
+    "tag": "Examen 3 - Tema 7"
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes afirmaciones es incorrecta sobre la persistencia del desempleo?",
+    "opciones": [
+      "A. La persistencia del desempleo en España se debe a la persistencia del desempleo estructural.",
+      "B. La persistencia del desempleo en España se debe a la persistencia del desempleo friccional.",
+      "C. La persistencia del desempleo en España se debe a la baja intensidad de búsqueda de empleo.",
+      "D. La persistencia del desempleo en España se debe a la poca adecuación de los desempleados a la demanda de trabajo en cuanto a cualificación."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El desempleo en España es principalmente estructural, no friccional. El friccional es de corta duración y no explica la persistencia del paro español.",
+    "tag": "Examen 3 - Tema 7"
+  },
+  {
+    "enunciado": "Señale la correcta sobre reformas laborales y desempleo:",
+    "opciones": [
+      "A. Los sindicatos en España tienen gran afiliación por lo que tienen gran fuerza negociadora.",
+      "B. Los elevados costes de despido en España aumentan las contrataciones.",
+      "C. Gracias a las reformas de 2012 han aumentado las indemnizaciones por despido.",
+      "D. Los menores costes de despido han dado lugar a la reducción del paro estructural."
+    ],
+    "respuesta": "D",
+    "razonamiento": "La reducción de los costes de despido favorece la contratación y reduce el desempleo estructural al disminuir la dualidad del mercado laboral.",
+    "tag": "Examen 3 - Tema 7"
+  },
+  {
+    "enunciado": "La población activa está compuesta por:",
+    "opciones": [
+      "A. Población ocupada.",
+      "B. Población en edad de trabajar.",
+      "C. Población parada.",
+      "D. A y C son correctas."
+    ],
+    "respuesta": "D",
+    "razonamiento": "La población activa incluye la población ocupada (con trabajo) y la población parada (sin trabajo pero buscándolo).",
+    "tag": "Examen 3 - Tema 7"
+  },
+  {
+    "enunciado": "Con la reforma realizada en 2012, algunos de los resultados que se obtuvieron fueron:",
+    "opciones": [
+      "A. Creación de empleo con tasas positivas, siendo mayor que el crecimiento del PIB.",
+      "B. No ha facilitado la flexibilidad interna, se han disparado los despidos y la destrucción del empleo.",
+      "C. Se ha reducido el paro estructural debido a los menores costes del despido y la negociación colectiva es más centralizada.",
+      "D. Disminuyen los costes del despido: se incrementan las contrataciones y hay más saldo del paro hacia el empleo."
+    ],
+    "respuesta": "D",
+    "razonamiento": "La reforma de 2012 redujo los costes de despido, lo que fomentó las contrataciones y facilitó la transición del desempleo al empleo.",
+    "tag": "Examen 3 - Tema 7"
+  },
+  {
+    "enunciado": "Señale la opción verdadera sobre el mercado laboral español:",
+    "opciones": [
+      "A. La tasa de ocupación en España va desde los 16 años hasta los 67.",
+      "B. La tasa de ocupación en España está por debajo de la media europea, tanto en hombres como en mujeres.",
+      "C. En España la tasa de temporalidad es más baja que en el resto de la Unión Europea.",
+      "D. La tasa de temporalidad mide el cociente entre el número de personas ocupadas y la población total."
+    ],
+    "respuesta": "B",
+    "razonamiento": "España tiene una tasa de ocupación inferior a la media europea tanto en hombres como en mujeres, especialmente en el caso femenino.",
+    "tag": "Examen 3 - Tema 7"
+  },
+  {
+    "enunciado": "En la persistencia del desempleo en España antes de la reforma de 2012, la baja intensidad de búsqueda de empleo era a causa de:",
+    "opciones": [
+      "A. Había prestaciones por desempleo bastantes generosas.",
+      "B. Tenían muchas cargas familiares, por lo que no se disponía de tiempo para trabajar.",
+      "C. No había necesidad de trabajar.",
+      "D. Ninguna es cierta."
+    ],
+    "respuesta": "A",
+    "razonamiento": "Las generosas prestaciones por desempleo reducían los incentivos a buscar empleo activamente, contribuyendo a la persistencia del desempleo.",
+    "tag": "Examen 3 - Tema 7"
+  },
+  {
+    "enunciado": "El factor demográfico que ha causado el aumento de la población activa y de la tasa de actividad es:",
+    "opciones": [
+      "A. Baby boom de los sesenta.",
+      "B. Disminución de tasas de actividad en la población más joven.",
+      "C. Progresivo envejecimiento.",
+      "D. Jubilaciones."
+    ],
+    "respuesta": "A",
+    "razonamiento": "El baby boom de los años 60 generó una cohorte muy numerosa que se incorporó al mercado laboral en los años 80 y 90, aumentando la población activa.",
+    "tag": "Examen 3 - Tema 7"
+  },
+  {
+    "enunciado": "Un shock de la OFERTA y de la DEMANDA en la economía española es:",
+    "opciones": [
+      "A. Salarios menores que el resto de la UE.",
+      "B. Aumento del paro.",
+      "C. Aumento de la competencia en los mercados de bienes y servicios por liberalización de actividades y globalización económica.",
+      "D. Entrada masiva de emigrantes."
+    ],
+    "respuesta": "C",
+    "razonamiento": "La liberalización y globalización afectan simultáneamente a la oferta (mayor competencia) y a la demanda (mayores opciones de consumo).",
+    "tag": "Examen 3 - Tema 7"
+  },
+  {
+    "enunciado": "¿Por qué una alta tasa de parados en España no buscaban empleo?",
+    "opciones": [
+      "A. Las prestaciones por desempleo eran bastante generosas.",
+      "B. La tasa de parados era de corta duración.",
+      "C. La demanda de trabajo requería una alta cualificación.",
+      "D. Subida de los costes laborales."
+    ],
+    "respuesta": "A",
+    "razonamiento": "Las prestaciones generosas desincentivaban la búsqueda activa de empleo, especialmente en los primeros meses de desempleo.",
+    "tag": "Examen 3 - Tema 7"
+  },
+  {
+    "enunciado": "El mercado financiero es:",
+    "opciones": [
+      "A. Mecanismo a través del cual se intercambian pasivos financieros y se fija su precio.",
+      "B. Mecanismo a través del cual se intercambian activos financieros y se fija su precio libremente.",
+      "C. Mecanismo a través del cual se intercambian activos financieros y se fija su interés regulado.",
+      "D. Todas son falsas."
+    ],
+    "respuesta": "D",
+    "razonamiento": "El mercado financiero es el mecanismo donde se intercambian activos financieros y se determina su precio, pero la descripción completa no coincide con ninguna opción aislada.",
+    "tag": "Examen 3 - Tema 8"
+  },
+  {
+    "enunciado": "Un intermediario financiero puede ser:",
+    "opciones": [
+      "A. Bancos y compañías aseguradoras.",
+      "B. Cooperativas de Crédito y fondo de pensiones.",
+      "C. Cajas de ahorros e instituciones de inversión colectiva.",
+      "D. Todas son correctas."
+    ],
+    "respuesta": "D",
+    "razonamiento": "Los intermediarios financieros incluyen bancos, cajas, cooperativas de crédito, aseguradoras, fondos de pensiones e instituciones de inversión colectiva.",
+    "tag": "Examen 3 - Tema 8"
+  },
+  {
+    "enunciado": "En una situación normal de una economía, si comparamos la evolución del crédito bancario con el PIB:",
+    "opciones": [
+      "A. El crédito evoluciona siempre por encima del PIB.",
+      "B. El crédito evoluciona siempre a la par que el PIB.",
+      "C. El crédito evoluciona siempre por debajo del PIB.",
+      "D. Todas son falsas."
+    ],
+    "respuesta": "D",
+    "razonamiento": "La relación entre crédito y PIB varía según el ciclo económico: en expansión el crédito puede superar al PIB, en recesión puede quedar por debajo.",
+    "tag": "Examen 3 - Tema 8"
+  },
+  {
+    "enunciado": "Señale la FALSA sobre el sistema financiero español:",
+    "opciones": [
+      "A. En España se sigue el modelo de sistema financiero continental porque las PYMES tienen más facilidades para acudir al mercado financiero que a los intermediarios financieros.",
+      "B. En España y la Eurozona el crédito bancario forma más del 100% del PIB, mientras que en EEUU forma mucho menos.",
+      "C. El proceso de desintermediación financiera consiste en acudir más a los mercados financieros que a la financiación intermediada.",
+      "D. Nuestro sistema financiero se ha visto muy afectado en las últimas décadas por la revolución tecnológica y la liberalización de los movimientos de capitales en el mundo."
+    ],
+    "respuesta": "A",
+    "razonamiento": "Las PYMES españolas tienen mayor dificultad para acceder a los mercados financieros, no más facilidad; dependen principalmente de los intermediarios financieros.",
+    "tag": "Examen 3 - Tema 8"
+  },
+  {
+    "enunciado": "El proceso de titulización que se llevó a cabo como consecuencias de la revolución tecnológica y la globalización es:",
+    "opciones": [
+      "A. Proceso por el cual se recurre cada vez más a los mercados en lugar de a los intermediarios financieros.",
+      "B. Proceso por el cual los créditos hipotecarios concedidos por los bancos se dividieron en participaciones para poder ser vendidas a cualquier otra entidad o mercado con más facilidad.",
+      "C. Proceso por el cual comparando lo ahorrado y lo prestado se determina si un agente económico es deudor o acreedor.",
+      "D. Proceso por el cual las entidades se agruparon para convertirse en grandes entidades financieras."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La titulización convierte créditos hipotecarios en valores negociables (MBS) que pueden venderse en los mercados financieros.",
+    "tag": "Examen 3 - Tema 8"
+  },
+  {
+    "enunciado": "Señale la opción correcta sobre los activos financieros:",
+    "opciones": [
+      "A. Los activos financieros son activos para los emisores y pasivos para los tenedores.",
+      "B. Los activos financieros son un instrumento de transformación de fondos e incrementan la riqueza de un país.",
+      "C. Los activos financieros son un instrumento de transformación de riesgos y no incrementan la riqueza de un país.",
+      "D. Ninguna de las opciones es correcta."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Los activos financieros transfieren y transforman riesgos entre agentes, pero no crean riqueza real; solo redistribuyen el riesgo financiero.",
+    "tag": "Examen 3 - Tema 8"
+  },
+  {
+    "enunciado": "El sistema bancario español se caracteriza desde 1980:",
+    "opciones": [
+      "A. Eliminación de restricciones hacia la competencia.",
+      "B. Regularización del sistema.",
+      "C. Una reducción de las barreras de entrada gracias al avance de las TIC.",
+      "D. A y C son correctas."
+    ],
+    "respuesta": "D",
+    "razonamiento": "Desde 1980 el sistema bancario español se transformó por la liberalización (eliminación de restricciones) y las TIC (reducción de barreras de entrada).",
+    "tag": "Examen 3 - Tema 8"
+  },
+  {
+    "enunciado": "La tasa de morosidad en España entre 1985-2018:",
+    "opciones": [
+      "A. Se ha mantenido constante.",
+      "B. Se acentúa principalmente con la crisis de 2008.",
+      "C. No ha parado de crecer desde la crisis de 2008.",
+      "D. El pico más alto ocurre como consecuencia de la crisis interna de 1992."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La tasa de morosidad se disparó con la crisis de 2008, alcanzando su máximo en 2013, para luego disminuir a partir de 2012-2013.",
+    "tag": "Examen 3 - Tema 8"
+  }
+]
