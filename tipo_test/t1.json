@@ -1,0 +1,302 @@
+{
+  "1": {
+    "enunciado": "Durante el periodo 1961-2024, ¿cómo se comporta el crecimiento del PIB per cápita real de España en relación con los países de la Eurozona?",
+    "opciones": [
+      "España crece a un ritmo similar al de la Eurozona tanto en expansiones como en crisis, mostrando una convergencia plena en sus ciclos económicos.",
+      "España tiende a crecer a un ritmo mayor que la Eurozona en etapas de expansión, pero sufre fluctuaciones más marcadas y padece las crisis con mayor intensidad.",
+      "España tiende a crecer más lentamente que la Eurozona en expansiones, pero se recupera antes gracias a su mayor flexibilidad estructural.",
+      "España crece a un ritmo mayor que la Eurozona en todas las fases del ciclo, incluidas las recesiones, debido a su elevada capacidad exportadora."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Entre 1961 y 2024, la economía española ha incrementado su PIB per cápita en un 2,4% de media anual, frente al 2,0% de la Eurozona. Sin embargo, ha sufrido con mayor intensidad las crisis económicas y las fluctuaciones del PIB han tenido un carácter más marcado en todas las etapas.",
+    "tag": "Tema 1"
+  },
+  "2": {
+    "enunciado": "¿En qué consiste la denominada 'regla del 4%' referida a la evolución del saldo exterior español desde 1960 hasta la actualidad?",
+    "opciones": [
+      "Hace referencia al objetivo de crecimiento anual del PIB del 4% fijado en los Pactos de la Moncloa como condición para la integración en la CEE.",
+      "Alude a la regla del Pacto de Estabilidad que limitaba el déficit público al 4% del PIB en los países candidatos a la tercera fase de la UEM.",
+      "Se refiere al límite no oficial de déficit comercial respecto al PIB que históricamente obligaba a España a devaluar la peseta, restricción que desapareció al entrar en la UEM.",
+      "Describe el porcentaje de reservas de divisas que el Banco de España debía mantener para garantizar la estabilidad del tipo de cambio de la peseta."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Al entrar en la Unión Económica y Monetaria, la economía española pudo soportar déficits comerciales superiores al 4% del PIB sin necesidad de devaluar su moneda, siempre que pudiera encontrar financiación en los mercados de capitales.",
+    "tag": "Tema 1"
+  },
+  "3": {
+    "enunciado": "¿Cómo se ha comportado el saldo exterior de España respecto al PIB entre 1961 y 2024 según el ciclo económico?",
+    "opciones": [
+      "El saldo exterior ha sido recurrentemente negativo durante las fases de fuerte expansión económica, logrando ser positivo únicamente durante y tras las crisis, especialmente de forma continuada a partir de 2012.",
+      "El saldo exterior ha sido estructuralmente positivo durante las fases de expansión, deteriorándose únicamente en las recesiones por la caída de las exportaciones.",
+      "El saldo exterior se ha mantenido en equilibrio a lo largo del periodo, con pequeñas oscilaciones que no muestran un patrón cíclico definido.",
+      "El saldo exterior ha mostrado una tendencia positiva creciente desde los años sesenta, con breves episodios de déficit coincidentes solo con las crisis del petróleo."
+    ],
+    "respuesta": "A",
+    "razonamiento": "Históricamente el desequilibrio de la balanza generó déficits que se agravaban en épocas de fuerte demanda interna. Con la crisis financiera, el hundimiento de la demanda interna obligó a las empresas a buscar mercados exteriores, lo que se tradujo en superávit a partir de 2012.",
+    "tag": "Tema 1"
+  },
+  "4": {
+    "enunciado": "En el periodo 1960-2024, ¿a partir de qué momento se incrementó considerablemente el déficit exterior en relación al PIB y por qué razones?",
+    "opciones": [
+      "A partir de la crisis del petróleo de 1973, cuando la factura energética disparó las importaciones hasta representar el 10% del PIB por vez primera en la historia española.",
+      "A partir de la segunda mitad de los años noventa (fase 1995-2007), alcanzando hasta un 10% del PIB en 2007, por la fuerte demanda interna, la inflación diferencial, la escasa productividad y la competencia de economías emergentes.",
+      "Desde la adhesión a la CEE en 1986, cuando la apertura comercial generó un déficit inmediato que llegó a superar el 8% del PIB en plena fase de adaptación al mercado único.",
+      "A raíz de la crisis de 1992-1993, cuando la devaluación de la peseta encareció las importaciones y amplió el déficit exterior hasta niveles históricamente insostenibles."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El deterioro acelerado hacia el 10% del PIB en 2007 estuvo influido por la fortaleza de la demanda interna (que estimuló más importaciones), una inflación diferencial superior en 1,5 puntos, una reducida productividad y una elevada competencia exterior por parte de economías emergentes.",
+    "tag": "Tema 1"
+  },
+  "5": {
+    "enunciado": "¿Por qué el PIB per cápita de España es inferior respecto a la Eurozona que frente a la UE-27? ¿Ha habido convergencia desde los años 60?",
+    "opciones": [
+      "Es inferior frente a la UE-27 porque esta incluye economías emergentes de Europa oriental que elevan la media, mientras que la Eurozona agrupa solo países de renta similar a España.",
+      "Es inferior frente a ambas zonas en la misma proporción, sin diferencia significativa entre el PIB per cápita relativo frente a la Eurozona y frente a la UE-27.",
+      "Es inferior frente a la Eurozona exclusivamente por el efecto del tipo de cambio; en paridad de poder adquisitivo España se sitúa por encima de la media comunitaria.",
+      "Es inferior frente a la Eurozona porque esta concentra las economías más avanzadas, mientras que la UE-27 incluye países de reciente integración con rentas menores. Sí ha existido convergencia general desde 1961 respecto a ambas zonas."
+    ],
+    "respuesta": "D",
+    "razonamiento": "El PIB per cápita español se situó en 2024 en un 86,7% frente a la media de la Eurozona, pero alcanzó un 90,0% respecto a la UE-27. A largo plazo se constata la convergencia, pasando desde niveles cercanos al 70% a principios de los años 60, con periodos de acercamiento y alejamiento marcados por las crisis.",
+    "tag": "Tema 1"
+  },
+  "6": {
+    "enunciado": "Sobre los rasgos del crecimiento económico español entre 1960 y 2024: ¿cuál de las siguientes combinaciones de afirmaciones (Verdadero/Falso) es correcta? 1) Los países europeos crecieron más que España. 2) España participó intensamente en relaciones económicas con su entorno antes de pertenecer a la UE. 3) España destruye menos empleo que los países europeos durante las crisis. 4) España sufrió fluctuaciones más intensas del PIB que los países europeos en las etapas de crisis.",
+    "opciones": [
+      "1) Falso. 2) Verdadero. 3) Falso. 4) Verdadero.",
+      "1) Verdadero. 2) Verdadero. 3) Falso. 4) Verdadero.",
+      "1) Falso. 2) Verdadero. 3) Verdadero. 4) Verdadero.",
+      "1) Falso. 2) Falso. 3) Falso. 4) Verdadero."
+    ],
+    "respuesta": "A",
+    "razonamiento": "Los países europeos crecieron a menor ritmo (2,0% Eurozona frente al 2,4% de España). España participó intensamente con su entorno europeo antes de ingresar en la UE. España no destruye menos empleo: ha sufrido con mayor intensidad las crisis económicas. Las fluctuaciones del PIB en España han tenido un carácter más marcado que los países comunitarios en todas las etapas.",
+    "tag": "Tema 1"
+  },
+  "7": {
+    "enunciado": "Respecto a los años 80 hasta el Tratado de Maastricht de 1992, ¿cuál de las siguientes combinaciones de verdadero/falso sobre las afirmaciones señaladas es correcta? [Empresas públicas saneadas / Mercado laboral sin rigidez / Objetivos 1982 ya sin inflación ni déficit / Expansión 86-91 por demanda externa / Inflación dual: bienes mayor que servicios / Apreciación de la peseta mejoró competitividad]",
+    "opciones": [
+      "Empresas públicas saneadas: Verdadero / Mercado sin rigidez: Falso / Expansión 86-91 por demanda externa: Falso / Inflación dual bienes > servicios: Falso / Peseta apreciada mejora competitividad: Falso.",
+      "Empresas públicas saneadas: Falso / Mercado sin rigidez: Verdadero / Expansión 86-91 por demanda externa: Falso / Inflación dual bienes > servicios: Falso / Peseta apreciada mejora competitividad: Falso.",
+      "Empresas públicas saneadas: Falso / Mercado sin rigidez: Falso / Expansión 86-91 por demanda externa: Falso / Inflación dual bienes > servicios: Falso / Peseta apreciada mejora competitividad: Falso.",
+      "Empresas públicas saneadas: Falso / Mercado sin rigidez: Falso / Expansión 86-91 por demanda externa: Verdadero / Inflación dual bienes > servicios: Falso / Peseta apreciada mejora competitividad: Falso."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Las empresas públicas sufrían déficits (no estaban saneadas). El mercado laboral presentaba rigideces. En 1982 la inflación y el déficit aún eran objetivos a reducir. La expansión 86-91 se debió a la demanda interna, no externa. La inflación dual indica que los servicios crecían MÁS que los bienes (no al revés). La apreciación de la peseta REDUJO la competitividad exterior.",
+    "tag": "Tema 1"
+  },
+  "8": {
+    "enunciado": "En la segunda fase de la UEM, que comenzó el 1 de enero de 1994, ¿podían los bancos centrales nacionales conceder préstamos al sector público?",
+    "opciones": [
+      "Sí, pero únicamente con la autorización previa del Consejo de Ministros y por un importe no superior al 3% del PIB del país correspondiente.",
+      "Sí, podían hacerlo en circunstancias excepcionales de emergencia fiscal, previa consulta con el Instituto Monetario Europeo.",
+      "Sí, pero solo para cubrir déficits presupuestarios transitorios y a tipos de interés de mercado, como medida de transición hacia la tercera fase.",
+      "No, estaba estrictamente prohibido que los bancos centrales nacionales concedieran préstamos al sector público."
+    ],
+    "respuesta": "D",
+    "razonamiento": "Con la entrada en vigor de la Segunda Fase de la UEM el 1 de enero de 1994, se estableció la prohibición expresa a los bancos centrales de conceder crédito al sector público, como requisito preparatorio para la unificación monetaria.",
+    "tag": "Tema 1"
+  },
+  "9": {
+    "enunciado": "¿Para qué se exigía en la segunda fase de la UEM que los bancos centrales fueran independientes?",
+    "opciones": [
+      "Para garantizar que la política monetaria nacional pudiera seguir siendo autónoma una vez adoptado el euro, preservando un margen de maniobra nacional.",
+      "Era un requisito preparatorio fundamental: los bancos centrales debían iniciar el proceso hacia su independencia para que este concluyera antes del establecimiento del SEBC en la tercera fase.",
+      "Era una condición impuesta por los mercados financieros como garantía de la solvencia de los estados antes de emitir bonos en los mercados europeos.",
+      "Se requería para coordinar las políticas fiscales nacionales y evitar que los gobiernos usaran la inflación como mecanismo encubierto de redistribución de renta."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Se exigía iniciar el proceso conducente a la independencia de los bancos centrales nacionales para que este concluyera antes del establecimiento del Sistema Europeo de Bancos Centrales en la tercera fase de la UEM.",
+    "tag": "Tema 1"
+  },
+  "10": {
+    "enunciado": "¿Qué es el Mecanismo de Tipos de Cambio europeo MTC II?",
+    "opciones": [
+      "Es un mecanismo regulador del tipo de cambio europeo vinculado a la instauración del euro, en vigor desde el inicio de la Tercera Fase de la UEM (1 de enero de 1999).",
+      "Es el sistema de supervisión bancaria europea creado tras la crisis financiera de 2008 para coordinar la regulación prudencial de las entidades de crédito de la zona euro.",
+      "Es el mecanismo de financiación de emergencia del BCE para estados con dificultades de acceso a los mercados de deuda, activado por primera vez en la crisis griega de 2010.",
+      "Es el marco de estabilidad presupuestaria que establece los límites de déficit y deuda para los países candidatos a adoptar el euro."
+    ],
+    "respuesta": "A",
+    "razonamiento": "El Mecanismo de Tipos de Cambio II (MTC II) entró en vigor durante la Tercera Fase de la UEM, iniciada el 1 de enero de 1999, vinculando los tipos de cambio de las monedas de países que aún no habían adoptado el euro al euro mismo.",
+    "tag": "Tema 1"
+  },
+  "11": {
+    "enunciado": "¿Qué es el Pacto de Estabilidad y Crecimiento?",
+    "opciones": [
+      "Es el acuerdo intergubernamental firmado en 1991 por el que los estados se comprometían a alcanzar una inflación inferior al 2% antes de adoptar la moneda única.",
+      "Es el fondo de rescate permanente de la eurozona creado en 2012 para financiar a los estados con dificultades de pago, con una capacidad máxima de 700.000 millones de euros.",
+      "Es una normativa de rigor fiscal europeo a la que quedan sujetos los estados miembros, en vigor desde la Tercera Fase de la UEM (1999), que obliga al control del déficit público.",
+      "Es el tratado por el que los estados cedieron la soberanía monetaria al BCE a cambio de beneficiarse de los tipos de interés bajos propios de las economías más estables de la zona."
+    ],
+    "respuesta": "C",
+    "razonamiento": "El Pacto de Estabilidad y Crecimiento entró en vigor en la Tercera Fase de la UEM (1999) para forzar el control del déficit público, y en España dio lugar a la posterior Ley General de Estabilidad Presupuestaria de 2002.",
+    "tag": "Tema 1"
+  },
+  "12": {
+    "enunciado": "Para acceder a la tercera fase de la UEM, ¿qué se exigía a los países miembros?",
+    "opciones": [
+      "Se exigía exclusivamente el criterio de déficit público (inferior al 3% del PIB) y el de deuda (inferior al 60% del PIB); los criterios monetarios eran orientativos y no vinculantes.",
+      "Se exigía el cumplimiento de cinco criterios: inflación (no superar en 1,5 pp la media de los tres países más estables), tipos de interés (no superar en 2 pp), déficit público máximo del 3%, deuda pública máxima del 60%, y estabilidad del tipo de cambio en el SME.",
+      "Se exigía demostrar un crecimiento real del PIB superior al 2% anual durante al menos tres años consecutivos y una tasa de desempleo inferior a la media comunitaria.",
+      "Se exigía únicamente el criterio de inflación (inferior al 3%) y la participación voluntaria durante dos años en el mecanismo de tipos de cambio del Sistema Monetario Europeo."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Se requería cumplir cinco criterios macroeconómicos: tasa de inflación (no superar en más de 1,5 pp la media de los tres países más estables), tipos de interés (no superar en 2 pp), déficit público máximo del 3% del PIB, deuda pública máxima del 60% del PIB, y estabilidad del tipo de cambio en el SME.",
+    "tag": "Tema 1"
+  },
+  "13": {
+    "enunciado": "Al final de 1998, ¿cumplía España todos los requisitos de convergencia nominal exigidos para acceder a la tercera fase de la UEM?",
+    "opciones": [
+      "España cumplía todos los criterios de convergencia sin excepción, incluyendo la deuda pública que se situaba exactamente en el límite del 60% del PIB.",
+      "España no cumplía los criterios de inflación ni de tipos de interés, siendo estos los principales obstáculos que requirieron una prórroga especial.",
+      "España cumplía los criterios de inflación y deuda pública, pero no el de déficit público, que superaba el 3% del PIB por el impacto del gasto en infraestructuras.",
+      "Cumplía casi todos los criterios salvo el de Deuda Pública (67,4% del PIB, por encima del 60% exigido), aunque se consideró que evolucionaba en la dirección correcta y se le permitió adherirse."
+    ],
+    "respuesta": "D",
+    "razonamiento": "En 1998 España cumplía los requisitos de Inflación (1,4%), Tipos de Interés (4,0%) y Déficit Público (1,8%), pero no cumplía el requisito de Deuda Pública, que se situaba en el 67,4% del PIB (por encima del 60% exigido).",
+    "tag": "Tema 1"
+  },
+  "14": {
+    "enunciado": "¿Por qué se produjo el colapso del SME entre 1992 y 1993?",
+    "opciones": [
+      "Se produjo por la combinación de los desequilibrios internos acumulados por los países europeos y el shock externo de la reunificación alemana, que obligó a Alemania a subir los tipos de interés, afectando al resto de monedas del SME.",
+      "Se debió exclusivamente a los ataques especulativos de los mercados financieros contra las monedas más débiles, sin que existieran desequilibrios económicos reales de fondo.",
+      "Fue consecuencia directa del aumento del precio del petróleo tras la Guerra del Golfo, que generó presiones inflacionistas divergentes haciendo inviable mantener las paridades fijas.",
+      "Obedeció a la decisión política de Dinamarca y el Reino Unido de no ratificar el Tratado de Maastricht, lo que generó una crisis de confianza que se extendió a todas las monedas del SME."
+    ],
+    "respuesta": "A",
+    "razonamiento": "Se produjo por los desequilibrios internos acumulados de los países europeos sumados a las consecuencias financieras de la reunificación alemana. Los altos tipos de interés fijados por Alemania para financiar su reunificación presionaron al resto de monedas del SME.",
+    "tag": "Tema 1"
+  },
+  "15": {
+    "enunciado": "Durante la crisis de 1992-1994, ¿cómo afectó la elevación de los tipos de interés en Alemania a la economía española?",
+    "opciones": [
+      "Permitió a España beneficiarse de una entrada masiva de capitales atraídos por los altos tipos de interés españoles, lo que fortaleció la peseta y evitó la recesión.",
+      "Generó un efecto neutro sobre España al estar la peseta suficientemente desvinculada del marco alemán gracias a las bandas amplias de fluctuación del SME.",
+      "Provocó graves presiones sobre la peseta, la huida masiva de capitales y tres devaluaciones sucesivas que sumaron en torno a un 20% en total entre 1992 y 1995.",
+      "Impulsó una apreciación de la peseta que abarató las importaciones y redujo la inflación española, aunque a costa de empeorar la competitividad de las exportaciones."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Los altos tipos en Alemania para financiar su reunificación colapsaron el SME. Esto produjo en España una huida de capitales y obligó a que la peseta (antes apreciada) sufriera tres fuertes devaluaciones que sumaron alrededor del 20% en total entre 1992 y 1995.",
+    "tag": "Tema 1"
+  },
+  "16": {
+    "enunciado": "En la crisis de 1992-1994, ¿cuál de las siguientes combinaciones describe correctamente lo ocurrido? [PIB sin llegar a negativo / Apreciación del tipo de cambio / Caída de la FBK / Aumento de desempleo, inflación y déficit público / Déficit exterior]",
+    "opciones": [
+      "PIB no llegó a negativo: Verdadero / Apreciación: Verdadero / Caída FBK: Verdadero / Desempleo+inflación+déficit: Verdadero / Déficit exterior: Verdadero.",
+      "PIB no llegó a negativo: Falso (sí fue negativo) / Apreciación: Falso (hubo depreciación) / Caída FBK: Verdadero / Desempleo+inflación+déficit: Verdadero / Déficit exterior: Verdadero.",
+      "PIB no llegó a negativo: Falso (sí fue negativo) / Apreciación: Falso / Caída FBK: Verdadero / Desempleo e inflación: Verdadero pero déficit público: Falso / Superávit exterior: Verdadero.",
+      "PIB no llegó a negativo: Falso (sí fue negativo) / Apreciación: Falso / FBK estable: Verdadero / Aumento desempleo pero reducción inflación: Verdadero / Equilibrio exterior: Verdadero."
+    ],
+    "respuesta": "B",
+    "razonamiento": "El PIB sí alcanzó tasas negativas. No hubo apreciación sino fuerte depreciación de la peseta. Se produjo una débil demanda interna y caída de la inversión en capital fijo (FBK). Se experimentó un severo aumento del desempleo, inflación superior al 5% y déficit público por encima del 7% del PIB, así como déficit en la Balanza por cuenta corriente.",
+    "tag": "Tema 1"
+  },
+  "17": {
+    "enunciado": "A partir del año 2000, con la creación de la zona Euro, ¿se produjo un cambio en los instrumentos tradicionales de política económica?",
+    "opciones": [
+      "Sí: la política monetaria y de tipo de cambio pasaron a ser responsabilidad del BCE, y la política fiscal, aunque nacional, debía respetar las reglas del Tratado de la UE, con mayor protagonismo de las reformas estructurales.",
+      "No: los estados mantuvieron plena soberanía sobre sus políticas monetaria y fiscal, cediendo al BCE únicamente la supervisión bancaria sin competencias en política monetaria.",
+      "Sí, pero el principal cambio fue la transferencia de la política fiscal a la Comisión Europea, que pasó a elaborar los presupuestos nacionales bajo supervisión del Consejo.",
+      "No, el cambio fue gradual y los estados conservaron la posibilidad de fijar sus propios tipos de interés en situaciones de emergencia."
+    ],
+    "respuesta": "A",
+    "razonamiento": "La política monetaria y de tipo de cambio pasaron a ser responsabilidad del BCE. La política fiscal, aunque nacional, pasó a deber respetar las reglas del tratado de la UE, dando mayor protagonismo a la consolidación fiscal y las reformas estructurales para garantizar la convergencia.",
+    "tag": "Tema 1"
+  },
+  "18": {
+    "enunciado": "¿Cuáles fueron los factores expansivos durante el periodo de crecimiento económico 1995-2007?",
+    "opciones": [
+      "El crecimiento se basó fundamentalmente en el dinamismo exportador, que aprovechó la competitividad ganada con la depreciación previa de la peseta y la apertura del mercado único europeo.",
+      "Los factores expansivos fueron principalmente la entrada de fondos europeos FEDER y FEOGA y una política fiscal expansiva de aumento sostenido del gasto público.",
+      "El crecimiento se sustentó en los avances de productividad de los sectores industrial y tecnológico, que permitieron especializarse en productos de alto valor añadido.",
+      "Los principales factores fueron la masiva creación de empleo (7,84 millones), el fuerte aumento del consumo interno impulsado por la mejora de renta y riqueza, y el intenso crecimiento de la inversión en capital fijo (FBK) alimentada por la burbuja inmobiliaria y la inversión en equipo e infraestructuras."
+    ],
+    "respuesta": "D",
+    "razonamiento": "Los principales factores expansivos fueron: la masiva creación de empleo (7,84 millones), impulsada por reformas, moderación salarial y bajadas de tipos; el incremento del consumo por mejora de renta y de la riqueza financiera e inmobiliaria; y el fuerte incremento de la Inversión (FBK) alimentada por la burbuja inmobiliaria, bienes de equipo e infraestructuras.",
+    "tag": "Tema 1"
+  },
+  "19": {
+    "enunciado": "Aunque el periodo 1995-2007 fue expansivo, ¿qué factores ayudaron a contraer el crecimiento?",
+    "opciones": [
+      "Los principales frenos fueron la caída del consumo privado por el encarecimiento del crédito hipotecario y la reducción de la inversión empresarial ante el aumento de los tipos del BCE.",
+      "La contracción vino impuesta por las restricciones a la inmigración que limitaron el crecimiento de la fuerza laboral y por los elevados costes energéticos del petróleo.",
+      "Actuaron como factores limitantes la política fiscal de control del déficit impuesta por el Pacto de Estabilidad (que llevó a superávits en 2005-2007) y el gran deterioro del saldo exterior, propiciado por la desbordante demanda interna, la inflación diferencial y la escasa competitividad.",
+      "Los factores contractivos fueron la apreciación del euro frente al dólar, que redujo la competitividad exterior, y el estancamiento de la demanda de los principales socios comerciales europeos."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Actuaron como limitantes: una política fiscal de control del déficit impuesta por el Pacto de Estabilidad (que llevó incluso a superávits en 2005-2007), y el gran deterioro de la demanda externa o saldo exterior, propiciado por una demanda interna desbordante, inflación diferencial, reducida competitividad/productividad, y el empuje de economías emergentes.",
+    "tag": "Tema 1"
+  },
+  "20": {
+    "enunciado": "¿Qué problemas estructurales ocultaba el patrón de crecimiento del periodo 1995-2007?",
+    "opciones": [
+      "El principal problema fue la excesiva dependencia de las exportaciones industriales de alto valor añadido, vulnerables a perturbaciones en la demanda exterior de los socios comerciales.",
+      "El patrón ocultaba graves deficiencias estructurales: especialización en sectores de baja tecnología, escasas ganancias de productividad, un mercado laboral muy dual, un sistema financiero sobreexpuesto al sector inmobiliario y un sector público con ineficiencias e infraestructuras innecesarias.",
+      "El modelo era básicamente sólido, pero presentaba el riesgo de una eventual apreciación del euro que pudiera erosionar la competitividad de las exportaciones e incrementar el déficit exterior.",
+      "Los problemas se reducían a la elevada deuda pública acumulada para financiar infraestructuras, que hipotecaba la capacidad de respuesta fiscal sin afectar a la estructura productiva privada."
+    ],
+    "respuesta": "B",
+    "razonamiento": "La larga bonanza enmascaró problemas críticos: especialización productiva en sectores de tecnología media-baja; debilidades organizativas y de competitividad empresarial; un mercado laboral muy dual con escasas ganancias de productividad; dependencia del sistema financiero de capitales extranjeros focalizados en el inmobiliario; y un sector público ineficiente con infraestructuras innecesarias y ausencia de reformas preventivas.",
+    "tag": "Tema 1"
+  },
+  "21": {
+    "enunciado": "¿Qué factores externos propiciaron la crisis financiera de 2008-2014?",
+    "opciones": [
+      "Los factores externos determinantes fueron la subida de precios de materias primas y petróleo (generando inflación y caída de rentas), la crisis financiera originada en EE.UU. por las hipotecas subprime y la ingeniería financiera, y la profunda crisis de confianza derivada de la pérdida de credibilidad del sistema.",
+      "La crisis vino exclusivamente del derrumbe de la demanda alemana, que como principal socio comercial de España arrastró las exportaciones españolas y generó un efecto dominó sobre la economía.",
+      "El factor externo principal fue la apreciación del euro frente al dólar y el yen, que encareció las exportaciones europeas y provocó el colapso de los sectores exportadores de la eurozona.",
+      "La crisis fue desencadenada por la decisión del BCE de subir tipos de forma abrupta para combatir la inflación del boom, sin que existieran desequilibrios financieros externos relevantes."
+    ],
+    "respuesta": "A",
+    "razonamiento": "Los factores externos determinantes fueron la subida de los precios del petróleo y materias primas (generando inflación y caída de rentas), la crisis financiera originada en EE.UU. por la burbuja inmobiliaria y las hipotecas subprime, y una profunda crisis de confianza por la pérdida de credibilidad del sistema financiero global.",
+    "tag": "Tema 1"
+  },
+  "22": {
+    "enunciado": "¿Cuál de las siguientes combinaciones describe correctamente los desequilibrios internos de España en la crisis de 2008? [Abundancia de liquidez previa / BCE subió tipos al inicio / Interrupción de flujos de capital / Política monetaria BCE restrictiva / Aumento del crédito / Déficit de las AAPP / Aumento del desempleo / Aumento del déficit exterior]",
+    "opciones": [
+      "Liquidez: Sí / Tipos BCE altos al inicio: Sí / Interrupción flujos: Sí / BCE restrictivo: Sí / Aumento crédito: No / Déficit AAPP: Sí / Desempleo: Sí / Déficit exterior aumentó: Sí.",
+      "Liquidez: Sí / Tipos BCE altos al inicio: Sí / Interrupción flujos: Sí / BCE restrictivo: No / Aumento crédito: Sí / Déficit AAPP: Sí / Desempleo: Sí / Déficit exterior aumentó: No.",
+      "Liquidez: No / Tipos BCE altos al inicio: Sí / Interrupción flujos: No / BCE restrictivo: No / Aumento crédito: No / Déficit AAPP: Sí / Desempleo: Sí / Déficit exterior aumentó: No.",
+      "Liquidez: Sí / Tipos BCE altos al inicio: Sí / Interrupción flujos: Sí / BCE restrictivo: No / Aumento crédito: No / Déficit AAPP: Sí / Desempleo: Sí / Déficit exterior aumentó: No (se redujo)."
+    ],
+    "respuesta": "D",
+    "razonamiento": "Existió previamente una abundancia de liquidez. Al inicio (2008) el BCE subió tipos para frenar la inflación. La crisis provocó interrupción de flujos de capitales. La política general del BCE fue expansiva (no restrictiva) para dotar liquidez. No hubo aumento de crédito, sino restricción. Existió severo déficit de las AAPP y gran aumento del desempleo. No aumentó el déficit exterior, sino que la crisis obligó a exportar, reduciéndolo hasta lograr superávit en 2012.",
+    "tag": "Tema 1"
+  },
+  "23": {
+    "enunciado": "Durante el periodo de recuperación de la economía española 2014-2019, ¿cuál de las siguientes combinaciones describe correctamente lo ocurrido?",
+    "opciones": [
+      "Creación de empleo con subidas salariales / Inflación moderada / Aumento deuda privada / Déficit corriente / Mejora banca / Reducción paro largo / Deuda externa elevada / Deuda pública >100% / Productividad alta.",
+      "Creación de empleo con moderación salarial / Inflación muy alta / Sin aumento deuda privada / Sin déficit corriente / Mejora banca / Reducción paro largo / Deuda externa elevada / Deuda pública <100% / Productividad baja.",
+      "Creación de empleo con moderación salarial / Inflación moderada y creciente / Sin aumento deuda privada / Sin déficit corriente / Mejora banca / Sin reducción sustancial del paro largo / Deuda externa elevada / Deuda pública <100% / Productividad por debajo de la media avanzada.",
+      "Creación de empleo con subidas salariales / Inflación moderada / Sin aumento deuda privada / Sin déficit corriente / Mejora banca / Sí reducción del paro largo / Deuda externa baja / Deuda pública <100% / Productividad alta."
+    ],
+    "respuesta": "C",
+    "razonamiento": "Hubo creación de empleo pero con moderación salarial. La inflación fue moderada aunque creciente. La deuda privada NO aumentó (desapalancamiento). No hubo déficit corriente, sino mejora del saldo exterior. Hubo mejora bancaria. No se redujo sustancialmente el paro de larga duración (~50%). Se mantuvo un elevado endeudamiento exterior. La deuda pública era cercana pero inferior al 100% (95,5% en 2019). La productividad mantuvo crecimientos inferiores a los países desarrollados.",
+    "tag": "Tema 1"
+  },
+  "24": {
+    "enunciado": "¿Qué medidas se desarrollaron en España para sostener y recuperar la economía durante la pandemia?",
+    "opciones": [
+      "Las medidas se centraron exclusivamente en la recapitalización bancaria mediante el FROB y la compra masiva de deuda pública, replicando el esquema de la crisis financiera de 2008.",
+      "Se desarrollaron tres líneas: avales ICO y aplazamientos fiscales para garantizar liquidez a empresas; flexibilización de los ERTEs por fuerza mayor para sostener el empleo; y la creación del Ingreso Mínimo Vital (IMV) para los hogares más vulnerables.",
+      "Se optó por una política de austeridad fiscal que redujo el gasto no esencial para crear espacio presupuestario y financiar el aumento del gasto sanitario sin incrementar el déficit.",
+      "España aplicó un plan basado en reducción generalizada de impuestos y privatización de empresas públicas para generar ingresos con los que financiar las medidas de protección social."
+    ],
+    "respuesta": "B",
+    "razonamiento": "Las medidas tuvieron tres objetivos: garantizar la actividad mediante avales ICO y aplazamientos de impuestos/cotizaciones a PYMEs; mantener el empleo flexibilizando los ERTEs por fuerza mayor; y dar cobertura poblacional mediante la creación del Ingreso Mínimo Vital (IMV) para rentas desfavorecidas.",
+    "tag": "Tema 1"
+  },
+  "25": {
+    "enunciado": "¿Cuál fue la respuesta de la UE durante la pandemia, en comparación con la crisis financiera de 2008?",
+    "opciones": [
+      "La respuesta fue similar a la de 2008: la UE impuso condiciones de austeridad a los países más afectados a cambio de acceso a financiación del MEDE, aunque con tipos más favorables.",
+      "La UE reaccionó con mayor lentitud que en 2008, tardando más de un año en acordar el paquete de estímulo, lo que obligó a los países a actuar individualmente durante la fase más crítica.",
+      "La respuesta se limitó a garantizar el libre movimiento de bienes médicos y coordinar las compras conjuntas de vacunas, sin activar mecanismos de apoyo financiero significativos a los estados.",
+      "A diferencia de 2008 (caracterizada por austeridad), la UE aprobó masivas inyecciones de liquidez: 220.000 millones del BEI para PYMEs, 240.000 millones del MEDE, el programa PEPP del BCE de 1,3 billones, y el Plan Next Generation EU de 750.000 millones de euros."
+    ],
+    "respuesta": "D",
+    "razonamiento": "A diferencia de 2008, basada en recortes y austeridad, en la pandemia se aprobaron masivas inyecciones: 220.000 millones del BEI para PYMEs, 240.000 millones del MEDE para material médico, el programa PEPP del BCE de 1,3 billones comprando bonos nacionales, y el Plan de Recuperación Next Generation EU con 750.000 millones de euros.",
+    "tag": "Tema 1"
+  }
+}

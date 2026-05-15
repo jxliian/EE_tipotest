@@ -1,0 +1,122 @@
+{
+  "1": {
+    "enunciado": "La relevancia económica del sector primario aumenta significativamente cuando se consideran las industrias manufactureras asociadas a las que suministra materias primas.",
+    "respuesta": "Verdadero",
+    "razonamiento": "El sector primario suministra materias primas a determinadas industrias, por lo que su peso conjunto en Valor Añadido Bruto y empleo se eleva considerablemente al integrar las manufacturas asociadas[cite: 39, 308]."
+  },
+  "2": {
+    "enunciado": "La gestión de la PAC se simplificó mediante la creación de una Organización Común de Mercados única para todos los productos agrarios.",
+    "respuesta": "Verdadero",
+    "razonamiento": "A partir de 2007, se fusionaron 21 Organizaciones Comunes de Mercado (OCM) existentes en una OCM única para todos los productos agrarios[cite: 209, 283]."
+  },
+  "3": {
+    "enunciado": "Uno de los objetivos históricos de la PAC ha sido garantizar precios elevados para el consumidor final con el fin de maximizar el beneficio agrario.",
+    "respuesta": "Falso",
+    "razonamiento": "Uno de los objetivos históricos y principios fundacionales de la PAC ha sido asegurar el aprovisionamiento alimenticio de la población a unos precios razonables, no elevados[cite: 203, 272]."
+  },
+  "4": {
+    "enunciado": "El crecimiento de la productividad del trabajo agrario en España se explica fundamentalmente por la mejora de los rendimientos por hectárea, siendo irrelevante la ratio de estructuras.",
+    "respuesta": "Falso",
+    "razonamiento": "Ambos factores han contribuido a las ganancias de productividad, de hecho, la ratio de estructuras (superficie por empleo) lo ha hecho en mayor medida a partir de 1985[cite: 154, 155, 298]."
+  },
+  "5": {
+    "enunciado": "El diferencial favorable de productividad del trabajo de España respecto a la media de la UE se explica, en parte, por el elevado peso de países con productividades muy bajas y alta cuota de empleo agrario.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La media europea se ve arrastrada a la baja por la inclusión de países con grandes cuotas de empleo agrario y productividades muy inferiores a las de Europa Occidental[cite: 259, 260]."
+  },
+  "6": {
+    "enunciado": "La PAC contempla la creación de una reserva financiera específica destinada a intervenir en caso de crisis que afecten a la gestión de los mercados.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La reforma contempla la creación de una reserva de crisis por un máximo de 1.500 millones de euros para mejorar la gestión y regulación de los mercados agrarios[cite: 245, 317]."
+  },
+  "7": {
+    "enunciado": "En el marco actual de la PAC, la Comisión Europea ha centralizado todas las decisiones, eliminando la capacidad de los Estados miembros para adaptar las normas a su realidad local.",
+    "respuesta": "Falso",
+    "razonamiento": "La nueva PAC Post-2020 tiene por objeto ampliar la flexibilidad de los Estados miembros para adaptar las medidas a las condiciones locales a través de sus Planes Estratégicos Nacionales[cite: 219, 263]."
+  },
+  "8": {
+    "enunciado": "El coeficiente de apertura externa de la agricultura española ha experimentado un crecimiento notable desde 1985, reflejando una mayor integración internacional.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Debido a una creciente integración internacional, el coeficiente de apertura externa de la agricultura española casi se ha triplicado entre los años 1985 y 2024[cite: 105, 277]."
+  },
+  "9": {
+    "enunciado": "El sistema agrario español actual concede una importancia creciente a las subvenciones otorgadas dentro del marco de la PAC.",
+    "respuesta": "Verdadero",
+    "razonamiento": "El sistema agrario actual, o sistema agroindustrial, se caracteriza explícitamente por una importancia creciente de las subvenciones otorgadas dentro del marco de la Política Agrícola Común[cite: 115, 119]."
+  },
+  "10": {
+    "enunciado": "La nueva \"arquitectura verde\" de la PAC es una medida exclusiva destinada a las explotaciones de menor dimensión económica.",
+    "respuesta": "Falso",
+    "razonamiento": "La \"arquitectura verde\" es un conjunto que engloba a todas las explotaciones a través de instrumentos como el Pago básico y los Eco-esquemas, no siendo exclusiva para las más pequeñas[cite: 233, 269]."
+  },
+  "11": {
+    "enunciado": "Durante el periodo previo a la transformación de 1960, el sector agrario español se caracterizaba por presentar una elevada relación capital-producto.",
+    "respuesta": "Falso",
+    "razonamiento": "Antes de los años 60, la agricultura española carecía de mecanización y era tradicional e intensiva en factor trabajo, por lo que su relación capital-producto era sumamente baja[cite: 302]."
+  },
+  "12": {
+    "enunciado": "La liberalización comercial impulsada por la OMC ha eliminado los riesgos de competencia para las producciones de frutas y verduras españolas frente a terceros países.",
+    "respuesta": "Falso",
+    "razonamiento": "La liberalización promovida por la OMC reduce barreras al comercio, lo cual facilita la entrada de productos extracomunitarios y aumenta la competencia para las producciones españolas[cite: 305]."
+  },
+  "13": {
+    "enunciado": "El sector agrario español presenta un carácter equilibrado, donde la mayoría de la producción proviene de un gran número de pequeñas explotaciones familiares.",
+    "respuesta": "Falso",
+    "razonamiento": "Existe un gran desequilibrio, ya que las explotaciones grandes (más de 60 UDE) representan solo el 17,7% del total pero acaparan el 80,2% de la producción estándar total[cite: 188]."
+  },
+  "14": {
+    "enunciado": "El principio de \"Preferencia Comunitaria\" de la PAC establece que los Estados miembros deben priorizar el consumo de sus propios productos nacionales frente a los de otros socios de la Unión Europea.",
+    "respuesta": "Falso",
+    "razonamiento": "El principio de Preferencia Comunitaria implica que las producciones agrarias de la Comunidad se protegen frente a la competencia de otros países externos, pero existe una Unidad de Mercado para la libre circulación entre los estados miembros[cite: 205, 206]."
+  },
+  "15": {
+    "enunciado": "Los nuevos \"Eco-Esquemas\" de la PAC son requisitos de cumplimiento obligatorio para todos los agricultores que deseen recibir el pago básico.",
+    "respuesta": "Falso",
+    "razonamiento": "Aunque los Estados miembros deben establecer requisitos adicionales, los agricultores quedan en libertad de acogerse o no a estos Eco-esquemas[cite: 241, 266]."
+  },
+  "16": {
+    "enunciado": "La estrategia \"De la granja a la mesa\" tiene como objetivo reducir el peso de la agricultura ecológica en la superficie agrícola utilizada para garantizar el abastecimiento.",
+    "respuesta": "Falso",
+    "razonamiento": "La estrategia se plantea incrementar la agricultura ecológica, fijando como objetivo para 2030 que suponga el 25% de la Superficie Agrícola Utilizada[cite: 226, 256]."
+  },
+  "17": {
+    "enunciado": "Italia basa su modelo de productividad agraria en una disponibilidad de superficie por persona ocupada superior a la media de la Europa Verde.",
+    "respuesta": "Falso",
+    "razonamiento": "Italia destaca por una elevadísima productividad de la tierra, pero su superficie por empleo es la más baja al compararla con Alemania, España y Francia[cite: 158, 280]."
+  },
+  "18": {
+    "enunciado": "La mecanización y sustitución de trabajo por capital a partir de 1960 fue un proceso impulsado, en gran medida, por el éxodo rural hacia las ciudades.",
+    "respuesta": "Verdadero",
+    "razonamiento": "El éxodo rural provocó una escasez de mano de obra, lo que derivó en un acentuado encarecimiento relativo de los salarios agrarios, incentivando la mecanización del campo[cite: 178, 286]."
+  },
+  "19": {
+    "enunciado": "En la estructura productiva española, las pequeñas explotaciones son las que presentan una mayor especialización en orientaciones intensivas como la horticultura o la avicultura.",
+    "respuesta": "Falso",
+    "razonamiento": "Son las grandes explotaciones (más de 60 UDE) las que alcanzan la mayor Producción Estándar Total por unidad de superficie, indicando una mayor intensidad productiva frente a las pequeñas[cite: 188, 289]."
+  },
+  "20": {
+    "enunciado": "Históricamente, los precios que perciben los agricultores por sus productos han crecido por encima del Índice de Precios de Consumo (IPC).",
+    "respuesta": "Falso",
+    "razonamiento": "Los precios percibidos por la venta de las producciones agrarias han crecido menos que el Índice de Precios al Consumo (IPC)[cite: 179, 292]."
+  },
+  "21": {
+    "enunciado": "Los productos cárnicos y el ganado en pie forman parte de los capítulos más deficitarios del comercio exterior agrario español.",
+    "respuesta": "Falso",
+    "razonamiento": "Las carnes y el ganado en pie poseen una elevada competitividad y constituyen el segundo capítulo exportador, siendo fuertemente superavitarios[cite: 107, 295]."
+  },
+  "22": {
+    "enunciado": "Los productos alimenticios presentan, por lo general, una elasticidad-renta baja o incluso negativa en economías desarrolladas.",
+    "respuesta": "Verdadero",
+    "razonamiento": "De acuerdo con la Ley de Engel, conforme aumenta la renta en un país desarrollado, la proporción del gasto que se destina a alimentos de primera necesidad tiende a reducirse[cite: 311]."
+  },
+  "23": {
+    "enunciado": "El saldo comercial agroalimentario de España con el del Reino Unido es deficitario, lo que lastra la tasa de cobertura extracomunitaria.",
+    "respuesta": "Falso",
+    "razonamiento": "El Reino Unido es considerado uno de los mejores clientes de España en este sector, lo que representa fuertes exportaciones y un saldo comercial positivo o superávit[cite: 112, 314]."
+  },
+  "24": {
+    "enunciado": "El encarecimiento de la mano de obra asalariada por encima del precio de los bienes de inversión ha incentivado la mecanización del campo español.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Los salarios agrarios han crecido a un ritmo muy superior al precio de los bienes de inversión, como la maquinaria, incentivando a los agricultores a reducir el requerimiento de trabajo por unidad de superficie[cite: 178, 320]."
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "1": {
+    "enunciado": "Las Cajas de Ahorros son entidades de depósito con ánimo de lucro cuyo excedente se distribuye entre sus accionistas en forma de dividendos.",
+    "respuesta": "Falso",
+    "razonamiento": "Las Cajas de Ahorros son entidades sin ánimo de lucro. A diferencia de los bancos (sociedades anónimas que reparten dividendos entre sus accionistas), las Cajas destinan sus excedentes a la obra social y a la dotación de reservas, sin repartir beneficios entre propietarios privados."
+  },
+  "2": {
+    "enunciado": "Las Cooperativas de Crédito distribuyen sus beneficios entre sus socios cooperativistas, a diferencia de las Cajas de Ahorros que los destinan a obra social.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Las Cooperativas de Crédito (entre las que destacan las Cajas Rurales) son entidades de depósito de naturaleza cooperativa que distribuyen sus resultados positivos entre sus socios. Su funcionamiento difiere así tanto de los bancos (reparto entre accionistas) como de las Cajas de Ahorros (obra social)."
+  },
+  "3": {
+    "enunciado": "En 2005 existían en España 47 Cajas de Ahorros, mientras que en la actualidad solo permanecen dos como tales: la Caixa d'Estalvis d'Ontinyent y la Caixa Pollença.",
+    "respuesta": "Verdadero",
+    "razonamiento": "El proceso de reestructuración bancaria iniciado con la crisis de 2008 transformó radicalmente el mapa de las Cajas de Ahorros. Las 47 entidades existentes en 2005 se fusionaron y transformaron mayoritariamente en bancos (Caixabank, Unicaja, Ibercaja, Kutxabank, etc.), quedando únicamente dos cajas operando con ese formato original."
+  },
+  "4": {
+    "enunciado": "El proceso de desregulación financiera en España se apoyó en tres pilares: la eliminación de restricciones a los tipos de interés, el desarrollo de los mercados financieros y los avances en las tecnologías de la información.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La liberalización financiera española descansó sobre esas tres columnas: la libertad en la fijación de tipos de interés (eliminando los techos y suelos administrativos), el desarrollo de mercados que ofrecieron a los usuarios alternativas al crédito bancario, y los avances tecnológicos y de telecomunicaciones que redujeron las barreras de entrada al sector."
+  },
+  "5": {
+    "enunciado": "Antes de 1989, las Cajas de Ahorros tenían prohibida su expansión fuera de su territorio de origen, lo que limitaba su ámbito de actuación al ámbito local o regional.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Hasta 1989, la normativa impedía a las Cajas de Ahorros operar fuera de su comunidad autónoma de origen. La eliminación de esa restricción territorial ese año desencadenó una agresiva expansión geográfica de las cajas por todo el territorio nacional, lo que contribuyó al aumento de su peso relativo en el sistema bancario."
+  },
+  "6": {
+    "enunciado": "Los bancos españoles optaron prioritariamente por una estrategia de expansión nacional durante los años noventa y dos mil, mientras que las Cajas de Ahorros protagonizaron la expansión internacional.",
+    "respuesta": "Falso",
+    "razonamiento": "Fue exactamente al contrario. Los grandes bancos (Santander y BBVA principalmente) apostaron por una estrategia de expansión internacional, especialmente en Latinoamérica. Las Cajas de Ahorros, liberadas en 1989 para operar en todo el territorio, centraron su crecimiento en la expansión nacional, convirtiéndose en el principal agente del crédito interior hasta 2008."
+  },
+  "7": {
+    "enunciado": "El apalancamiento de las entidades bancarias españolas en los mercados mayoristas internacionales antes de 2008 fue uno de los factores que agravó el impacto de la crisis financiera global sobre el sistema bancario español.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La elevada dependencia de la financiación mayorista internacional (en lugar de depósitos minoristas estables) hizo al sistema muy vulnerable cuando los mercados interbancarios se congelaron tras la quiebra de Lehman Brothers. Las entidades, especialmente las Cajas, vieron cortado su acceso a financiación externa, lo que agravó su crisis de liquidez."
+  },
+  "8": {
+    "enunciado": "El aumento de la morosidad durante la crisis financiera de 2008 afectó de manera especialmente intensa a los créditos concedidos al sector promotor e inmobiliario, perjudicando más a las Cajas que a los bancos.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Las Cajas de Ahorros habían concentrado su expansión crediticia en el sector inmobiliario y de la construcción durante el boom. Cuando estalló la burbuja, el desplome del valor de los activos inmobiliarios y el incumplimiento de los promotores elevaron la morosidad de forma dramática, afectando de manera desproporcionada a las Cajas respecto a los bancos."
+  },
+  "9": {
+    "enunciado": "El FROB (Fondo de Reestructuración Ordenada Bancaria) se creó para facilitar los procesos de integración y saneamiento de entidades de crédito con dificultades.",
+    "respuesta": "Verdadero",
+    "razonamiento": "El FROB se creó en 2009 como instrumento del Estado para apoyar financieramente los procesos de reestructuración bancaria. Canalizó fondos hacia las entidades en dificultades (especialmente Cajas) para apoyar sus fusiones, recapitalizaciones y, en última instancia, su conversión en bancos o su resolución ordenada."
+  },
+  "10": {
+    "enunciado": "El Real Decreto-Ley 11/2010 permitió a las Cajas de Ahorros captar capital externo de inversores privados mediante la emisión de cuotas participativas con derechos políticos plenos.",
+    "respuesta": "Falso",
+    "razonamiento": "El RDL 11/2010 reguló la 'bancarización' de las Cajas, permitiéndoles traspasar su actividad financiera a un banco instrumental. En cuanto a la gobernanza, estableció que si la participación de inversores externos superaba el 10%, la entidad debía transformarse en 'fundación bancaria'; si era inferior, en 'fundación ordinaria'. Las cuotas participativas anteriores ya existían, pero el RDL articuló la vía de la bancarización."
+  },
+  "11": {
+    "enunciado": "El rescate bancario europeo a España, acordado en junio de 2012, contempló una línea de crédito de hasta 100.000 millones de euros para la recapitalización del sector financiero.",
+    "respuesta": "Verdadero",
+    "razonamiento": "El 25 de junio de 2012, el Eurogrupo acordó un rescate financiero para España de hasta 100.000 millones de euros destinado exclusivamente a la recapitalización de las entidades bancarias con problemas de solvencia. La cuantía finalmente utilizada fue significativamente inferior, en torno a 41.000 millones."
+  },
+  "12": {
+    "enunciado": "Como condición del rescate bancario de 2012, las entidades beneficiarias debieron asumir pérdidas los poseedores de instrumentos híbridos de capital (participaciones preferentes y deuda subordinada).",
+    "respuesta": "Verdadero",
+    "razonamiento": "Una de las condiciones del Memorando de Entendimiento del rescate fue que los tenedores de capital híbrido (participaciones preferentes y deuda subordinada) debían absorber pérdidas antes de que el dinero público pudiera ser inyectado. Esto supuso quitas importantes para muchos ahorradores minoristas que habían adquirido esos productos."
+  },
+  "13": {
+    "enunciado": "La SAREB ('banco malo') fue creada para adquirir y gestionar los activos inmobiliarios tóxicos de las entidades rescatadas, con el objetivo de sanear sus balances.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La Sociedad de Gestión de Activos procedentes de la Reestructuración Bancaria (SAREB) se constituyó en 2012 como condición del rescate bancario. Asumió los activos inmobiliarios y créditos dudosos de las entidades nacionalizadas, con el objetivo de eliminarlos de sus balances y facilitar así su saneamiento y posterior venta o liquidación."
+  },
+  "14": {
+    "enunciado": "Entre 2008 y 2024, el número de sucursales bancarias en España se redujo en aproximadamente 28.000 oficinas y el empleo del sector disminuyó en cerca de 100.000 trabajadores.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La reestructuración bancaria supuso un ajuste de capacidad muy significativo. El cierre masivo de sucursales (en torno a 28.000 menos) y la reducción de plantillas (aproximadamente 100.000 empleos menos) son consecuencias directas de las fusiones, absorciones y cambios en el modelo de negocio hacia la digitalización."
+  },
+  "15": {
+    "enunciado": "El ratio de capital de máxima calidad (CET1) del sistema bancario español en 2024 era inferior al registrado antes de la crisis de 2008, lo que evidencia la fragilidad persistente del sector.",
+    "respuesta": "Falso",
+    "razonamiento": "Ocurre lo contrario. El ratio de capital del sistema bancario español en 2024 se sitúa en torno al 13%, aproximadamente el doble del nivel registrado antes de la crisis. El saneamiento y la reestructuración han reforzado notablemente la solvencia y la resistencia del sector frente a las exigencias regulatorias de Basilea III."
+  },
+  "16": {
+    "enunciado": "La recuperación de la rentabilidad bancaria a partir de 2022 se debe fundamentalmente a las subidas de los tipos de interés por parte del BCE, que amplían el margen de intermediación.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Tras años de tipos de interés en niveles históricamente bajos o incluso negativos que comprimían los márgenes, las fuertes subidas de tipos iniciadas por el BCE en la segunda mitad de 2022 para combatir la inflación incrementaron de forma notable el margen de intermediación bancaria, disparando los beneficios del sector."
+  },
+  "17": {
+    "enunciado": "Durante la pandemia de COVID-19, los ERTEs aplicados en España contribuyeron a evitar el aumento de la morosidad bancaria, al mantener los ingresos de los trabajadores afectados.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Los ERTEs permitieron a las empresas suspender contratos sin despedir a los trabajadores, quienes seguían percibiendo prestaciones. Esto mantuvo la capacidad de pago de los hogares y evitó que la crisis económica de 2020 se tradujera en un fuerte aumento de la morosidad bancaria, a diferencia de lo ocurrido en la crisis de 2008."
+  },
+  "18": {
+    "enunciado": "Las estrategias de expansión internacional de los bancos españoles durante los años noventa se articularon principalmente a través de tres vías: participaciones de capital, acuerdos de colaboración y adquisición de bancos extranjeros.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La internacionalización de los grandes bancos españoles (Santander y BBVA) siguió esas tres modalidades: toma de participaciones accionariales en bancos extranjeros, acuerdos y alianzas estratégicas, y adquisiciones directas de entidades bancarias en los mercados de destino, especialmente en Latinoamérica."
+  },
+  "19": {
+    "enunciado": "El proceso de concentración bancaria en España tras la crisis de 2008 ha generado un sistema con un número de entidades muy superior al previo, favoreciendo la competencia.",
+    "respuesta": "Falso",
+    "razonamiento": "El proceso ha sido el opuesto: una intensa concentración que ha reducido drásticamente el número de entidades operativas. Docenas de cajas y bancos medianos desaparecieron o fueron absorbidos, resultando en un sistema más concentrado dominado por un reducido número de grandes grupos bancarios, lo que plantea interrogantes sobre la competencia, no sobre su mejora."
+  },
+  "20": {
+    "enunciado": "La entrada de empresas fintech en el mercado de servicios financieros ha desafiado el modelo de negocio tradicional de la banca, especialmente en pagos, financiación y gestión de inversiones.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Las empresas fintech han irrumpido en segmentos clave del negocio bancario tradicional: medios de pago digitales, plataformas de financiación alternativa (crowdfunding, crowdlending), robo-advisors para gestión de inversiones y servicios de cambio de divisas. Esto ha obligado a la banca tradicional a acelerar su transformación digital."
+  },
+  "21": {
+    "enunciado": "El Banco Central Europeo respondió a la crisis del COVID-19 con el programa PEPP (Pandemic Emergency Purchase Programme), dotado con 1,3 billones de euros para compra de activos.",
+    "respuesta": "Verdadero",
+    "razonamiento": "El BCE lanzó el PEPP en marzo de 2020 como respuesta urgente a la pandemia. Con una dotación inicial que alcanzó los 1,85 billones de euros (ampliada progresivamente desde los 750.000 millones iniciales), el programa permitió compras de deuda pública y privada para mantener la liquidez y contener los costes de financiación de los Estados."
+  },
+  "22": {
+    "enunciado": "El impacto de la crisis financiera internacional de 2008 sobre la banca española fue inmediato y directo, dado que las entidades españolas habían invertido masivamente en activos subprime estadounidenses.",
+    "respuesta": "Falso",
+    "razonamiento": "El impacto sobre la banca española fue principalmente indirecto. Las entidades españolas tenían una exposición limitada a los activos subprime de EE.UU. El problema se generó por vías propias: el apalancamiento en mercados mayoristas, el boom inmobiliario doméstico y la sobreexposición al crédito promotor e hipotecario nacional, que colapsaron cuando estalló la burbuja."
+  },
+  "23": {
+    "enunciado": "A partir de la crisis de 2008, las Cajas de Ahorros se convirtieron en el principal modelo de entidad de depósito en España, superando en cuota de mercado a los bancos.",
+    "respuesta": "Falso",
+    "razonamiento": "Las Cajas de Ahorros efectivamente llegaron a ser el principal agente crediticio antes de 2008, pero la crisis supuso su práctica desaparición como formato. Mediante bancarización, fusiones y procesos de resolución, la mayoría se transformó en bancos o desapareció, de modo que hoy el sector está dominado por entidades con forma jurídica de banco."
+  },
+  "24": {
+    "enunciado": "La principal consecuencia del rescate bancario de 2012 para las condiciones de las entidades beneficiarias fue la obligación de reducir su red de oficinas y limitar su actividad al territorio de origen.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Las condiciones del Memorando de Entendimiento exigieron a las entidades que recibieron ayudas públicas la presentación de planes de reestructuración que incluían la reducción de capacidad instalada (cierre de oficinas y reducción de empleo), la concentración de la actividad en su territorio de referencia y el abandono de la financiación al sector promotor e inmobiliario."
+  },
+  "25": {
+    "enunciado": "La digitalización de los servicios bancarios ha permitido al sector reducir costes operativos, pero ha generado el problema de la exclusión financiera de segmentos de población con menor acceso o capacidad digital.",
+    "respuesta": "Verdadero",
+    "razonamiento": "El cierre masivo de sucursales y la migración de servicios a canales digitales ha reducido costes para las entidades, pero ha creado el problema de la exclusión financiera de colectivos como personas mayores, población rural y otros grupos con menor alfabetización digital, generando un debate sobre la obligación de mantener servicios presenciales básicos."
+  }
+}

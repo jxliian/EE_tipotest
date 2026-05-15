@@ -1,0 +1,177 @@
+{
+  "1": {
+    "enunciado": "El sector energético español se caracteriza por un elevado grado de internacionalización de sus empresas líderes, especialmente en mercados latinoamericanos.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Existe un elevado grado de internacionalización de las principales empresas energéticas españolas en países como Perú o Venezuela[cite: 3212, 3213]."
+  },
+  "2": {
+    "enunciado": "La industria es el sector económico que menor cantidad de energía consume, actuando principalmente como un proveedor de inputs para los servicios.",
+    "respuesta": "Falso",
+    "razonamiento": "La energía actúa como un input para el resto de los sectores productivos, siendo precisamente la industria el sector que mayor cantidad de energía consume[cite: 3224]."
+  },
+  "3": {
+    "enunciado": "El proceso de privatización de grandes empresas energéticas en las últimas décadas ha eliminado las estructuras de oligopolio en el mercado español de hidrocarburos.",
+    "respuesta": "Falso",
+    "razonamiento": "A pesar de las privatizaciones, se ha mantenido un elevado grado de concentración en el sector; por ejemplo, en hidrocarburos Repsol, Cepsa y BP conforman un oligopolio que controla más del 70% del mercado[cite: 3320, 3321]."
+  },
+  "4": {
+    "enunciado": "El incremento del consumo energético en las actividades productivas españolas se explica, en parte, por el proceso de sustitución de mano de obra por energía.",
+    "respuesta": "Verdadero",
+    "razonamiento": "El gran crecimiento del consumo energético en las actividades productivas ha sido, en parte, el resultado de un proceso de sustitución de mano de obra por energía[cite: 3232]."
+  },
+  "5": {
+    "enunciado": "España ha alcanzado históricamente el equilibrio en su balance energético gracias a un elevado grado de autoabastecimiento basado en recursos propios.",
+    "respuesta": "Falso",
+    "razonamiento": "El balance energético español registra históricamente un desajuste, manteniendo una fuerte dependencia del exterior y un grado de autoabastecimiento de solo el 30% de las necesidades de energía primaria[cite: 3285, 3316, 3317]."
+  },
+  "6": {
+    "enunciado": "En la fase de transporte de electricidad en alta tensión, el mercado opera en régimen de libre competencia entre Red Eléctrica Española e Iberdrola.",
+    "respuesta": "Falso",
+    "razonamiento": "En la fase de transporte en alta tensión no hay libre competencia, sino que el monopolio lo ostenta exclusivamente Red Eléctrica Española[cite: 3326]."
+  },
+  "7": {
+    "enunciado": "El sector energético se considera estratégico no solo por su valor propio, sino por su capacidad de generar efectos de arrastre que mejoran la eficiencia del resto de actividades productivas al ser un input fundamental.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Al ser un input fundamental para el resto de los sectores, la energía tiene efectos de arrastre sobre otras ramas, de modo que si este sector gana en eficiencia, se benefician directamente las demás actividades productivas[cite: 3224, 3225]."
+  },
+  "8": {
+    "enunciado": "Gracias al reciente e intenso crecimiento de las energías renovables, la producción nacional de energía en España es ya suficiente para satisfacer la totalidad de la demanda interna de las actividades productivas.",
+    "respuesta": "Falso",
+    "razonamiento": "A pesar del fuerte crecimiento de las energías renovables, la producción nacional sigue siendo insuficiente para satisfacer la demanda global, manteniendo una fuerte dependencia de las importaciones del exterior[cite: 3316, 3317]."
+  },
+  "9": {
+    "enunciado": "En el sistema eléctrico español, las empresas dominantes mantienen una integración vertical total que incluye el control absoluto de la fase de transporte en alta tensión.",
+    "respuesta": "Falso",
+    "razonamiento": "La integración vertical de las empresas dominantes es únicamente parcial abarcando las fases de generación, distribución y comercialización, ya que en la fase de transporte en alta tensión el monopolio recae sobre Red Eléctrica Española[cite: 3326]."
+  },
+  "10": {
+    "enunciado": "La transformación de la estructura de la demanda energética en España durante la década de los noventa se caracterizó principalmente por el proceso de sustitución del petróleo por el gas natural.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Durante la década de los 90, la transformación principal de la demanda se centró efectivamente en la sustitución del petróleo por el gas natural[cite: 3235]."
+  },
+  "11": {
+    "enunciado": "Tras los procesos de privatización de grandes compañías como Repsol o Endesa, el sector público español ha retirado por completo su participación en todas las ramas de actividad del sector energético.",
+    "respuesta": "Falso",
+    "razonamiento": "Aunque las privatizaciones redujeron notablemente la participación pública en el sector, esta no se retiró por completo, manteniéndose excepciones en áreas como el sector del carbón[cite: 3318]."
+  },
+  "12": {
+    "enunciado": "La industria manufacturera se distingue por tener una productividad del trabajo superior a la de la agricultura y los servicios, incorporando más rápidamente el progreso técnico.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La industria manufacturera presenta una productividad laboral mayor que la agricultura y los servicios porque es más susceptible de incorporar el progreso técnico que ahorra mano de obra[cite: 3332]."
+  },
+  "13": {
+    "enunciado": "Siguiendo los criterios del Sistema Europeo de Cuentas (SEC), el concepto de industria incluye tanto las actividades extractivas como todas las manufactureras.",
+    "respuesta": "Falso",
+    "razonamiento": "El Sistema Europeo de Cuentas (SEC) delimita y considera como industria exclusivamente a las actividades manufactureras, excluyendo a las extractivas[cite: 3338]."
+  },
+  "14": {
+    "enunciado": "Las ramas industriales de 'demanda fuerte' son aquellas vinculadas a sectores tradicionales como el textil y la siderurgia debido a su estabilidad histórica.",
+    "respuesta": "Falso",
+    "razonamiento": "Las ramas de demanda fuerte son las de más reciente desarrollo y mayor innovación (como aeroespacial, electrónica y productos farmacéuticos), mientras que los sectores tradicionales como el textil o la siderurgia se encuadran en las ramas de demanda débil[cite: 3341, 3342]."
+  },
+  "15": {
+    "enunciado": "Las empresas pertenecientes a sectores industriales avanzados operan generalmente en mercados internacionales muy competitivos y presentan una oferta más concentrada.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Las actividades industriales avanzadas presentan una oferta mucho más concentrada en empresas líderes y operan en mercados internacionales altamente competitivos con un mayor nivel de apertura exterior[cite: 3371, 3372, 3375]."
+  },
+  "16": {
+    "enunciado": "Las actividades industriales tradicionales se caracterizan por emplear mayoritariamente mano de obra con alta cualificación universitaria en comparación con las avanzadas.",
+    "respuesta": "Falso",
+    "razonamiento": "Son las ramas industriales avanzadas las que utilizan mano de obra más cualificada, mientras que las actividades tradicionales emplean menor cantidad de capital humano y tecnológico al basarse en tecnologías estandarizadas[cite: 3378, 3545]."
+  },
+  "17": {
+    "enunciado": "La pérdida de peso relativo de la manufactura en el VAB y el empleo es una tendencia que España comparte con las principales economías europeas.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La pérdida de peso de la industria manufacturera tanto en el VAB como en la generación de empleo es una tendencia de desindustrialización que España comparte abiertamente con las principales economías europeas[cite: 3431]."
+  },
+  "18": {
+    "enunciado": "El proceso de desindustrialización en España ha sido más severo si se mide en términos de VAB real que si se analiza a través de la evolución del empleo.",
+    "respuesta": "Falso",
+    "razonamiento": "El proceso de contracción del peso de las manufacturas resulta ser estadísticamente menor cuando se mide a través del VAB real en comparación a si se analiza la destrucción relativa de empleo o el VAB a precios corrientes[cite: 3434]."
+  },
+  "19": {
+    "enunciado": "La progresiva externalización de servicios digitales y TIC por parte de la industria ha provocado un aumento estadístico del peso del sector industrial en el conjunto de la economía.",
+    "respuesta": "Falso",
+    "razonamiento": "La progresiva externalización de servicios TIC y digitales por parte de las empresas industriales genera el efecto contrario, reduciendo su peso estadístico al pasar a contabilizarse esos recursos dentro del sector servicios[cite: 3436]."
+  },
+  "20": {
+    "enunciado": "La producción industrial española muestra una intensidad de fluctuación cíclica superior a la del conjunto de la economía nacional.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La industria española sufre una mayor intensidad de fluctuaciones cíclicas, retrocediendo notablemente más en las fases depresivas y avanzando también más rápido en las fases de recuperación en comparación con la economía general[cite: 3447]."
+  },
+  "21": {
+    "enunciado": "Tras la crisis sanitaria de la Covid-19, la industria española ha logrado recuperar y superar su cuota de participación en la producción industrial total de la Unión Europea.",
+    "respuesta": "Falso",
+    "razonamiento": "Tras la pandemia de la Covid-19, en lugar de superar su cuota, la participación relativa de la industria española en la producción industrial total de la Unión Europea se volvió a reducir[cite: 3483]."
+  },
+  "22": {
+    "enunciado": "La fragmentación internacional de la producción consiste en trasladar las fases de la cadena de valor con mayor contenido tecnológico a países con salarios bajos.",
+    "respuesta": "Falso",
+    "razonamiento": "La deslocalización y fragmentación consisten en trasladar hacia economías con menores niveles de renta y salarios las fases más rutinarias e intensivas en trabajo (como la fabricación), conservando las de mayor valor tecnológico en los países desarrollados[cite: 3490]."
+  },
+  "23": {
+    "enunciado": "El fenómeno del retorno de la actividad industrial a los países de origen se ve impulsado por el abaratamiento del transporte internacional.",
+    "respuesta": "Falso",
+    "razonamiento": "El retorno de la actividad industrial deslocalizada hacia los países de origen se ve impulsado, entre otras transformaciones del entorno internacional, por el encarecimiento de los costes del transporte, no por su abaratamiento[cite: 3497, 3498]."
+  },
+  "24": {
+    "enunciado": "El dinamismo exportador reciente de la industria española se fundamenta principalmente en las ventajas competitivas de sus ramas más tradicionales.",
+    "respuesta": "Verdadero",
+    "razonamiento": "El mayor dinamismo exportador de España se ha registrado precisamente en las ramas industriales más tradicionales, apalancándose en las ventajas competitivas claras de la economía en estas áreas[cite: 3529]."
+  },
+  "25": {
+    "enunciado": "Las empresas españolas situadas en sectores de alta intensidad tecnológica suelen estar financiadas mayoritariamente por capital residente nacional.",
+    "respuesta": "Falso",
+    "razonamiento": "El avance y desarrollo de las actividades de mayor requerimiento tecnológico en España ha estado fuertemente impulsado por la penetración de capital extranjero (generando más del 50% de su VAB), mientras que la propiedad de residentes predomina en las ramas tradicionales[cite: 3546]."
+  },
+  "26": {
+    "enunciado": "La especialización de España en actividades de tecnología baja se justifica por la gran dimensión media de sus empresas y su elevada dotación de capital físico.",
+    "respuesta": "Falso",
+    "razonamiento": "Las actividades tradicionales de baja tecnología en España se caracterizan por todo lo contrario: una pequeña dimensión media empresarial y una menor cantidad de capital físico, humano y tecnológico, operando con mayor intensidad de recursos naturales y trabajo[cite: 3545]."
+  },
+  "27": {
+    "enunciado": "La competencia de países del este de Europa ha mermado la cuota de exportación española en manufacturas de alto contenido tecnológico como las TIC.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Las grandes empresas multinacionales tecnológicas se han deslocalizado hacia nuevos países industriales europeos como Hungría, República Checa y Polonia, superando las cuotas españolas y mermando sus exportaciones mundiales de manufacturas TIC[cite: 3550, 3551]."
+  },
+  "28": {
+    "enunciado": "Durante las últimas décadas, la productividad del trabajo en la industria española ha crecido a un ritmo superior al promedio de la Eurozona.",
+    "respuesta": "Falso",
+    "razonamiento": "Entre los años 1995 y 2024, la productividad laboral en la industria española aumentó a una tasa media del 1,4%, siendo inferior al promedio del 1,9% alcanzado por los países de la Eurozona[cite: 3556]."
+  },
+  "29": {
+    "enunciado": "La mejora de la competitividad en costes lograda durante la Gran Recesión se basó en una devaluación interna mediante la moderación salarial y el ajuste de empleo.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Durante la Gran Recesión se obtuvo una mejora en la competitividad en costes originada por una 'devaluación interna', resultante de la destrucción masiva de empleo, el cierre de empresas ineficientes y la aplicación de contención y moderación salarial[cite: 3559]."
+  },
+  "30": {
+    "enunciado": "La fortaleza de las exportaciones industriales españolas se explica porque todo su tejido empresarial presenta niveles de eficiencia productiva muy homogéneos.",
+    "respuesta": "Falso",
+    "razonamiento": "El tejido industrial español es altamente heterogéneo: conviven grandes empresas exportadoras, con liderazgo y muy productivas, junto a otras empresas de menor tamaño, con mucha menor eficiencia productiva y orientadas al mercado interno[cite: 3600, 3601]."
+  },
+  "31": {
+    "enunciado": "España mantiene su competitividad en ciertos segmentos industriales aprovechando una mano de obra más barata en relación con los países europeos más avanzados.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Una de las claves de la competitividad en la exportación española radica en su especialización productiva en ciertos segmentos que logran competir aprovechando una mano de obra que es comparativamente más barata que en los países europeos más avanzados[cite: 3602]."
+  },
+  "32": {
+    "enunciado": "La paradoja de las exportaciones españolas reside en que estas crecen a pesar de que la calidad de los productos es inferior a la de sus competidores.",
+    "respuesta": "Falso",
+    "razonamiento": "El incremento sostenido y parte del éxito exportador no radica en una calidad inferior, sino en la mayor calidad comparada de determinadas producciones industriales nacionales que logran ofrecer una relación calidad-precio muy favorable[cite: 3605]."
+  },
+  "33": {
+    "enunciado": "Históricamente, en España ha predominado una visión liberal de la política industrial que desconfiaba de la intervención pública directa.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Históricamente ha prevalecido una política industrial de corte netamente liberal en España, la cual se ha caracterizado por su desconfianza ante la viabilidad de recurrir a la intervención pública directa para desarrollar el sector[cite: 3608]."
+  },
+  "34": {
+    "enunciado": "La creación de la SEPI en 2001 tuvo como finalidad principal revertir las privatizaciones de los años 90 para recuperar el control estatal de la industria.",
+    "respuesta": "Falso",
+    "razonamiento": "La SEPI no fue concebida para revertir las políticas de privatización, sino que se creó para reordenar, integrar y administrar eficientemente las empresas que aún formaban parte del remanente del sector público empresarial[cite: 3612]."
+  },
+  "35": {
+    "enunciado": "La política industrial española actual se define como 'vertical', ya que se centra exclusivamente en proteger ramas específicas mediante subvenciones directas.",
+    "respuesta": "Falso",
+    "razonamiento": "La nueva política industrial en España se concibe de naturaleza puramente 'horizontal', dirigiéndose a mejorar las condiciones generales competitivas de todas las empresas (mediante estímulos a la innovación, formación e internacionalización) en lugar de proteger verticalmente ramas específicas[cite: 3613, 3614]."
+  }
+}

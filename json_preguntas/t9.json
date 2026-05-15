@@ -1,0 +1,137 @@
+{
+  "1": {
+    "enunciado": "El concepto estricto de Sector Público incluye únicamente a las Administraciones Públicas, excluyendo a las empresas públicas que operan en el mercado.",
+    "respuesta": "Verdadero",
+    "razonamiento": "El concepto estricto de Sector Público se limita a las Administraciones Públicas (AAPP): Administración Central, Seguridad Social, Comunidades Autónomas y Corporaciones Locales. El concepto amplio también incluiría las empresas públicas, pero la perspectiva habitual en el análisis de las finanzas públicas utiliza el concepto estricto."
+  },
+  "2": {
+    "enunciado": "La Seguridad Social española se financia exclusivamente a través de las cotizaciones sociales de trabajadores y empresas, sin recibir transferencias de otros subsectores de las AAPP.",
+    "respuesta": "Falso",
+    "razonamiento": "La Seguridad Social se financia principalmente mediante cotizaciones sociales, pero también recibe transferencias significativas del Estado, que complementan su financiación especialmente para cubrir las prestaciones no contributivas y los desequilibrios estructurales entre ingresos por cotizaciones y gastos en pensiones y sanidad."
+  },
+  "3": {
+    "enunciado": "Tras la aprobación de la Constitución de 1978, el proceso de descentralización en España transfirió a las Comunidades Autónomas competencias en materias como agricultura, industria, educación y obras públicas.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La Constitución de 1978 abrió el proceso de descentralización territorial. Competencias históricamente centralizadas como la agricultura, la industria, la educación, la cultura y las obras públicas fueron progresivamente transferidas a las Comunidades Autónomas, mientras que la sanidad y los servicios sociales se transfirieron desde la Seguridad Social."
+  },
+  "4": {
+    "enunciado": "En 2024, las Comunidades Autónomas representan aproximadamente el 62% del empleo público total en España, siendo el subsector con mayor peso dentro de las AAPP.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Como consecuencia de las amplias competencias asumidas (especialmente sanidad, educación y servicios sociales), las CCAA concentran la mayor parte del empleo público español. En 2024, su peso supera el 60% del total de empleados públicos, frente al 20% de las Corporaciones Locales y el 18% de la Administración Central."
+  },
+  "5": {
+    "enunciado": "Las empresas públicas estatales tienen un peso muy relevante en la economía española, superando actualmente el 10% del PIB.",
+    "respuesta": "Falso",
+    "razonamiento": "El peso de las empresas públicas estatales en España es actualmente residual, en torno al 1,4% del PIB. Entre las principales figuran Renfe, Correos, Loterías del Estado, Adif, Aena, las confederaciones hidrográficas, los puertos del Estado, los astilleros y Paradores de Turismo."
+  },
+  "6": {
+    "enunciado": "El proceso de reforma del marco regulador de la economía española a partir de los años noventa implicó el paso de una regulación de carácter estructural (sobre la estructura del mercado) a una de carácter conductual (sobre el comportamiento de los agentes).",
+    "respuesta": "Verdadero",
+    "razonamiento": "La integración en la UE y la implementación del Mercado Único impulsaron un cambio en el tipo de intervención regulatoria: de regular directamente la estructura de los mercados (barreras de entrada, precios administrados, monopolios públicos), se pasó a regular el comportamiento de los agentes ya presentes en mercados más abiertos y competitivos."
+  },
+  "7": {
+    "enunciado": "La Comisión Nacional de los Mercados y la Competencia (CNMC) fue creada en 2013 para unificar bajo un único organismo las funciones de regulación sectorial y defensa de la competencia.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La CNMC se creó en 2013 fusionando organismos reguladores sectoriales preexistentes (CMT, CNE, CNC, entre otros) con el objetivo de simplificar la arquitectura regulatoria española y concentrar en un único organismo independiente las funciones de supervisión de la competencia y la regulación de sectores con fallos de mercado."
+  },
+  "8": {
+    "enunciado": "El gasto público en España como porcentaje del PIB supera actualmente la media de la zona euro, lo que evidencia un Estado del Bienestar más desarrollado.",
+    "respuesta": "Falso",
+    "razonamiento": "Pese al importante crecimiento del gasto público desde la transición democrática, el ratio gasto/PIB de España (aproximadamente 44,9% en 2024) se sitúa por debajo de la media de la Eurozona (49,4%), lo que indica que el nivel de intervención pública en la economía española es inferior al promedio de sus socios comunitarios."
+  },
+  "9": {
+    "enunciado": "Entre 1995 y 2007, el gasto público como porcentaje del PIB en España experimentó una reducción de aproximadamente 10 puntos porcentuales.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Durante la larga fase expansiva que va desde mediados de los noventa hasta 2007, la combinación de fuerte crecimiento económico (que elevaba el PIB denominador) con cierta contención del gasto permitió reducir el ratio de gasto público sobre el PIB en cerca de 10 puntos porcentuales, favoreciendo incluso superávits presupuestarios entre 2005 y 2007."
+  },
+  "10": {
+    "enunciado": "En 2020, como consecuencia de la pandemia del COVID-19, el gasto público en España superó el 50% del PIB por primera vez en la historia reciente.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La combinación del fuerte desplome del PIB (denominador) y el aumento extraordinario del gasto público para hacer frente a la crisis sanitaria y económica (ERTEs, ayudas a empresas, gasto sanitario, prestaciones sociales) elevó el ratio de gasto sobre el PIB hasta el 51,4% en 2020, nivel sin precedentes en la democracia española."
+  },
+  "11": {
+    "enunciado": "Las pensiones representan la mayor partida individual del gasto público español, concentrando en torno a un tercio del total del gasto.",
+    "respuesta": "Verdadero",
+    "razonamiento": "En 2023, el gasto en pensiones supone aproximadamente el 31,1% del gasto público total en España, convirtiéndose con claridad en la partida de mayor peso. Le siguen en importancia la sanidad (14,5%), la educación (9,3%) y los intereses de la deuda (5,5%)."
+  },
+  "12": {
+    "enunciado": "Comparado con la media de la UE-27, España destina proporcionalmente más gasto público a educación y defensa, y menos a pensiones.",
+    "respuesta": "Falso",
+    "razonamiento": "La comparativa es la inversa. España destina proporcionalmente más gasto que la media comunitaria a pensiones y prestaciones por desempleo, mientras que gasta relativamente menos que el promedio europeo en defensa, educación, sanidad y otros gastos sociales."
+  },
+  "13": {
+    "enunciado": "La reforma fiscal de los Pactos de la Moncloa de 1977 y la aprobación de la Constitución de 1978 sentaron las bases del moderno sistema tributario español.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Los Pactos de la Moncloa de 1977 y la posterior Constitución de 1978 impulsaron la reforma fiscal que modernizó el sistema tributario español: se creó el IRPF con carácter progresivo, se reformó el Impuesto de Sociedades y se estableció el marco para la posterior introducción del IVA en 1986 con la entrada en la CEE."
+  },
+  "14": {
+    "enunciado": "En España, la presión fiscal (ingresos públicos totales como porcentaje del PIB) se sitúa entre las más elevadas de la Unión Europea.",
+    "respuesta": "Falso",
+    "razonamiento": "Pese al aumento de la presión fiscal desde la transición (de aproximadamente el 21% en 1975 hasta el 41,9% en 2024), España se encuentra entre los países con menor presión fiscal de la UE, significativamente por debajo de países como Francia, Bélgica, Dinamarca o Suecia, que superan el 45-50%."
+  },
+  "15": {
+    "enunciado": "Las cotizaciones sociales representan la mayor fuente de ingresos del sector público español, por delante de los impuestos directos e indirectos.",
+    "respuesta": "Verdadero",
+    "razonamiento": "En la estructura de ingresos de las AAPP españolas, las cotizaciones sociales (aproximadamente el 31,4% del total) constituyen la partida de mayor peso, seguidas por los impuestos directos (IRPF e Impuesto de Sociedades, con el 30%) y los impuestos indirectos (IVA y otros, con el 26,3%)."
+  },
+  "16": {
+    "enunciado": "La comparativa con la UE-27 muestra que España recauda porcentualmente más a través de impuestos directos e indirectos, y menos mediante cotizaciones sociales.",
+    "respuesta": "Falso",
+    "razonamiento": "Ocurre lo contrario. España tiene una proporción de cotizaciones sociales sobre el total de ingresos superior a la media europea, mientras que su recaudación por impuestos directos (IRPF, Sociedades) e indirectos (IVA) es relativamente inferior como porcentaje del PIB al promedio de la UE-27."
+  },
+  "17": {
+    "enunciado": "España registró superávit presupuestario en los años 2005, 2006 y 2007, gracias al fuerte crecimiento económico de la fase expansiva.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Durante el auge económico del período 2005-2007, los ingresos públicos crecieron de forma extraordinaria (especialmente los vinculados a la actividad inmobiliaria: IVA, transmisiones patrimoniales) mientras se contenía el gasto, lo que permitió registrar superávits presupuestarios históricos hasta entonces infrecuentes en la democracia española."
+  },
+  "18": {
+    "enunciado": "El máximo déficit público en España durante la crisis financiera de 2008 se alcanzó en 2012, coincidiendo con el rescate bancario.",
+    "respuesta": "Falso",
+    "razonamiento": "El máximo déficit público se alcanzó en 2009, cuando el saldo negativo llegó al -11% del PIB. El año 2012 registró un déficit del -3,7% del PIB (que incluía el impacto del rescate bancario), significativamente inferior al máximo de 2009, aunque igualmente alejado de los objetivos de estabilidad."
+  },
+  "19": {
+    "enunciado": "El déficit presupuestario español tiene un componente estructural persistente, lo que significa que no desaparece completamente ni en las fases de expansión económica.",
+    "respuesta": "Verdadero",
+    "razonamiento": "España presenta un déficit estructural (el que persiste una vez eliminado el efecto del ciclo económico) de carácter crónico. Incluso en los años de máximo crecimiento económico (como 2005-2007), el superávit se explica en parte por ingresos fiscales atípicos ligados a la burbuja inmobiliaria, no por una eliminación real del desequilibrio estructural."
+  },
+  "20": {
+    "enunciado": "La deuda pública española alcanzó su máximo histórico en 2020, superando el 119% del PIB, como consecuencia de los extraordinarios gastos relacionados con la pandemia.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La combinación del fuerte aumento del gasto para hacer frente a la pandemia y el desplome del PIB en 2020 elevó la ratio de deuda pública sobre el PIB hasta el 119,3%, el nivel más alto registrado en la historia contemporánea española. Desde entonces, la ratio ha ido reduciéndose gradualmente hasta situarse en torno al 103,5% en 2024."
+  },
+  "21": {
+    "enunciado": "El porcentaje de deuda pública sobre el PIB en España a principios del siglo XXI (en torno a 2007) era superior al 60%, límite establecido en el Pacto de Estabilidad y Crecimiento.",
+    "respuesta": "Falso",
+    "razonamiento": "En 2007, justo antes de la crisis, la deuda pública española representaba apenas el 35,6% del PIB, muy por debajo del umbral del 60% del PEC. El enorme mérito de esa situación se explicaba por los años de superávit previos, aunque la deuda privada (especialmente la bancaria y corporativa) era muy elevada."
+  },
+  "22": {
+    "enunciado": "La Administración Central (Estado y organismos autónomos) es el subsector de las AAPP con mayor peso en el gasto público total español, por delante de las CCAA y la Seguridad Social.",
+    "respuesta": "Falso",
+    "razonamiento": "En 2023, la Seguridad Social es el mayor subsector de gasto (33,5% del total), seguida muy de cerca por las CCAA (33%). La Administración Central representa el 21,6% y las Corporaciones Locales el 11,9%. Antes de la pandemia la distribución era más favorable a las administraciones territoriales, pero el COVID reforzó el peso de la Administración Central."
+  },
+  "23": {
+    "enunciado": "Aproximadamente dos tercios de la normativa económica vigente en España proviene de directivas y reglamentos de la Unión Europea.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La integración en la UE y el desarrollo del Mercado Único han supuesto una progresiva transferencia de la capacidad normativa en materia económica al nivel europeo. Se estima que alrededor de dos tercios de las normas económicas aplicadas en España tienen su origen en directivas o reglamentos comunitarios, lo que limita el margen de maniobra regulatorio de las AAPP españolas."
+  },
+  "24": {
+    "enunciado": "El Estado del Bienestar en España experimentó su desarrollo principal durante el franquismo, siendo uno de los más consolidados de Europa al iniciarse la transición democrática.",
+    "respuesta": "Falso",
+    "razonamiento": "El Estado del Bienestar español era muy rudimentario al inicio de la transición democrática. Su desarrollo acelerado se produjo precisamente a partir de la Constitución de 1978 y durante las décadas de los ochenta y noventa, cuando se universalizó la sanidad, se expandió la educación pública y se desarrolló el sistema de protección social, partiendo de niveles muy inferiores a los de los países europeos avanzados."
+  },
+  "25": {
+    "enunciado": "El IVA se introdujo en España en 1986, coincidiendo con la adhesión a la Comunidad Económica Europea, en sustitución del antiguo Impuesto General sobre el Tráfico de Empresas.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La adhesión de España a la CEE en 1986 obligó a armonizar el sistema fiscal con el comunitario. El IVA (Impuesto sobre el Valor Añadido) sustituyó al IGTE y se convirtió en el principal impuesto indirecto, siguiendo el modelo ya implantado en los países comunitarios y convirtiéndose en un pilar fundamental de los ingresos del sector público español."
+  },
+  "26": {
+    "enunciado": "Los estabilizadores automáticos del presupuesto público actúan ampliando el déficit en las fases recesivas (por aumento del gasto en desempleo y caída de ingresos) y reduciéndolo en las expansivas, sin necesidad de decisiones discrecionales.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Los estabilizadores automáticos son mecanismos fiscales que operan sin intervención deliberada del gobierno: en recesión, el gasto en prestaciones de desempleo aumenta y los ingresos fiscales caen (ampliando el déficit y sosteniendo la demanda); en expansión, ocurre lo contrario. Su existencia es una de las razones por las que el gasto público como porcentaje del PIB fluctúa cíclicamente."
+  },
+  "27": {
+    "enunciado": "La deuda pública española se financia exclusivamente a través de la emisión de bonos del Estado a largo plazo, sin recurrir a instrumentos de corto plazo.",
+    "respuesta": "Falso",
+    "razonamiento": "El Tesoro Público español dispone de una variada gama de instrumentos de financiación según su plazo: a corto plazo emite Letras del Tesoro y Pagarés del Tesoro; a medio y largo plazo emite Bonos del Estado (2 a 5 años) y Obligaciones del Estado (más de 5 años). La diversificación de plazos busca optimizar el coste de la deuda y gestionar el riesgo de refinanciación."
+  }
+}

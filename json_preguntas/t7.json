@@ -1,0 +1,127 @@
+{
+  "1": {
+    "enunciado": "La reforma laboral de 2012 otorgó prioridad aplicativa a los convenios colectivos de empresa sobre los de sector en materias como el salario base y los complementos salariales.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La reforma de 2012 estableció la prioridad aplicativa del convenio de empresa sobre el sectorial en un amplio número de materias, incluidos el salario base y los complementos, con el objetivo de descentralizar la negociación colectiva y flexibilizar la estructura salarial."
+  },
+  "2": {
+    "enunciado": "La reforma laboral de 2012 mantuvo el límite de ultraactividad indefinido para los convenios colectivos denunciados, igual que en la normativa anterior.",
+    "respuesta": "Falso",
+    "razonamiento": "La reforma de 2012 limitó la ultraactividad de los convenios a un máximo de un año tras su denuncia. Si en ese plazo no se alcanzaba un nuevo acuerdo, el convenio perdía vigencia, lo que supuso un cambio radical respecto a la normativa previa que permitía una ultraactividad indefinida."
+  },
+  "3": {
+    "enunciado": "La reforma laboral de 2012 redujo la indemnización por despido improcedente de 45 días por año trabajado a 33 días, con un máximo de 24 mensualidades.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Efectivamente, la reforma de 2012 abarató el coste del despido improcedente, pasando de 45 días por año trabajado con un máximo de 42 mensualidades, a 33 días por año con un tope de 24 mensualidades para los contratos formalizados tras la entrada en vigor de la norma."
+  },
+  "4": {
+    "enunciado": "Antes de la reforma de 2012, para llevar a cabo un Expediente de Regulación de Empleo (ERE) de carácter extintivo era necesaria la autorización previa de la autoridad laboral.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Con la normativa anterior, los EREs extintivos requerían la aprobación administrativa de la autoridad laboral. La reforma de 2012 eliminó esta autorización previa, dejando la decisión final en manos del empresario tras un período de consultas con los representantes de los trabajadores."
+  },
+  "5": {
+    "enunciado": "La reforma laboral de 2021 mantuvo la prioridad del convenio de empresa sobre el sectorial en materia salarial, tal y como estableció la reforma de 2012.",
+    "respuesta": "Falso",
+    "razonamiento": "La reforma de 2021 revirtió este aspecto de la reforma de 2012. Recuperó la primacía del convenio sectorial sobre el de empresa en materia salarial, de modo que los convenios sectoriales vuelven a fijar el suelo mínimo de salarios que los convenios de empresa no pueden rebajar."
+  },
+  "6": {
+    "enunciado": "La reforma laboral de 2021 establece que, por defecto, los contratos de trabajo se presumen de carácter indefinido.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Uno de los pilares de la reforma de 2021 es la presunción de indefinición del contrato. La contratación temporal queda restringida a dos causas específicas y tasadas: las circunstancias de la producción y la sustitución de personas trabajadoras, debiendo justificarse siempre su uso."
+  },
+  "7": {
+    "enunciado": "Tras la reforma de 2021, el encadenamiento de contratos temporales por más de 18 meses en un período de 24 meses da lugar a la conversión automática en contrato indefinido.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La reforma de 2021 estableció que la persona trabajadora que en un período de 24 meses haya estado contratada temporalmente durante más de 18 meses con la misma empresa, adquiere automáticamente la condición de trabajadora indefinida."
+  },
+  "8": {
+    "enunciado": "La reforma de 2021 suprimió el contrato de obra o servicio determinado por considerarlo una fuente de fraude en la contratación temporal.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Efectivamente, la reforma de 2021 eliminó el contrato de obra o servicio determinado, así como el contrato eventual por circunstancias de la producción tal como se conocía. Los sustituyó por dos nuevas modalidades de contrato temporal de causas muy tasadas para evitar el abuso de la temporalidad."
+  },
+  "9": {
+    "enunciado": "El Mecanismo RED creado por la reforma de 2021 sustituye en todos los supuestos a los tradicionales ERTE por causas ETOP y de fuerza mayor.",
+    "respuesta": "Falso",
+    "razonamiento": "El Mecanismo RED es una figura nueva y adicional, pensada para situaciones macroeconómicas o sectoriales de gran calado. Los ERTE por causas ETOP (económicas, técnicas, organizativas y de producción) y de fuerza mayor se mantienen para situaciones de empresa. El Mecanismo RED tiene dos modalidades: cíclica (máximo 1 año) y sectorial (hasta 1 año con posibles extensiones de 6 meses adicionales)."
+  },
+  "10": {
+    "enunciado": "La reforma laboral de 2021 recuperó la ultraactividad indefinida de los convenios colectivos, revertiendo así el límite de un año impuesto por la reforma de 2012.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La reforma de 2021 derogó el límite temporal a la ultraactividad establecido en 2012. Con ello, los convenios colectivos vuelven a mantener su vigencia de forma indefinida tras ser denunciados, hasta que se alcance un nuevo acuerdo entre las partes negociadoras."
+  },
+  "11": {
+    "enunciado": "El desempleo estructural en España se explica principalmente por la insuficiencia de la demanda agregada durante las fases de recesión económica.",
+    "respuesta": "Falso",
+    "razonamiento": "El desempleo estructural no responde a la falta de demanda agregada (que sería desempleo cíclico), sino a rigideces e imperfecciones en el propio funcionamiento del mercado de trabajo, como la inadecuación de las cualificaciones, los sistemas de negociación colectiva o las regulaciones laborales."
+  },
+  "12": {
+    "enunciado": "La tasa de paro que corresponde a la NAIRU es aquella compatible con una tasa de inflación estable y no acelerada.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La NAIRU (Non-Accelerating Inflation Rate of Unemployment) es la tasa de paro estructural o de 'equilibrio' compatible con una inflación constante y no creciente. Reducir el paro por debajo de la NAIRU mediante estímulo de la demanda genera presiones inflacionistas."
+  },
+  "13": {
+    "enunciado": "Durante los años setenta y ochenta, los salarios reales en España registraron caídas pronunciadas, lo que contribuyó de forma significativa al incremento del desempleo en esa etapa.",
+    "respuesta": "Falso",
+    "razonamiento": "Fue precisamente lo contrario. Los salarios reales crecieron por encima de la productividad durante los años setenta y primeros ochenta, lo que encareció relativamente el factor trabajo, desincentivó la contratación y contribuyó al fuerte aumento del desempleo estructural en ese período."
+  },
+  "14": {
+    "enunciado": "La rigidez a la baja de los salarios nominales en España, favorecida por el modelo de negociación colectiva, es uno de los factores que explica la elevada tasa de paro estructural.",
+    "respuesta": "Verdadero",
+    "razonamiento": "El modelo de negociación colectiva sectorial, con la presencia de sindicatos que defienden los intereses de los trabajadores con empleo (insiders), tiende a generar rigideces salariales a la baja. Esto impide el ajuste del mercado de trabajo vía precio (salarios) y lo desplaza hacia el ajuste vía cantidad (empleo), elevando el paro estructural."
+  },
+  "15": {
+    "enunciado": "Los estudios disponibles estiman que la reforma laboral de 2012 contribuyó a elevar el empleo en unos 900.000 puestos de trabajo adicionales respecto a lo que se habría producido sin dicha reforma.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Las evaluaciones de la reforma de 2012 estiman que, gracias a la mayor flexibilidad interna introducida (como los ERTE y el 'descuelgue' de convenios), se evitó la destrucción de en torno a 900.000 empleos durante la segunda recesión de 2012-2013, al permitir a las empresas ajustar costes sin recurrir al despido."
+  },
+  "16": {
+    "enunciado": "Los contratos formativos de 'alternancia' y de 'práctica profesional' introducidos por la reforma de 2021 sustituyeron respectivamente al antiguo contrato de formación y aprendizaje y al contrato en prácticas.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La reforma de 2021 reformuló los contratos formativos. El contrato de formación en alternancia sustituyó al de formación y aprendizaje, combinando trabajo y formación acreditable; y el contrato para la obtención de práctica profesional sustituyó al antiguo contrato en prácticas para los titulados."
+  },
+  "17": {
+    "enunciado": "El contrato fijo-discontinuo, potenciado por la reforma de 2021, se destina a empleos de carácter permanente pero que se desarrollan solo en determinadas épocas del año o de forma intermitente.",
+    "respuesta": "Verdadero",
+    "razonamiento": "El fijo-discontinuo es un contrato indefinido que se activa y suspende según las necesidades productivas recurrentes de la empresa. La reforma de 2021 amplió su ámbito de aplicación, incluyendo sectores como el turismo o la hostelería, para reducir la temporalidad en actividades estacionales."
+  },
+  "18": {
+    "enunciado": "El desempleo friccional surge de los desajustes entre las características del puesto de trabajo ofertado y las del trabajador demandante, como la cualificación o la localización geográfica.",
+    "respuesta": "Falso",
+    "razonamiento": "El desempleo que surge de los desajustes de cualificación o localización geográfica es el desempleo estructural (por 'mismatch'). El desempleo friccional, en cambio, es el que se produce por el tiempo que necesariamente transcurre mientras un trabajador busca un nuevo empleo tras dejar uno anterior, siendo un fenómeno transitorio e inevitable en cualquier economía dinámica."
+  },
+  "19": {
+    "enunciado": "La reforma de 2021 establece que los convenios colectivos sectoriales pueden fijar un salario mínimo por debajo del Salario Mínimo Interprofesional (SMI).",
+    "respuesta": "Falso",
+    "razonamiento": "Los convenios sectoriales fijan el suelo salarial para su ámbito que los convenios de empresa no pueden rebajar. Pero en ningún caso ni el convenio sectorial ni el de empresa pueden establecer salarios por debajo del SMI, que actúa como suelo absoluto e indisponible para la negociación colectiva."
+  },
+  "20": {
+    "enunciado": "La reforma de 2012 redujo el porcentaje de la prestación por desempleo reconocido a partir del séptimo mes de percepción.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Entre las medidas de la reforma de 2012 en materia de prestaciones se redujo el porcentaje de la base reguladora aplicable a partir del séptimo mes de percepción de la prestación contributiva por desempleo, pasando del 60% al 50%, con el objetivo de reforzar los incentivos a la búsqueda activa de empleo."
+  },
+  "21": {
+    "enunciado": "El elevado peso de la economía sumergida en España contribuye a inflar la tasa de paro oficial, ya que muchos trabajadores irregulares figuran como desempleados en las estadísticas.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Una parte de los trabajadores que aparecen registrados como desempleados en la Encuesta de Población Activa (EPA) pueden estar realizando actividades en la economía informal o irregular. Ello hace que la tasa de paro oficial sobreestime el desempleo real y que España presente tasas superiores a la media europea en parte por este efecto estadístico."
+  },
+  "22": {
+    "enunciado": "El 'descuelgue' de convenio colectivo, regulado en la reforma de 2012, permite a las empresas incumplir las condiciones de trabajo pactadas en un convenio sin requisito ni procedimiento alguno.",
+    "respuesta": "Falso",
+    "razonamiento": "El descuelgue o inaplicación de convenio está sujeto a un procedimiento reglado: requiere acuerdo con la representación legal de los trabajadores, debe justificarse en causas económicas, técnicas, organizativas o de producción, y tiene límites temporales. No es una vía libre de incumplimiento, sino un mecanismo de flexibilidad interna tasado."
+  },
+  "23": {
+    "enunciado": "La tasa de temporalidad en España se sitúa históricamente entre las más altas de la Unión Europea, siendo la reforma de 2021 una de las medidas adoptadas para reducirla.",
+    "respuesta": "Verdadero",
+    "razonamiento": "España ha presentado de forma persistente una de las tasas de temporalidad contractual más elevadas de la UE, superando habitualmente el 25% de los asalariados. La reforma de 2021 tuvo como objetivo central reducir el abuso de la contratación temporal, y los datos posteriores muestran una reducción significativa de dicha tasa."
+  },
+  "24": {
+    "enunciado": "Los estudios sobre la reforma de 2012 estiman que contribuyó a reducir la tasa de paro estructural (NAIRU) en aproximadamente 4 puntos porcentuales.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Las evaluaciones econométricas disponibles estiman que la mayor flexibilidad introducida por la reforma de 2012, en especial en materia de negociación colectiva y contratación, habría contribuido a reducir la NAIRU española en torno a 4 puntos porcentuales, facilitando que el mercado de trabajo ajuste con mayor rapidez ante perturbaciones."
+  },
+  "25": {
+    "enunciado": "El Mecanismo RED de la reforma de 2021 en su modalidad sectorial puede mantenerse un máximo de un año sin posibilidad de prórroga.",
+    "respuesta": "Falso",
+    "razonamiento": "El Mecanismo RED en su modalidad sectorial tiene una duración inicial máxima de un año, pero admite hasta dos prórrogas adicionales de seis meses cada una, lo que permite que su vigencia total alcance los dos años. La modalidad cíclica, en cambio, tiene un límite máximo de un año sin prórrogas."
+  }
+}

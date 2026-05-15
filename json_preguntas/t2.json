@@ -1,0 +1,302 @@
+{
+  "1": {
+    "enunciado": "El crecimiento de la renta per cápita en España generalmente no está acompañado de cambios en la estructura productiva.",
+    "respuesta": "Falso",
+    "razonamiento": "El crecimiento económico a largo plazo suele implicar importantes cambios estructurales, como el fuerte descenso del peso de la agricultura en favor de la industria y, posteriormente, de los servicios."
+  },
+  "2": {
+    "enunciado": "En las primeras fases de industrialización, la productividad del trabajo tiende a ser menor en la industria y los servicios que en la agricultura.",
+    "respuesta": "Falso",
+    "razonamiento": "Suele ocurrir lo contrario; la productividad es mayor en la industria y servicios, lo que incentiva el trasvase de mano de obra desde el sector primario hacia estos."
+  },
+  "3": {
+    "enunciado": "A finales de los años noventa, el nivel de exposición de la economía española a la competencia exterior era significativamente inferior al de las economías europeas más avanzadas.",
+    "respuesta": "Falso",
+    "razonamiento": "Para finales de los años noventa, España ya estaba fuertemente integrada en la UE y en el mercado único, alcanzando niveles de apertura y exposición a la competencia exterior muy similares a la media de la Europa avanzada."
+  },
+  "4": {
+    "enunciado": "Una mayor competencia externa y la liberalización de los mercados interiores en España contribuyeron a un menor crecimiento económico.",
+    "respuesta": "Falso",
+    "razonamiento": "La competencia externa y la liberalización incentivaron mejoras en la eficiencia, contribuyendo positivamente a la expansión y modernización de la economía."
+  },
+  "5": {
+    "enunciado": "El aumento de las exportaciones generalmente disminuye el tamaño y la productividad de las empresas exportadoras.",
+    "respuesta": "Falso",
+    "razonamiento": "Generalmente sucede lo opuesto: la exposición a los mercados internacionales exige mayor competitividad, lo que promueve economías de escala (mayor tamaño) y mejoras de productividad en las empresas."
+  },
+  "6": {
+    "enunciado": "En 1960, la agricultura y la pesca representaban un porcentaje menor del empleo en España que en Alemania.",
+    "respuesta": "Falso",
+    "razonamiento": "En 1960, la agricultura representaba el 38,7% del empleo en España, una cifra notablemente superior al 14,0% que representaba en Alemania."
+  },
+  "7": {
+    "enunciado": "En 2021, el sector servicios empleaba a la mayoría de la población activa tanto en España como en Francia.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Las economías están fuertemente terciarizadas; los datos recientes sitúan al sector servicios como responsable de alrededor del 80% del empleo en ambos países (78,2% en España y 80,9% en Francia en 2023)."
+  },
+  "8": {
+    "enunciado": "La ampliación de los recursos públicos en España no ha tenido un impacto significativo en la productividad del sector privado.",
+    "respuesta": "Falso",
+    "razonamiento": "La inversión pública en infraestructuras y equipamientos (Capital Directamente Productivo del sector público) ha sido crucial para proveer servicios que elevan la productividad del sector privado."
+  },
+  "9": {
+    "enunciado": "Las transferencias como las pensiones y el desempleo son una parte del gasto público que estimula el consumo.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Estas transferencias suponen redistribución hacia rentas con alta propensión marginal al consumo, estimulando directamente la demanda agregada."
+  },
+  "10": {
+    "enunciado": "En las dos últimas décadas, España ha experimentado un avance significativo hacia una mayor equidad en la distribución de la renta y ha alcanzado una completa convergencia con las principales economías europeas en este aspecto.",
+    "respuesta": "Falso",
+    "razonamiento": "España ha mantenido tradicionalmente niveles de desigualdad en la distribución de la renta superiores a la media de la Unión Europea."
+  },
+  "11": {
+    "enunciado": "Una mayor equidad en la distribución de la renta puede favorecer el crecimiento económico al asegurar la vertebración social y la estabilidad institucional.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La cohesión social derivada de una menor desigualdad es un pilar importante para la estabilidad económica y la formación de un modelo de crecimiento sostenido a largo plazo."
+  },
+  "12": {
+    "enunciado": "En 1990, la población inmigrante en España representaba un porcentaje significativo en comparación con otros países de la UE.",
+    "respuesta": "Falso",
+    "razonamiento": "En 1990 la inmigración en España era un fenómeno muy incipiente; el porcentaje comenzó a ser significativo fundamentalmente a partir de principios de los años 2000."
+  },
+  "13": {
+    "enunciado": "La entrada de inmigrantes en España ha contribuido al aumento de la población en edad de trabajar y del empleo.",
+    "respuesta": "Verdadero",
+    "razonamiento": "El ascenso de la población en edad de trabajar en España en etapas recientes se ha debido, en gran medida, a una intensa entrada de inmigrantes, aliviando las tensiones demográficas."
+  },
+  "14": {
+    "enunciado": "La tasa de variación de la renta per cápita se puede calcular restando las tasas de variación de la productividad del trabajo y del empleo per cápita.",
+    "respuesta": "Falso",
+    "razonamiento": "La variación de la renta per cápita se aproxima sumando (no restando) la tasa de variación de la productividad del trabajo y la tasa de variación del empleo per cápita."
+  },
+  "15": {
+    "enunciado": "El aumento de la proporción de población empleada no tiene límites.",
+    "respuesta": "Falso",
+    "razonamiento": "Encuentra un límite natural de techo demográfico (Población en Edad de Trabajar) y por las tasas de actividad y de paro fisiológico."
+  },
+  "16": {
+    "enunciado": "La productividad del trabajo es considerada clave para el crecimiento económico, ya que permite el incremento del salario real y de la renta familiar.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Mejorar la eficiencia productiva por trabajador es la principal fuente real de aumentos sostenibles de salarios y capacidad adquisitiva a largo plazo."
+  },
+  "17": {
+    "enunciado": "Durante la década de 1990, la mayoría de los países europeos experimentaron una disminución en su capacidad de generación de empleo, similar a lo ocurrido en Estados Unidos.",
+    "respuesta": "Falso",
+    "razonamiento": "Europa (y particularmente España a partir de 1995) entró en una fase de intensa creación de empleo apoyada en la bonanza económica y reformas laborales."
+  },
+  "18": {
+    "enunciado": "Entre 1961 y 1985, la productividad del trabajo en España creció a una tasa menor que en Alemania.",
+    "respuesta": "Falso",
+    "razonamiento": "En ese período de rápida industrialización, la productividad en España creció de forma espectacular a un 4,9% medio anual, muy por encima del 3,0% de Alemania."
+  },
+  "19": {
+    "enunciado": "Entre 1986 y 2022, el empleo per cápita en España experimentó un crecimiento positivo.",
+    "respuesta": "Verdadero",
+    "razonamiento": "A pesar de las crisis recurrentes, el empleo per cápita global registró un crecimiento medio positivo del 1,0% en la etapa 1986-2024, contribuyendo de forma notable al PIB per cápita."
+  },
+  "20": {
+    "enunciado": "La Población Activa (PA) es siempre mayor que la Población en Edad de Trabajar (PET).",
+    "respuesta": "Falso",
+    "razonamiento": "Es al revés: la Población Activa (empleados y parados) es un subconjunto de la Población en Edad de Trabajar, ya que esta última incluye también a los inactivos (estudiantes, jubilados, etc.)."
+  },
+  "21": {
+    "enunciado": "El ascenso de la población en edad de trabajar fue más temprano e intenso en los países europeos menos desarrollados como España e Irlanda que en Estados Unidos.",
+    "respuesta": "Falso",
+    "razonamiento": "En Estados Unidos fue más temprano. En países como España e Irlanda, debido al retraso del baby boom, el ascenso fue 'algo más tardío' y se prolongó durante más tiempo."
+  },
+  "22": {
+    "enunciado": "En 2022, el porcentaje de población en edad de trabajar con respecto al total era mayor en España que en Alemania.",
+    "respuesta": "Verdadero",
+    "razonamiento": "En 2022, el porcentaje era del 65,4% en España frente a un menor 63,2% en Alemania debido a un envejecimiento más acelerado en el país germano."
+  },
+  "23": {
+    "enunciado": "Entre 1985 y 2022, el crecimiento del PIB per cápita en España se debió principalmente a un sustancial aumento de la productividad del trabajo.",
+    "respuesta": "Falso",
+    "razonamiento": "En la etapa pos-1985 (1986-2024), el factor que más contribuyó al crecimiento del PIB per cápita fue el empleo per cápita (+1,0%), mientras que el aumento de la productividad fue históricamente bajo (+0,6%)."
+  },
+  "24": {
+    "enunciado": "Desde 1970, la evolución del PIB per cápita y la productividad del trabajo en España han mostrado una convergencia notable.",
+    "respuesta": "Falso",
+    "razonamiento": "Ambas sendas divergieron fuertemente; sobre todo a partir del boom de finales de los 90, el PIB per cápita subió arrastrado por la incorporación laboral mientras la productividad caía y se estancaba relativamente."
+  },
+  "25": {
+    "enunciado": "En los periodos de recesión en España posteriores a 1986, el empleo por habitante ha aumentado, lo que ha provocado una disminución de la productividad del trabajo.",
+    "respuesta": "Falso",
+    "razonamiento": "En las recesiones españolas el empleo por habitante se contrae abruptamente mediante la destrucción de ocupación, lo que ha provocado incrementos (y no disminuciones) puramente estadísticos en la productividad del trabajo (comportamiento anticíclico)."
+  },
+  "26": {
+    "enunciado": "El comportamiento anticíclico de la productividad del trabajo durante la crisis de 2020 en España fue similar al de crisis anteriores.",
+    "respuesta": "Falso",
+    "razonamiento": "En la crisis de 2020 la productividad se desplomó drásticamente junto al PIB. Al contrario que en crisis previas, políticas como los ERTE mantuvieron artificialmente parte del empleo operativo pese al cierre, provocando una caída brusca de la productividad por trabajador (comportamiento atípicamente procíclico)."
+  },
+  "27": {
+    "enunciado": "El aumento de la productividad del trabajo se explica únicamente por el aumento del capital físico por trabajador.",
+    "respuesta": "Falso",
+    "razonamiento": "También se fundamenta en los aumentos del capital humano (formación) y, crucialmente, en el progreso tecnológico general o Productividad Total de los Factores (PTF)."
+  },
+  "28": {
+    "enunciado": "La productividad total de los factores (PTF) mide la mejora en la eficiencia con la que se combinan trabajo y capital en el proceso productivo.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Representa ese residuo que multiplica la producción no atribuible a un simple aumento del volumen de inputs, indicando avances en tecnología, organización e innovación."
+  },
+  "29": {
+    "enunciado": "La apertura al exterior y una mayor competencia en los mercados interiores tienden a disminuir la productividad total de los factores a corto plazo.",
+    "respuesta": "Falso",
+    "razonamiento": "Una mayor competencia incentiva la asignación eficiente de recursos, la adopción de tecnologías y la innovación, lo que tiende a incrementar la PTF."
+  },
+  "30": {
+    "enunciado": "El capital residencial se considera capital directamente productivo.",
+    "respuesta": "Falso",
+    "razonamiento": "En la Contabilidad Nacional, el capital residencial engloba viviendas; expresamente, 'no se destina a la producción de bienes y servicios' y, por ende, difiere del Capital Directamente Productivo."
+  },
+  "31": {
+    "enunciado": "El capital humano incluye la salud, los conocimientos, las habilidades y los talentos de los trabajadores.",
+    "respuesta": "Verdadero",
+    "razonamiento": "El capital humano trasciende la educación formal y engloba cualquier aptitud o estado (como la salud y la destreza) que aumente la contribución y el rendimiento del trabajador."
+  },
+  "32": {
+    "enunciado": "La inversión en el sistema educativo formal es una de las formas de generar capital humano.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Se considera uno de los métodos principales de inversión en factor trabajo estratégico, junto con el aprendizaje basado en la experiencia (formación en el empleo)."
+  },
+  "33": {
+    "enunciado": "El gasto en educación en España como porcentaje del PIB ha experimentado un descenso constante desde la década de los 90 hasta la actualidad.",
+    "respuesta": "Falso",
+    "razonamiento": "Ha habido un aumento en el esfuerzo inversor educativo en el largo plazo, moviéndose de manera oscilatoria entre el 4% y el 5% del PIB desde la década de los 90."
+  },
+  "34": {
+    "enunciado": "En 2022, el número medio de años de estudio de la población activa en España era similar al de 1960.",
+    "respuesta": "Falso",
+    "razonamiento": "El nivel ha crecido enormemente, pasando de apenas 5,3 años en 1960 a superar los 12 años de media (12,1 en 2024)."
+  },
+  "35": {
+    "enunciado": "El aumento en el número de años de estudio en España se ha correspondido directamente con la evolución de la Productividad Aparente del Trabajo.",
+    "respuesta": "Falso",
+    "razonamiento": "A pesar de triplicar o duplicar los años medios de formación, esa mejora no se ha traducido de manera proporcional o directa en incrementos en la Productividad Aparente, evidenciando problemas de sobrecualificación o desajustes formativos."
+  },
+  "36": {
+    "enunciado": "La Productividad Aparente del Trabajo (PAT) en España se ha mantenido constante entre 1960 y 2022.",
+    "respuesta": "Falso",
+    "razonamiento": "La PAT de España no se ha mantenido estática; de hecho, entre 1960 y 2024 experimentó un crecimiento total acumulado en términos monetarios de aproximadamente +47.000€."
+  },
+  "37": {
+    "enunciado": "En la función de producción Cobb-Douglas presentada, el parámetro a representa la elasticidad del producto respecto del capital humano.",
+    "respuesta": "Falso",
+    "razonamiento": "El parámetro α (alfa) representa convencionalmente la elasticidad respecto al capital físico (K), mientras que la elasticidad del capital humano se simboliza con β (beta)."
+  },
+  "38": {
+    "enunciado": "La Productividad Total de los Factores (PTF) se calcula como la suma de la productividad media del trabajo, el capital físico por trabajador y el capital humano por trabajador.",
+    "respuesta": "Falso",
+    "razonamiento": "La PTF actúa como multiplicador (progreso técnico) y se computa en las variaciones despejándola matemáticamente como un 'residuo' tras deducir las contribuciones marginales puras del factor capital y trabajo a la producción total."
+  },
+  "39": {
+    "enunciado": "Entre 1960 y 2022, la mayor contribución al aumento de la PAT en España provino del aumento del capital humano.",
+    "respuesta": "Falso",
+    "razonamiento": "El aumento de la Productividad Aparente de España fue soportado mayoritariamente por la PTF (49%) y el capital físico (36%). La aportación aislada del capital humano se quedó en un 15%."
+  },
+  "40": {
+    "enunciado": "La PTF en España experimentó un notable aumento desde el inicio del decenio de 1990 hasta 2022.",
+    "respuesta": "Falso",
+    "razonamiento": "Por el contrario, los estudios marcan un 'nulo aumento' o estancamiento casi persistente en los niveles de Productividad Total de los Factores desde inicios de la década de los 90 en España."
+  },
+  "41": {
+    "enunciado": "Desde el final del decenio de 1980 hasta la reciente crisis, la productividad del trabajo en España, en relación con la media de la UE-15, experimentó un aumento constante.",
+    "respuesta": "Falso",
+    "razonamiento": "La productividad relativa en España (como porcentaje de la media de la Eurozona) experimentó un prolongado descenso desde finales de los años 80 hasta la eclosión de la Gran Recesión de 2008."
+  },
+  "42": {
+    "enunciado": "En las primeras etapas de desarrollo de un país, la importación de bienes de equipo no juega un papel relevante en el aumento del capital físico por trabajador.",
+    "respuesta": "Falso",
+    "razonamiento": "Es un mecanismo vital: importar tecnología externa ya madura mediante bienes de equipo permite saltos inmediatos y formidables de mecanización y capitalización (efecto catch-up industrial)."
+  },
+  "43": {
+    "enunciado": "Un elevado grado de desarrollo facilita la adquisición y asimilación de tecnologías de otros países.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Países más desarrollados cuentan con infraestructuras científicas y un capital humano con aptitudes que les permiten absorber rápidamente avances de otros territorios."
+  },
+  "44": {
+    "enunciado": "En 2022, la ratio de intensidad investigadora en España superaba la de los países más desarrollados.",
+    "respuesta": "Falso",
+    "razonamiento": "La ratio de inversión en I+D como porcentaje del PIB de la economía española está históricamente estancada muy por debajo de la media de países desarrollados clave (como Francia o Alemania)."
+  },
+  "45": {
+    "enunciado": "El estancamiento de la PTF en España se puede atribuir principalmente a diferencias en el número de investigadores y en el nivel de educación de la población en comparación con otros países desarrollados.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Ese factor explícito (el tejido investigador reducido, combinado con disonancias en la aplicabilidad del capital humano y la innovación en las pymes) bloquea y explica en gran medida el 'residuo de Solow' estancado del país."
+  },
+  "46": {
+    "enunciado": "España dedica un esfuerzo de inversión en I+D sobre el PIB similar al de Francia y Alemania.",
+    "respuesta": "Falso",
+    "razonamiento": "España dedica un porcentaje notablemente inferior (que suele rondar el 1,4% del PIB), lejos de las cifras de Francia y muy distanciado de las elevadas tasas de innovación e investigación de Alemania."
+  },
+  "47": {
+    "enunciado": "Los factores de oferta a largo plazo, como la población, el capital físico y humano y la PTF, no presentan distorsiones a corto plazo en cuanto a su evolución y ajuste de precios.",
+    "respuesta": "Falso",
+    "razonamiento": "Existen grandes rigideces. Ante variaciones del ciclo, no todo se ajusta instantáneamente mediante precios, lo que genera amplias alteraciones y distorsiones a corto plazo en el nivel de utilización (empleo y capital instalados inactivos, etc.)."
+  },
+  "48": {
+    "enunciado": "El PIB potencial describe la tendencia de la demanda agregada a largo plazo.",
+    "respuesta": "Falso",
+    "razonamiento": "Describe la tendencia o la capacidad de crecimiento natural y máxima de la *oferta agregada* a largo plazo."
+  },
+  "49": {
+    "enunciado": "El output gap es la suma de las sendas de avance del PIB potencial y real.",
+    "respuesta": "Falso",
+    "razonamiento": "Es la *diferencia* ('brecha') entre el PIB potencial máximo (o tendencial de la oferta) y el PIB que realmente se está registrando."
+  },
+  "50": {
+    "enunciado": "Durante el periodo 1995-2007, el PIB real en España se mantuvo por debajo de su PIB potencial.",
+    "respuesta": "Falso",
+    "razonamiento": "En el periodo de la expansión (1995-2007) el PIB real español estuvo recalentado y empujado de forma continuada sistemáticamente por *encima* del PIB potencial tendencial."
+  },
+  "51": {
+    "enunciado": "Los principales momentos expansivos de la economía española han estado acompañados de disminuciones de precios.",
+    "respuesta": "Falso",
+    "razonamiento": "Los prolongados momentos expansivos de la economía española han generado excesos de demanda que han ido tradicionalmente acompañados de fuertes tensiones alcistas y diferenciales de inflación (encarecimiento)."
+  },
+  "52": {
+    "enunciado": "La crisis del decenio de 1970 en España estuvo influenciada por shocks de oferta negativos, como las elevaciones del precio del crudo petrolífero.",
+    "respuesta": "Verdadero",
+    "razonamiento": "La macrocrisis que azotó a España tras 1973/1979 fue producto de una grave distorsión mundial nacida de un shock de costes en la oferta causado por la subida de la materia prima energética."
+  },
+  "53": {
+    "enunciado": "La masiva entrada de inmigrantes en los decenios de 1990 y 2000 constituyó un shock de oferta negativo para la economía española.",
+    "respuesta": "Falso",
+    "razonamiento": "Ese ingente aumento repentino de la mano de obra útil actuó expansivamente ensanchando la capacidad productiva del país (shock de oferta muy positivo que engrosó el PIB potencial)."
+  },
+  "54": {
+    "enunciado": "Tras el ingreso de España en las Comunidades Europeas y la entrada del euro, el rápido aumento de la demanda no generó tensiones alcistas sobre los precios.",
+    "respuesta": "Falso",
+    "razonamiento": "Toda la etapa de crecimiento en torno a la entrada del euro, alimentada por las fuertes expansiones del crédito y del consumo en España, originó una persistente inflación diferencial que mermó competitividad."
+  },
+  "55": {
+    "enunciado": "Antes de la entrada del euro, las devaluaciones de la moneda eran una herramienta utilizada para ganar competitividad y reestablecer el equilibrio exterior en España.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Constituía el recurso monetario clásico de las autoridades españolas (usado a fondo, por ejemplo, en la crisis de 1992-1993) para abaratar sus bienes tras etapas de recalentamiento con el fin de salvar los déficit por cuenta corriente."
+  },
+  "56": {
+    "enunciado": "Entre 2002 y 2007, la reducción de los tipos de interés en la eurozona no tuvo un impacto significativo en la demanda interior española.",
+    "respuesta": "Falso",
+    "razonamiento": "Tuvo un impacto devastadoramente expansivo: generó un 'boom' histórico del endeudamiento que alimentó con fiereza el consumo y retroalimentó por años la burbuja de la construcción residencial."
+  },
+  "57": {
+    "enunciado": "La crisis posterior a 2007 se caracterizó en España por un aumento de la demanda interna y una disminución de las exportaciones.",
+    "respuesta": "Falso",
+    "razonamiento": "Lo que marcó la Gran Recesión pos-2007 fue, por el contrario, el hundimiento en picado del consumo y demanda nacionales; esto forzó a las empresas españolas, que ya no tenían mercado propio, a salir fuertemente al exterior, incrementando las exportaciones."
+  },
+  "58": {
+    "enunciado": "Desde la crisis de 2009, el sector exterior español ha mostrado un buen comportamiento a pesar de registrar incrementos del PIB superiores al 3%.",
+    "respuesta": "Verdadero",
+    "razonamiento": "El gran éxito y corrección macroeconómica en la última década ha sido que la economía pudo rebotar intensamente creciendo un +3% sin incurrir (por primera vez históricamente) en fuertes déficits del saldo exterior."
+  },
+  "59": {
+    "enunciado": "El tardío proceso de apertura a la competencia internacional en España contribuyó a una menor intensidad de las fluctuaciones económicas en comparación con la media europea.",
+    "respuesta": "Falso",
+    "razonamiento": "Por el contrario, España sufre por problemas estructurales fluctuaciones más intensas, con expansiones del PIB más vertiginosas que Europa y debacles muchísimo más agudas, sobre todo en los indicadores de paro."
+  },
+  "60": {
+    "enunciado": "A partir de 2020, España experimentó un nuevo desequilibrio macroeconómico caracterizado por un incremento de la inflación.",
+    "respuesta": "Verdadero",
+    "razonamiento": "Tras las inyecciones de estímulo en la post-pandemia y el agravamiento de tensiones en cuellos de botella y de carácter energético, el IPC escaló brutalmente causando el shock inflacionario reciente."
+  }
+}

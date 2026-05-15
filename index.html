@@ -1,0 +1,1053 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tipo Test</title>
+  <style>
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d27;
+      --surface2: #252836;
+      --border: #2e3347;
+      --accent: #6c63ff;
+      --accent-hover: #574fd6;
+      --correct: #22c55e;
+      --wrong: #ef4444;
+      --text: #e2e8f0;
+      --text-muted: #7c8db5;
+      --radius: 12px;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 16px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    header h1 { font-size: 1.3rem; font-weight: 700; color: var(--accent); letter-spacing: -0.5px; }
+    .header-stats { font-size: 0.8rem; color: var(--text-muted); }
+
+    .tabs {
+      display: flex;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .tab {
+      padding: 12px 20px;
+      cursor: pointer;
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      border-bottom: 2px solid transparent;
+      transition: all 0.2s;
+      user-select: none;
+    }
+    .tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+    .tab:hover:not(.active) { color: var(--text); }
+
+    main { flex: 1; padding: 24px; max-width: 860px; width: 100%; margin: 0 auto; }
+
+    /* ── MODE CARDS ── */
+    #mode-select-view {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .mode-cards {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+    }
+
+    .mode-card {
+      background: var(--surface);
+      border: 2px solid var(--border);
+      border-radius: var(--radius);
+      padding: 32px 20px;
+      cursor: pointer;
+      text-align: center;
+      transition: all 0.2s;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 12px;
+      user-select: none;
+    }
+
+    .mode-card:hover {
+      border-color: var(--accent);
+      background: #1e1c35;
+      transform: translateY(-3px);
+      box-shadow: 0 8px 24px rgba(108,99,255,0.15);
+    }
+
+    .mode-card-icon {
+      width: 60px;
+      height: 60px;
+      border-radius: 14px;
+      background: var(--surface2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+      font-weight: 800;
+      color: var(--accent);
+      letter-spacing: -1px;
+    }
+
+    .mode-card-title { font-size: 1rem; font-weight: 700; }
+
+    .mode-card-count {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 99px;
+      padding: 3px 12px;
+    }
+
+    @media (max-width: 580px) {
+      .mode-cards { grid-template-columns: 1fr; }
+      .mode-card { flex-direction: row; text-align: left; padding: 20px; }
+      .mode-card-icon { flex-shrink: 0; }
+    }
+
+    /* ── PANELS ── */
+    #panel-test { display: none; flex-direction: column; gap: 20px; }
+    #panel-test.active { display: flex; }
+    #panel-banco { display: none; flex-direction: column; gap: 20px; }
+    #panel-banco.active { display: flex; }
+
+    /* ── CONTROLS ── */
+    .test-controls {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .search-box {
+      flex: 1;
+      min-width: 220px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 10px 14px;
+      color: var(--text);
+      font-size: 0.9rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    .search-box:focus { border-color: var(--accent); }
+    .search-box::placeholder { color: var(--text-muted); }
+
+    .btn {
+      padding: 10px 18px;
+      border: none;
+      border-radius: var(--radius);
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+      white-space: nowrap;
+    }
+    .btn-primary { background: var(--accent); color: #fff; }
+    .btn-primary:hover { background: var(--accent-hover); }
+    .btn-ghost { background: var(--surface2); color: var(--text); border: 1px solid var(--border); }
+    .btn-ghost:hover { border-color: var(--accent); color: var(--accent); }
+    .btn-danger { background: #3b1e1e; color: var(--wrong); border: 1px solid #5a2020; }
+    .btn-danger:hover { background: #4f2020; }
+
+    /* ── PROGRESS ── */
+    .progress-bar-wrap {
+      background: var(--surface2);
+      border-radius: 99px;
+      height: 6px;
+      overflow: hidden;
+    }
+    .progress-bar { height: 100%; background: var(--accent); border-radius: 99px; transition: width 0.4s; }
+
+    /* ── QUESTION CARD ── */
+    .question-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+    }
+
+    .question-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.78rem;
+      color: var(--text-muted);
+    }
+
+    .question-text { font-size: 1.05rem; line-height: 1.6; font-weight: 500; }
+
+    .options-grid { display: flex; flex-direction: column; gap: 10px; }
+
+    .option-btn {
+      background: var(--surface2);
+      border: 1.5px solid var(--border);
+      border-radius: 10px;
+      padding: 12px 16px;
+      text-align: left;
+      cursor: pointer;
+      color: var(--text);
+      font-size: 0.9rem;
+      transition: all 0.15s;
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+    }
+    .option-btn:hover:not(:disabled) { border-color: var(--accent); background: #252040; }
+    .option-btn.correct { border-color: var(--correct); background: #0f2a1a; color: var(--correct); }
+    .option-btn.wrong { border-color: var(--wrong); background: #2a0f0f; color: var(--wrong); }
+
+    .option-letter {
+      min-width: 26px;
+      height: 26px;
+      border-radius: 6px;
+      background: var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.75rem;
+      font-weight: 700;
+      flex-shrink: 0;
+    }
+    .option-btn.correct .option-letter { background: var(--correct); color: #fff; }
+    .option-btn.wrong .option-letter { background: var(--wrong); color: #fff; }
+
+    .feedback-box {
+      border-radius: 10px;
+      padding: 14px 16px;
+      font-size: 0.88rem;
+      line-height: 1.6;
+      display: none;
+      white-space: pre-wrap;
+    }
+    .feedback-box.show { display: block; }
+    .feedback-box.correct-fb { background: #0f2a1a; border: 1px solid var(--correct); color: #86efac; }
+    .feedback-box.wrong-fb { background: #2a0f0f; border: 1px solid var(--wrong); color: #fca5a5; }
+
+    .nav-btns { display: flex; gap: 10px; justify-content: space-between; flex-wrap: wrap; }
+
+    /* ── SEARCH RESULTS ── */
+    .search-results {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+    }
+    .search-result-item {
+      padding: 14px 18px;
+      border-bottom: 1px solid var(--border);
+      cursor: pointer;
+      transition: background 0.15s;
+      font-size: 0.88rem;
+    }
+    .search-result-item:last-child { border-bottom: none; }
+    .search-result-item:hover { background: var(--surface2); }
+    .search-result-item .result-num { color: var(--text-muted); font-size: 0.75rem; margin-bottom: 4px; }
+
+    /* ── SCORE ── */
+    .score-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 32px;
+      text-align: center;
+      display: none;
+      flex-direction: column;
+      gap: 16px;
+    }
+    .score-card.show { display: flex; }
+    .score-num { font-size: 3rem; font-weight: 800; color: var(--accent); }
+    .score-detail { color: var(--text-muted); font-size: 0.9rem; }
+
+    /* ── BANCO ── */
+    .add-form {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .add-form h3 {
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    textarea, input[type="text"] {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 14px;
+      color: var(--text);
+      font-size: 0.9rem;
+      font-family: inherit;
+      outline: none;
+      resize: vertical;
+      width: 100%;
+      transition: border-color 0.2s;
+    }
+    textarea:focus, input[type="text"]:focus { border-color: var(--accent); }
+    textarea::placeholder, input::placeholder { color: var(--text-muted); }
+
+    .options-inputs { display: flex; flex-direction: column; gap: 8px; }
+    .option-input-row { display: flex; align-items: center; gap: 8px; }
+    .option-input-row label {
+      min-width: 26px;
+      height: 26px;
+      border-radius: 6px;
+      background: var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.75rem;
+      font-weight: 700;
+      flex-shrink: 0;
+      cursor: pointer;
+    }
+    .option-input-row input[type="radio"] {
+      width: 16px;
+      height: 16px;
+      accent-color: var(--accent);
+      flex-shrink: 0;
+      cursor: pointer;
+    }
+    .correct-hint { font-size: 0.75rem; color: var(--text-muted); margin-top: -4px; }
+
+    .question-list { display: flex; flex-direction: column; gap: 8px; }
+    .question-list-item {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 14px 16px;
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 12px;
+    }
+    .q-info { flex: 1; min-width: 0; }
+    .q-num { font-size: 0.72rem; color: var(--text-muted); margin-bottom: 4px; }
+    .q-text { font-size: 0.88rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .q-actions { display: flex; gap: 6px; flex-shrink: 0; }
+
+    .btn-sm { padding: 6px 12px; font-size: 0.78rem; border-radius: 8px; }
+
+    .empty-state { text-align: center; padding: 48px 20px; color: var(--text-muted); font-size: 0.9rem; }
+    .empty-state span { font-size: 2.5rem; display: block; margin-bottom: 12px; }
+
+    /* ── BADGES ── */
+    .tag {
+      display: inline-block;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 2px 8px;
+      font-size: 0.72rem;
+      color: var(--text-muted);
+    }
+    .badge {
+      background: var(--accent);
+      color: #fff;
+      border-radius: 99px;
+      padding: 1px 7px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      margin-left: 6px;
+    }
+    .type-badge {
+      display: inline-block;
+      padding: 1px 6px;
+      border-radius: 4px;
+      font-size: 0.68rem;
+      font-weight: 700;
+      margin-left: 4px;
+    }
+    .type-badge.vf { background: #0f2a1a; color: var(--correct); border: 1px solid var(--correct); }
+    .type-badge.test { background: #1a1a35; color: var(--accent); border: 1px solid var(--accent); }
+    .type-badge.manual { background: var(--surface2); color: var(--text-muted); border: 1px solid var(--border); }
+
+    /* ── TOAST ── */
+    #toast {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 12px 18px;
+      font-size: 0.85rem;
+      opacity: 0;
+      transform: translateY(10px);
+      transition: all 0.3s;
+      pointer-events: none;
+      z-index: 999;
+      max-width: 300px;
+    }
+    #toast.show { opacity: 1; transform: translateY(0); }
+
+    @media (max-width: 500px) {
+      main { padding: 16px; }
+      .question-card { padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Tipo Test</h1>
+  <div class="header-stats" id="header-stats">Cargando preguntas...</div>
+</header>
+
+<div class="tabs">
+  <div class="tab active" data-tab="test">Examen</div>
+  <div class="tab" data-tab="banco">Banco de preguntas</div>
+</div>
+
+<main>
+  <!-- ── PANEL EXAMEN ── -->
+  <div id="panel-test" class="active">
+
+    <!-- Selector de modo (visible cuando no hay test activo) -->
+    <div id="mode-select-view">
+      <div class="mode-cards">
+        <div class="mode-card" data-mode="vf">
+          <div class="mode-card-icon">V/F</div>
+          <div class="mode-card-title">Verdadero / Falso</div>
+          <div class="mode-card-count" id="count-vf">Cargando...</div>
+        </div>
+        <div class="mode-card" data-mode="test">
+          <div class="mode-card-icon">①②③</div>
+          <div class="mode-card-title">Tipo Test</div>
+          <div class="mode-card-count" id="count-test">Cargando...</div>
+        </div>
+        <div class="mode-card" data-mode="mix">
+          <div class="mode-card-icon">⇄</div>
+          <div class="mode-card-title">Mezcla</div>
+          <div class="mode-card-count" id="count-mix">Cargando...</div>
+        </div>
+      </div>
+
+      <input class="search-box" id="search-input" type="text" placeholder="Buscar en todas las preguntas..." />
+      <div id="search-results" class="search-results" style="display:none;"></div>
+    </div>
+
+    <!-- Controles durante el test -->
+    <div id="test-active-controls" style="display:none;">
+      <div class="test-controls">
+        <button class="btn btn-ghost" id="btn-back-mode">← Cambiar modo</button>
+        <button class="btn btn-ghost" id="btn-shuffle">⇄ Mezclar</button>
+      </div>
+    </div>
+
+    <!-- Barra de progreso -->
+    <div id="progress-wrap" style="display:none;">
+      <div style="display:flex;justify-content:space-between;font-size:0.78rem;color:var(--text-muted);margin-bottom:6px;">
+        <span id="progress-label">Pregunta 1 de N</span>
+        <span id="score-inline">✓ 0 &nbsp; ✗ 0</span>
+      </div>
+      <div class="progress-bar-wrap"><div class="progress-bar" id="progress-bar" style="width:0%"></div></div>
+    </div>
+
+    <!-- Tarjeta de pregunta -->
+    <div class="question-card" id="question-card" style="display:none;">
+      <div class="question-meta">
+        <span id="q-tag" class="tag"></span>
+        <span id="q-id-label" style="font-size:0.75rem;color:var(--text-muted);"></span>
+      </div>
+      <div class="question-text" id="question-text"></div>
+      <div class="options-grid" id="options-grid"></div>
+      <div class="feedback-box" id="feedback-box"></div>
+      <div class="nav-btns">
+        <button class="btn btn-ghost" id="btn-prev">← Anterior</button>
+        <button class="btn btn-primary" id="btn-next" disabled>Siguiente →</button>
+      </div>
+    </div>
+
+    <!-- Puntuación final -->
+    <div class="score-card" id="score-card">
+      <div style="font-size:1.4rem;font-weight:700;">Resultado final</div>
+      <div class="score-num" id="score-num">0%</div>
+      <div class="score-detail" id="score-detail"></div>
+      <div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:8px;">
+        <button class="btn btn-primary" id="btn-retry">↺ Repetir test</button>
+        <button class="btn btn-ghost" id="btn-retry-wrong">Repetir falladas</button>
+        <button class="btn btn-ghost" id="btn-back-mode-score">← Cambiar modo</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── PANEL BANCO ── -->
+  <div id="panel-banco">
+    <div class="add-form">
+      <h3>Añadir pregunta personalizada</h3>
+      <textarea id="new-question" rows="3" placeholder="Enunciado de la pregunta..."></textarea>
+      <div class="options-inputs" id="options-inputs"></div>
+      <div class="correct-hint">Marca el radio button de la opción correcta</div>
+      <input type="text" id="new-tag" placeholder="Etiqueta / tema (opcional)" />
+      <div style="display:flex;gap:8px;flex-wrap:wrap;">
+        <button class="btn btn-primary" id="btn-add">+ Añadir pregunta</button>
+        <button class="btn btn-ghost" id="btn-import">↑ Importar JSON</button>
+        <button class="btn btn-ghost" id="btn-export">↓ Exportar JSON</button>
+        <button class="btn btn-danger" id="btn-clear-manual">Borrar manuales</button>
+      </div>
+      <input type="file" id="import-file" accept=".json" style="display:none;" />
+    </div>
+
+    <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;">
+      <div style="font-size:0.88rem;color:var(--text-muted);">
+        Total cargadas <span class="badge" id="banco-count">0</span>
+      </div>
+      <input class="search-box" style="max-width:260px;" id="banco-search" type="text" placeholder="Filtrar lista..." />
+    </div>
+
+    <div class="question-list" id="question-list"></div>
+  </div>
+</main>
+
+<div id="toast"></div>
+
+<script>
+// ── ARCHIVOS ─────────────────────────────────────────────────────────────────
+const VF_FILES   = ['t2','t3','t4','t5','t6','t7','t8','t9'].map(f => `json_preguntas/${f}.json`);
+const TEST_FILES = ['t1'].map(f => `tipo_test/${f}.json`);
+
+// ── ESTADO ───────────────────────────────────────────────────────────────────
+let vfBank    = [];   // preguntas Verdadero/Falso (de json_preguntas/)
+let testBank  = [];   // preguntas tipo test (de tipo_test/)
+let manualBank = [];  // preguntas añadidas manualmente (localStorage)
+
+let questions  = [];  // pool activo del test
+let testOrder  = [];
+let testIdx    = 0;
+let answered   = {};
+let testActive = false;
+let wrongOnly  = [];
+let currentMode = null;
+
+const STORAGE_KEY = 'tipotestv2_manual';
+const LETTERS = ['A','B','C','D','E'];
+
+// ── PARSE JSON ───────────────────────────────────────────────────────────────
+function parseQuestionData(data, defaultTag = '') {
+  if (Array.isArray(data)) {
+    return data.filter(q => q.text && Array.isArray(q.options) && typeof q.correct === 'number');
+  }
+  if (typeof data !== 'object' || data === null) return [];
+
+  const result = [];
+  for (const key of Object.keys(data)) {
+    const q = data[key];
+    if (!q.enunciado) continue;
+
+    if (Array.isArray(q.opciones) && q.respuesta) {
+      const idx = ['A','B','C','D','E'].indexOf(q.respuesta.toUpperCase());
+      if (idx !== -1 && idx < q.opciones.length) {
+        result.push({
+          text: q.enunciado,
+          options: q.opciones,
+          correct: idx,
+          razonamiento: q.razonamiento || '',
+          tag: q.tag || defaultTag
+        });
+      }
+    } else if (q.respuesta === 'Verdadero' || q.respuesta === 'Falso') {
+      result.push({
+        text: q.enunciado,
+        options: ['Verdadero', 'Falso'],
+        correct: q.respuesta === 'Verdadero' ? 0 : 1,
+        razonamiento: q.razonamiento || '',
+        tag: q.tag || defaultTag
+      });
+    }
+  }
+  return result;
+}
+
+// ── CARGA DESDE ARCHIVOS ─────────────────────────────────────────────────────
+async function fetchFile(url, type) {
+  try {
+    const r = await fetch(url);
+    if (!r.ok) return [];
+    const data = await r.json();
+    const tag = url.replace(/.*\//, '').replace('.json', '').toUpperCase();
+    return parseQuestionData(data, tag).map(q => ({ ...q, _type: type }));
+  } catch { return []; }
+}
+
+async function loadFromFiles() {
+  const [vfResults, testResults] = await Promise.all([
+    Promise.all(VF_FILES.map(f => fetchFile(f, 'vf'))),
+    Promise.all(TEST_FILES.map(f => fetchFile(f, 'test')))
+  ]);
+
+  vfBank   = vfResults.flat();
+  testBank = testResults.flat();
+
+  updateCounts();
+  updateHeaderStats();
+  renderBanco();
+
+  if (vfBank.length === 0 && testBank.length === 0) {
+    toast('⚠ No se pudieron cargar los archivos. Usa un servidor local (Live Server).', 4000);
+  }
+}
+
+function updateCounts() {
+  document.getElementById('count-vf').textContent   = `${vfBank.length} preguntas`;
+  document.getElementById('count-test').textContent  = `${testBank.length} preguntas`;
+  document.getElementById('count-mix').textContent   = `${vfBank.length + testBank.length} preguntas`;
+}
+
+function updateHeaderStats() {
+  document.getElementById('header-stats').textContent =
+    `${vfBank.length} V/F  ·  ${testBank.length} Test  ·  ${vfBank.length + testBank.length} total`;
+}
+
+// ── MANUAL BANK (localStorage) ───────────────────────────────────────────────
+function saveManual() {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(manualBank));
+}
+
+function loadManual() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (raw) manualBank = JSON.parse(raw);
+  } catch { manualBank = []; }
+}
+
+// ── UTILIDADES ───────────────────────────────────────────────────────────────
+function toast(msg, duration = 2500) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), duration);
+}
+
+function shuffle(arr) {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+// ── BANCO: FORMULARIO ────────────────────────────────────────────────────────
+function buildOptionInputs(count = 4) {
+  const container = document.getElementById('options-inputs');
+  container.innerHTML = '';
+  for (let i = 0; i < count; i++) {
+    const row = document.createElement('div');
+    row.className = 'option-input-row';
+    row.innerHTML = `
+      <label for="opt-radio-${i}">${LETTERS[i]}</label>
+      <input type="radio" name="correct-opt" id="opt-radio-${i}" value="${i}" />
+      <input type="text" id="opt-text-${i}" placeholder="Opción ${LETTERS[i]}" />
+    `;
+    container.appendChild(row);
+  }
+}
+buildOptionInputs(4);
+
+document.getElementById('btn-add').addEventListener('click', () => {
+  const text = document.getElementById('new-question').value.trim();
+  if (!text) { toast('⚠ Escribe el enunciado'); return; }
+
+  const opts = [];
+  for (let i = 0; i < 5; i++) {
+    const el = document.getElementById(`opt-text-${i}`);
+    if (el) { const v = el.value.trim(); if (v) opts.push(v); }
+  }
+  if (opts.length < 2) { toast('⚠ Añade al menos 2 opciones'); return; }
+
+  const correctRadio = document.querySelector('input[name="correct-opt"]:checked');
+  if (!correctRadio) { toast('⚠ Marca la opción correcta'); return; }
+  const correctIdx = parseInt(correctRadio.value);
+  if (correctIdx >= opts.length) { toast('⚠ La opción correcta no existe'); return; }
+
+  const tag = document.getElementById('new-tag').value.trim();
+  manualBank.push({ text, options: opts, correct: correctIdx, tag, _type: 'manual' });
+  saveManual();
+  renderBanco();
+  toast('✓ Pregunta añadida');
+  document.getElementById('new-question').value = '';
+  document.getElementById('new-tag').value = '';
+  buildOptionInputs(4);
+});
+
+// ── BANCO: LISTA ─────────────────────────────────────────────────────────────
+function allBancoQuestions() {
+  return [...vfBank, ...testBank, ...manualBank];
+}
+
+function renderBanco(filter = '') {
+  const list = document.getElementById('question-list');
+  const all = allBancoQuestions();
+  document.getElementById('banco-count').textContent = all.length;
+
+  const lower = filter.toLowerCase();
+  const filtered = all
+    .map((q, i) => ({ q, i }))
+    .filter(({ q }) => !filter
+      || q.text.toLowerCase().includes(lower)
+      || (q.tag && q.tag.toLowerCase().includes(lower)));
+
+  if (!filtered.length) {
+    list.innerHTML = `<div class="empty-state"><span>📭</span>${
+      filter ? 'Sin resultados' : 'No hay preguntas cargadas.'
+    }</div>`;
+    return;
+  }
+
+  list.innerHTML = '';
+  filtered.forEach(({ q, i }) => {
+    const item = document.createElement('div');
+    item.className = 'question-list-item';
+    const typeLabel = q._type === 'vf' ? 'V/F' : q._type === 'test' ? 'Test' : 'Manual';
+    const typeClass = q._type === 'vf' ? 'vf' : q._type === 'test' ? 'test' : 'manual';
+    item.innerHTML = `
+      <div class="q-info">
+        <div class="q-num">#${i+1}${q.tag ? ` · ${q.tag}` : ''}<span class="type-badge ${typeClass}">${typeLabel}</span></div>
+        <div class="q-text">${q.text.substring(0, 110)}${q.text.length > 110 ? '…' : ''}</div>
+      </div>
+      <div class="q-actions">
+        ${q._type === 'manual' ? `<button class="btn btn-danger btn-sm" data-del="${i}">✕</button>` : ''}
+      </div>
+    `;
+    list.appendChild(item);
+  });
+}
+
+document.getElementById('question-list').addEventListener('click', (e) => {
+  const delBtn = e.target.closest('[data-del]');
+  if (!delBtn) return;
+  const idx = parseInt(delBtn.dataset.del);
+  const all = allBancoQuestions();
+  const q = all[idx];
+  if (q._type !== 'manual') return;
+  const mIdx = manualBank.indexOf(q);
+  if (confirm('¿Eliminar esta pregunta?')) {
+    manualBank.splice(mIdx, 1);
+    saveManual();
+    renderBanco(document.getElementById('banco-search').value);
+    toast('Pregunta eliminada');
+  }
+});
+
+document.getElementById('banco-search').addEventListener('input', e => renderBanco(e.target.value));
+
+// ── IMPORTAR / EXPORTAR ──────────────────────────────────────────────────────
+document.getElementById('btn-export').addEventListener('click', () => {
+  const all = allBancoQuestions();
+  if (!all.length) { toast('No hay preguntas'); return; }
+  const blob = new Blob([JSON.stringify(all, null, 2)], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'preguntas_exportadas.json';
+  a.click();
+});
+
+document.getElementById('btn-import').addEventListener('click', () => {
+  document.getElementById('import-file').click();
+});
+
+document.getElementById('import-file').addEventListener('change', (e) => {
+  const file = e.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = (ev) => {
+    try {
+      const data = JSON.parse(ev.target.result);
+      let imported = parseQuestionData(data);
+      if (!imported.length) throw new Error();
+      imported = imported.map(q => ({ ...q, _type: 'manual' }));
+      manualBank.push(...imported);
+      saveManual();
+      renderBanco();
+      toast(`✓ ${imported.length} preguntas importadas`);
+    } catch {
+      toast('⚠ JSON inválido o sin preguntas reconocibles');
+    }
+    e.target.value = '';
+  };
+  reader.readAsText(file);
+});
+
+document.getElementById('btn-clear-manual').addEventListener('click', () => {
+  if (!manualBank.length) { toast('No hay preguntas manuales'); return; }
+  if (confirm('¿Eliminar todas las preguntas manuales?')) {
+    manualBank = [];
+    saveManual();
+    renderBanco();
+    toast('Banco manual vaciado');
+  }
+});
+
+// ── SELECCIÓN DE MODO ────────────────────────────────────────────────────────
+document.querySelectorAll('.mode-card').forEach(card => {
+  card.addEventListener('click', () => startMode(card.dataset.mode));
+});
+
+function startMode(mode) {
+  currentMode = mode;
+  if (mode === 'vf')        questions = [...vfBank];
+  else if (mode === 'test') questions = [...testBank];
+  else                      questions = [...vfBank, ...testBank];
+
+  if (!questions.length) {
+    toast('⚠ No hay preguntas para este modo. ¿Está el servidor activo?');
+    return;
+  }
+  startTest();
+}
+
+function backToModeSelect() {
+  testActive = false;
+  document.getElementById('mode-select-view').style.display  = '';
+  document.getElementById('test-active-controls').style.display = 'none';
+  document.getElementById('progress-wrap').style.display     = 'none';
+  document.getElementById('question-card').style.display     = 'none';
+  document.getElementById('score-card').classList.remove('show');
+}
+
+document.getElementById('btn-back-mode').addEventListener('click', backToModeSelect);
+document.getElementById('btn-back-mode-score').addEventListener('click', backToModeSelect);
+
+// ── TEST: INICIAR ────────────────────────────────────────────────────────────
+function startTest(pool = null) {
+  testOrder = pool ? [...pool] : shuffle(questions.map((_, i) => i));
+  testIdx   = 0;
+  answered  = {};
+  wrongOnly = [];
+  testActive = true;
+
+  document.getElementById('mode-select-view').style.display  = 'none';
+  document.getElementById('test-active-controls').style.display = 'block';
+  document.getElementById('score-card').classList.remove('show');
+  document.getElementById('progress-wrap').style.display     = 'block';
+  document.getElementById('question-card').style.display     = 'flex';
+
+  renderQuestion();
+}
+
+document.getElementById('btn-shuffle').addEventListener('click', () => {
+  if (!testActive) return;
+  testOrder = shuffle(testOrder);
+  testIdx   = 0;
+  answered  = {};
+  renderQuestion();
+  toast('Preguntas mezcladas');
+});
+
+document.getElementById('btn-retry').addEventListener('click', () => startTest());
+document.getElementById('btn-retry-wrong').addEventListener('click', () => {
+  if (!wrongOnly.length) { toast('No tienes preguntas falladas'); return; }
+  startTest(wrongOnly);
+});
+
+// ── TEST: RENDERIZAR PREGUNTA ────────────────────────────────────────────────
+function renderQuestion() {
+  const total = testOrder.length;
+  const qIdx  = testOrder[testIdx];
+  const q     = questions[qIdx];
+
+  document.getElementById('progress-label').textContent = `Pregunta ${testIdx + 1} de ${total}`;
+  document.getElementById('progress-bar').style.width   = `${(testIdx / total) * 100}%`;
+
+  const correct = Object.values(answered).filter(a => a.correct).length;
+  const wrong   = Object.values(answered).filter(a => !a.correct).length;
+  document.getElementById('score-inline').innerHTML = `✓ ${correct} &nbsp; ✗ ${wrong}`;
+
+  document.getElementById('q-tag').textContent      = q.tag || 'Sin etiqueta';
+  document.getElementById('q-id-label').textContent = `#${qIdx + 1}`;
+  document.getElementById('question-text').textContent = q.text;
+
+  const grid = document.getElementById('options-grid');
+  grid.innerHTML = '';
+  q.options.forEach((opt, i) => {
+    const btn = document.createElement('button');
+    btn.className = 'option-btn';
+    btn.innerHTML = `<span class="option-letter">${LETTERS[i]}</span><span>${opt}</span>`;
+    btn.addEventListener('click', () => handleAnswer(i, qIdx));
+    grid.appendChild(btn);
+  });
+
+  if (answered[testIdx] !== undefined) {
+    showAnswerState(answered[testIdx].chosen, qIdx);
+  } else {
+    document.getElementById('feedback-box').classList.remove('show');
+    document.getElementById('btn-next').disabled = true;
+  }
+
+  document.getElementById('btn-prev').style.visibility = testIdx === 0 ? 'hidden' : 'visible';
+  document.getElementById('btn-next').textContent = testIdx === total - 1 ? 'Ver resultado' : 'Siguiente →';
+}
+
+function handleAnswer(chosen, qIdx) {
+  if (answered[testIdx] !== undefined) return;
+  answered[testIdx] = { correct: chosen === questions[qIdx].correct, chosen };
+  showAnswerState(chosen, qIdx);
+}
+
+function showAnswerState(chosen, qIdx) {
+  const q         = questions[qIdx];
+  const isCorrect = chosen === q.correct;
+
+  document.querySelectorAll('#options-grid .option-btn').forEach((btn, i) => {
+    btn.disabled = true;
+    if (i === q.correct) btn.classList.add('correct');
+    if (i === chosen && !isCorrect) btn.classList.add('wrong');
+  });
+
+  const fb = document.getElementById('feedback-box');
+  fb.className = `feedback-box show ${isCorrect ? 'correct-fb' : 'wrong-fb'}`;
+  const baseMsg = isCorrect
+    ? '✓ ¡Correcto!'
+    : `✗ Incorrecto. La respuesta correcta es: ${LETTERS[q.correct]}. ${q.options[q.correct]}`;
+  fb.textContent = q.razonamiento ? `${baseMsg}\n\n📖 ${q.razonamiento}` : baseMsg;
+
+  document.getElementById('btn-next').disabled = false;
+
+  const correct = Object.values(answered).filter(a => a.correct).length;
+  const wrong   = Object.values(answered).filter(a => !a.correct).length;
+  document.getElementById('score-inline').innerHTML = `✓ ${correct} &nbsp; ✗ ${wrong}`;
+}
+
+document.getElementById('btn-next').addEventListener('click', () => {
+  if (testIdx < testOrder.length - 1) { testIdx++; renderQuestion(); }
+  else showScore();
+});
+
+document.getElementById('btn-prev').addEventListener('click', () => {
+  if (testIdx > 0) { testIdx--; renderQuestion(); }
+});
+
+// ── RESULTADO FINAL ──────────────────────────────────────────────────────────
+function showScore() {
+  const total   = testOrder.length;
+  const correct = Object.values(answered).filter(a => a.correct).length;
+  const pct     = Math.round((correct / total) * 100);
+  wrongOnly     = testOrder.filter((_, i) => answered[i] && !answered[i].correct);
+
+  document.getElementById('question-card').style.display  = 'none';
+  document.getElementById('progress-bar').style.width     = '100%';
+  document.getElementById('progress-label').textContent   = 'Test completado';
+  document.getElementById('score-card').classList.add('show');
+  document.getElementById('score-num').textContent        = `${pct}%`;
+  document.getElementById('score-detail').textContent     = `${correct} correctas de ${total} · ${total - correct} falladas`;
+  testActive = false;
+}
+
+// ── BÚSQUEDA ──────────────────────────────────────────────────────────────────
+document.getElementById('search-input').addEventListener('input', (e) => {
+  const q = e.target.value.trim();
+  const container = document.getElementById('search-results');
+  if (!q) { container.style.display = 'none'; return; }
+
+  const all = [...vfBank, ...testBank];
+  const matches = all
+    .map((item, i) => ({ item, i }))
+    .filter(({ item }) =>
+      item.text.toLowerCase().includes(q.toLowerCase()) ||
+      (item.tag && item.tag.toLowerCase().includes(q.toLowerCase())));
+
+  if (!matches.length) {
+    container.style.display = 'block';
+    container.innerHTML = `<div class="search-result-item" style="color:var(--text-muted);">Sin resultados</div>`;
+    return;
+  }
+
+  container.style.display = 'block';
+  container.innerHTML = matches.slice(0, 8).map(({ item, i }) => `
+    <div class="search-result-item" data-goto="${i}" data-src-type="${item._type}">
+      <div class="result-num">#${i+1}${item.tag ? ` · ${item.tag}` : ''}</div>
+      ${item.text.substring(0, 120)}${item.text.length > 120 ? '…' : ''}
+    </div>
+  `).join('');
+});
+
+document.getElementById('search-results').addEventListener('click', (e) => {
+  const item = e.target.closest('[data-goto]');
+  if (!item) return;
+  const srcType = item.dataset.srcType;
+
+  // determinar qué pool usar y el índice dentro de él
+  const pool = srcType === 'vf' ? vfBank : testBank;
+  const mode = srcType === 'vf' ? 'vf' : 'test';
+  const globalIdx = parseInt(item.dataset.goto);
+  // el índice global en [...vfBank, ...testBank]
+  const localIdx = srcType === 'vf' ? globalIdx : globalIdx - vfBank.length;
+
+  if (currentMode !== mode || !testActive) {
+    currentMode = mode;
+    questions   = [...pool];
+    testOrder   = questions.map((_, i) => i);
+    testIdx     = 0;
+    answered    = {};
+    wrongOnly   = [];
+    testActive  = true;
+    document.getElementById('mode-select-view').style.display     = 'none';
+    document.getElementById('test-active-controls').style.display = 'block';
+    document.getElementById('score-card').classList.remove('show');
+    document.getElementById('progress-wrap').style.display        = 'block';
+    document.getElementById('question-card').style.display        = 'flex';
+  }
+
+  const pos = testOrder.indexOf(localIdx);
+  if (pos !== -1) testIdx = pos;
+  renderQuestion();
+
+  document.getElementById('search-results').style.display = 'none';
+  document.getElementById('search-input').value = '';
+});
+
+// ── TABS ──────────────────────────────────────────────────────────────────────
+document.querySelectorAll('.tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    const id = tab.dataset.tab;
+    document.getElementById('panel-test').classList.toggle('active', id === 'test');
+    document.getElementById('panel-banco').classList.toggle('active', id === 'banco');
+    if (id === 'banco') renderBanco(document.getElementById('banco-search').value);
+  });
+});
+
+// ── INIT ──────────────────────────────────────────────────────────────────────
+loadManual();
+loadFromFiles();
+</script>
+</body>
+</html>
