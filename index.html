@@ -180,6 +180,14 @@
     }
     .btn-star:hover { background: #f0b42918; transform: translateY(-1px); }
     .btn-github svg { flex-shrink: 0; }
+
+    .mode-card.selected { border-color: var(--accent); background: #1a1a35; }
+    .tema-filter-row { padding: 14px 0 4px; }
+    .tema-filter-row p { font-size:0.8rem; color:var(--text-muted); margin-bottom:8px; }
+    .tema-btns { display:flex; flex-wrap:wrap; gap:6px; }
+    .tema-btn { padding:5px 13px; border-radius:20px; border:1px solid var(--border); background:var(--surface2); color:var(--text-muted); cursor:pointer; font-size:0.82rem; transition:all 0.15s; }
+    .tema-btn:hover { border-color:var(--accent); color:var(--accent); }
+    .tema-btn.active { background:var(--accent); border-color:var(--accent); color:#fff; font-weight:600; }
   </style>
 </head>
 <body>
@@ -219,6 +227,22 @@
           <div class="mode-card-icon">📝</div>
           <div class="mode-card-title">Exámenes Wuolah</div>
           <div class="mode-card-count" id="count-exam"></div>
+        </div>
+      </div>
+
+      <div id="tema-filter-row" style="display:none;">
+        <p>Filtrar por tema:</p>
+        <div class="tema-btns">
+          <button class="tema-btn active" data-tema="">Todos</button>
+          <button class="tema-btn" data-tema="1">T1</button>
+          <button class="tema-btn" data-tema="2">T2</button>
+          <button class="tema-btn" data-tema="3">T3</button>
+          <button class="tema-btn" data-tema="4">T4</button>
+          <button class="tema-btn" data-tema="5">T5</button>
+          <button class="tema-btn" data-tema="6">T6</button>
+          <button class="tema-btn" data-tema="7">T7</button>
+          <button class="tema-btn" data-tema="8">T8</button>
+          <button class="tema-btn" data-tema="9">T9</button>
         </div>
       </div>
       <input class="search-box" id="search-input" type="text" placeholder="Buscar en todas las preguntas..." />
@@ -479,15 +503,37 @@ document.getElementById('btn-clear-manual').addEventListener('click', () => {
 });
 
 // ── MODO ──────────────────────────────────────────────────────────────────────
-document.querySelectorAll('.mode-card').forEach(c => c.addEventListener('click', () => startMode(c.dataset.mode)));
+let pendingMode = null;
 
-function startMode(mode) {
+document.querySelectorAll('.mode-card').forEach(c => c.addEventListener('click', () => {
+  pendingMode = c.dataset.mode;
+  document.querySelectorAll('.mode-card').forEach(x => x.classList.toggle('selected', x.dataset.mode === pendingMode));
+  document.getElementById('tema-filter-row').style.display = '';
+  document.querySelectorAll('.tema-btn').forEach(b => b.classList.toggle('active', b.dataset.tema === ''));
+}));
+
+document.querySelectorAll('.tema-btn').forEach(b => b.addEventListener('click', () => {
+  document.querySelectorAll('.tema-btn').forEach(x => x.classList.remove('active'));
+  b.classList.add('active');
+  startMode(pendingMode, b.dataset.tema);
+}));
+
+function startMode(mode, tema) {
   currentMode = mode;
-  if (mode==='vf')        questions = [...vfBank];
-  else if (mode==='test') questions = [...testBank];
-  else if (mode==='exam')  questions = [...examBank];
-  else                     questions = [...vfBank,...testBank];
-  if (!questions.length) { toast('⚠ No hay preguntas'); return; }
+  let pool;
+  if (mode==='vf')        pool = [...vfBank];
+  else if (mode==='test') pool = [...testBank];
+  else if (mode==='exam') pool = [...examBank];
+  else                    pool = [...vfBank,...testBank];
+  if (tema) {
+    const n = tema;
+    pool = pool.filter(q => {
+      const t = q.tag || '';
+      return t === 'T'+n || t === 'Tema '+n || t.includes('Tema '+n);
+    });
+  }
+  if (!pool.length) { toast('⚠ No hay preguntas para ese tema en este modo'); return; }
+  questions = pool;
   startTest();
 }
 
@@ -498,6 +544,9 @@ function backToModeSelect() {
   document.getElementById('progress-wrap').style.display         = 'none';
   document.getElementById('question-card').style.display         = 'none';
   document.getElementById('score-card').classList.remove('show');
+  document.getElementById('tema-filter-row').style.display       = 'none';
+  document.querySelectorAll('.mode-card').forEach(c => c.classList.remove('selected'));
+  pendingMode = null;
 }
 document.getElementById('btn-back-mode').addEventListener('click', backToModeSelect);
 document.getElementById('btn-back-mode-score').addEventListener('click', backToModeSelect);
