@@ -1,0 +1,380 @@
+{
+  "Tema 1": [
+    {
+      "front": "¿Cuál fue la tasa de crecimiento medio anual del PIB per cápita de España entre 1961 y 2024, y cómo se compara con la Eurozona?",
+      "back": "España creció a un 2,4% de media anual frente al 2,0% de la Eurozona. Sin embargo, España sufrió las crisis con mayor intensidad y registró fluctuaciones del PIB más marcadas en todas las etapas."
+    },
+    {
+      "front": "¿A qué nivel se situó el PIB per cápita español respecto a la Eurozona y a la UE-27 en 2024?",
+      "back": "En 2024, el PIB per cápita español representaba el 86,7% de la media de la Eurozona y el 90,0% de la UE-27. La diferencia se debe a que la Eurozona agrupa las economías más avanzadas, mientras que la UE-27 incluye países de reciente integración con rentas menores."
+    },
+    {
+      "front": "¿Qué es la 'regla del 4%' en el contexto de la economía española?",
+      "back": "Hace referencia al límite no oficial del déficit comercial respecto al PIB que históricamente obligaba a España a devaluar la peseta. Con la entrada en la UEM desapareció esta restricción, permitiendo déficits superiores al 4% del PIB siempre que hubiera financiación en los mercados de capitales."
+    },
+    {
+      "front": "¿Cuáles fueron los cinco criterios de convergencia nominal exigidos para acceder a la tercera fase de la UEM (euro)?",
+      "back": "1) Inflación: no superar en más de 1,5 pp la media de los tres países más estables. 2) Tipos de interés: no superar en 2 pp. 3) Déficit público máximo del 3% del PIB. 4) Deuda pública máxima del 60% del PIB. 5) Estabilidad del tipo de cambio en el SME."
+    },
+    {
+      "front": "¿Qué criterio de convergencia incumplía España en 1998 al acceder a la tercera fase de la UEM?",
+      "back": "España incumplía el criterio de deuda pública, que se situaba en el 67,4% del PIB (por encima del 60% exigido). Sin embargo, el resto de criterios sí se cumplían (inflación 1,4%, tipos 4,0%, déficit 1,8%) y se consideró que la deuda evolucionaba en la dirección correcta."
+    },
+    {
+      "front": "¿Por qué colapsó el SME entre 1992 y 1993 y cómo afectó a España?",
+      "back": "El colapso se debió a los desequilibrios internos acumulados por los países europeos más el shock externo de la reunificación alemana, que obligó a Alemania a subir los tipos de interés. Esto provocó en España huida de capitales y tres devaluaciones sucesivas que sumaron en torno al 20% entre 1992 y 1995."
+    },
+    {
+      "front": "¿Qué factores impulsaron el fuerte crecimiento económico español en el periodo 1995-2007?",
+      "back": "Los principales factores fueron: la creación masiva de empleo (7,84 millones de puestos), el fuerte aumento del consumo impulsado por la mejora de renta y riqueza (inmobiliaria y financiera), y el intenso crecimiento de la inversión en capital fijo alimentada por la burbuja inmobiliaria y la inversión en equipos e infraestructuras."
+    },
+    {
+      "front": "¿Qué máximo de déficit exterior sobre el PIB alcanzó España en 2007 y cuáles fueron sus causas?",
+      "back": "El déficit exterior alcanzó el 10% del PIB en 2007. Sus causas fueron: fuerte demanda interna (que estimulaba importaciones), inflación diferencial de 1,5 pp por encima de la media europea, escasa productividad y alta competencia de economías emergentes."
+    },
+    {
+      "front": "¿Qué medidas adoptó España para hacer frente a la pandemia de COVID-19?",
+      "back": "Se actuó en tres frentes: avales ICO y aplazamientos fiscales para garantizar liquidez a empresas y autónomos; flexibilización de los ERTEs por fuerza mayor para sostener el empleo; y creación del Ingreso Mínimo Vital (IMV) para los hogares más vulnerables."
+    },
+    {
+      "front": "¿Cuántos empleos se crearon en España durante la fase expansiva 1995-2007 y cuántos se destruyeron en la crisis posterior?",
+      "back": "Durante 1995-2007 se crearon 7,84 millones de empleos, frente a los menos de 3 millones del conjunto de la UE-15 en ese mismo periodo. En la crisis de 2008-2013 se destruyeron aproximadamente 3,6 millones de puestos de trabajo, la mayor pérdida de empleo registrada en España en términos relativos."
+    }
+  ],
+  "Tema 2": [
+    {
+      "front": "¿Cuáles son las tres fuentes principales del crecimiento económico según la contabilidad del crecimiento?",
+      "back": "Las tres fuentes son: 1) Aumento del factor trabajo (empleo y horas trabajadas). 2) Aumento del stock de capital (inversión). 3) Productividad Total de los Factores (PTF), también llamada progreso técnico o residuo de Solow, que recoge mejoras de eficiencia no explicadas por los factores."
+    },
+    {
+      "front": "¿Qué es la Productividad Total de los Factores (PTF) y cómo evolucionó en España respecto a Europa?",
+      "back": "La PTF es la parte del crecimiento económico no explicada por el aumento de capital ni de trabajo; refleja mejoras en eficiencia, tecnología y organización. En España, la PTF fue una fuente importante en los años 60-70, pero su contribución fue escasa o negativa en 1995-2007 (al contrario que en la UE, donde sí fue positiva)."
+    },
+    {
+      "front": "¿Qué papel jugó el capital humano en el crecimiento español desde los años 80?",
+      "back": "El capital humano (nivel educativo y formación de la fuerza laboral) aumentó considerablemente desde los años 80 debido a la expansión de la educación. Sin embargo, su efecto sobre la productividad fue limitado por la especialización en sectores de baja tecnología y el exceso de temporalidad laboral, que desincentivaba la formación."
+    },
+    {
+      "front": "¿Por qué el crecimiento del PIB en 1995-2007 no se tradujo en ganancias de productividad laboral en España?",
+      "back": "Porque el crecimiento se basó principalmente en la acumulación de trabajo (muy intensiva en mano de obra, especialmente en construcción y servicios de baja productividad) más que en mejoras de eficiencia. La PTF fue prácticamente nula o negativa, mientras que en la UE contribuyó positivamente al crecimiento."
+    },
+    {
+      "front": "¿Cómo evolucionó la tasa de inversión (FBCF/PIB) en España entre 1985 y 2024?",
+      "back": "La inversión en capital fijo (FBCF) experimentó un gran aumento durante la etapa expansiva, llegando a representar alrededor del 30% del PIB en 2007 (uno de los niveles más altos de la OCDE), impulsada por el boom inmobiliario y la construcción. Con la crisis cayó drásticamente hasta niveles cercanos al 20% del PIB."
+    },
+    {
+      "front": "¿Qué es la brecha de productividad de España respecto a la UE y en qué sectores es mayor?",
+      "back": "La productividad laboral española (PIB por hora trabajada) representa aproximadamente el 87-90% de la media de la UE. La brecha es mayor en sectores como el comercio, la hostelería y los servicios a empresas, mientras que España se sitúa por encima de la media en sectores como el financiero y la hostelería (en términos de productividad relativa)."
+    },
+    {
+      "front": "¿Cuál fue la contribución del crecimiento demográfico y la inmigración al crecimiento económico español en 1995-2007?",
+      "back": "La inmigración fue un factor clave: la población extranjera pasó de menos del 2% al 12% del total. Contribuyó a aumentar la población activa (ampliando la oferta laboral) y a sostener el consumo interno. La llegada masiva de inmigrantes explicó gran parte del crecimiento del empleo y del PIB total (aunque no del PIB per cápita)."
+    },
+    {
+      "front": "¿Qué diferencia hay entre productividad laboral (por trabajador) y PTF, y cuál fue la tendencia de cada una en España en 1995-2007?",
+      "back": "La productividad laboral mide el output por trabajador (o por hora); la PTF mide la eficiencia global de todos los factores combinados. En 1995-2007, la productividad laboral por trabajador creció muy poco en España (menos que en la UE), y la PTF fue prácticamente cero o negativa, en contraste con la mejora registrada en los países de la zona euro."
+    },
+    {
+      "front": "¿Qué papel juega el gasto en I+D en el crecimiento a largo plazo y cuál es la posición de España?",
+      "back": "El gasto en I+D es fundamental para generar innovación y mejorar la PTF. España invierte en I+D alrededor del 1,4% del PIB, claramente por debajo del objetivo europeo del 3% y de países como Alemania (>3%) o Suecia (>3%). Esta debilidad innovadora limita el potencial de crecimiento a largo plazo."
+    },
+    {
+      "front": "¿Qué es el stock de capital productivo y cómo influyó su composición en la productividad española?",
+      "back": "El stock de capital productivo es el conjunto acumulado de bienes de inversión disponibles en la economía. En España, la composición del stock de capital se sesgó excesivamente hacia la construcción residencial (de baja productividad) y las infraestructuras públicas, con menor peso del capital tecnológico (TIC) y del equipamiento industrial de alta tecnología, lo que limitó las ganancias de productividad."
+    }
+  ],
+  "Tema 3": [
+    {
+      "front": "¿Qué peso tenía el sector agrario en el empleo y en el VAB de España en 1985 y en 2024?",
+      "back": "En 1985, el sector agrario representaba el 14,1% del empleo total y el 5,7% del VAB a precios corrientes. En 2024, estas cifras se redujeron al 3,5% del empleo y al 2,8% del VAB, evidenciando una profunda transformación estructural."
+    },
+    {
+      "front": "¿Qué porcentaje del olivar de la UE se localiza en España y cuál es la cuota total de España en la producción agraria comunitaria?",
+      "back": "España concentra el 59% del olivar de la UE, siendo con diferencia el país con mayor especialización en este cultivo. Su participación en el conjunto de la producción agraria comunitaria es del 15,5%, lo que la convierte en uno de los principales productores agrarios de Europa."
+    },
+    {
+      "front": "¿Cómo evolucionó la productividad del sector agrario español entre 1985 y 2024?",
+      "back": "La productividad real (medida como VAB/empleo) se cuadruplicó en términos reales entre 1985 y 2024. Este espectacular incremento se logró principalmente mediante la reducción del empleo agrario (denominador) más rápida que la caída del VAB, junto con la mecanización y la mejora tecnológica."
+    },
+    {
+      "front": "¿Cuáles son los tres principios originales de la Política Agrícola Común (PAC) y cuándo se establecieron sus primeras normas?",
+      "back": "Las primeras normas de la PAC se aprobaron en 1962. Sus tres principios fundacionales son: Unidad de Mercado (libre circulación de productos agrarios dentro de la UE), Preferencia Comunitaria (los productos europeos tienen ventaja frente a los importados) y Solidaridad Financiera (la UE costea conjuntamente los gastos de la política agraria)."
+    },
+    {
+      "front": "¿Qué fue el proceso de integración de las Organizaciones Comunes de Mercado (OCM) y cuándo se completó?",
+      "back": "Las OCMs son los mecanismos de regulación del mercado agrario por producto. Inicialmente existían 21 OCMs diferentes; en 2007 se fusionaron en una única OCM común (OCM única), simplificando la regulación y uniformizando los mecanismos de intervención para todos los productos agrarios."
+    },
+    {
+      "front": "¿Qué es una UDE y una UTA en el contexto del sector agrario europeo?",
+      "back": "UDE (Unidad de Dimensión Económica) equivale a 1.200 euros de margen bruto estándar y es la unidad de medida del tamaño económico de las explotaciones agrarias. UTA (Unidad de Trabajo Año) equivale al trabajo a tiempo completo de una persona durante un año y mide el trabajo empleado en la explotación."
+    },
+    {
+      "front": "¿Cuál fue la tasa de cobertura del comercio agroalimentario español en 2021 y qué diferencias existen entre comercio intracomunitario y extracomunitario?",
+      "back": "La tasa de cobertura global del sector agroalimentario fue del 147,2% en 2021, lo que significa que las exportaciones superan ampliamente a las importaciones. En el comercio intracomunitario la cobertura es del 175%, mientras que en el extracomunitario es del 93%, evidenciando mayor competitividad dentro de la UE que en mercados globales."
+    },
+    {
+      "front": "¿Cuál es la orientación productiva más importante de la ganadería española por valor de producción y qué superficie utiliza?",
+      "back": "Los granívoros (porcino y aves) representan el 25,2% del valor de producción ganadera total, siendo la orientación más importante. Sin embargo, solo utilizan el 2,6% de la Superficie Agraria Útil (SAU), lo que refleja su carácter intensivo y su escasa dependencia de la tierra."
+    },
+    {
+      "front": "¿Qué porcentaje del VAB del sector primario corresponde a cada subsector en 2023?",
+      "back": "En 2023, la agricultura y ganadería representan el 93,3% del VAB del sector primario, la pesca el 3,8% y la silvicultura el 2,9%. La producción agrícola y ganadera domina claramente el sector primario español."
+    },
+    {
+      "front": "¿Qué es la PET (Producción Estándar Total) y para qué se utiliza en la clasificación de explotaciones agrarias?",
+      "back": "La PET (Producción Estándar Total) es el valor monetario de la producción bruta estándar de una explotación agraria, calculada como la suma de los coeficientes de producción estándar de cada actividad (cultivo o cabeza de ganado). Se utiliza para clasificar y comparar el tamaño económico de las explotaciones agrarias en toda la UE."
+    }
+  ],
+  "Tema 4": [
+    {
+      "front": "¿Cuál fue la evolución del peso de las energías renovables en la producción de electricidad española entre 2007 y 2023?",
+      "back": "Las energías renovables pasaron de representar el 20% de la producción eléctrica en 2007 al 50,3% en 2023, superando por primera vez la mitad de la generación eléctrica. Este cambio supone una transformación radical del mix energético eléctrico español."
+    },
+    {
+      "front": "¿Cuál es la composición del mix energético primario de España en 2023?",
+      "back": "El mix energético primario en 2023 está dominado por el petróleo (45,8%), seguido del gas natural (21,9%), las renovables (17,5%), la energía nuclear (12,9%) y el carbón (2,5%). El petróleo sigue siendo la fuente energética más importante, aunque su peso ha disminuido respecto a los años 70 cuando representaba 3/4 del total."
+    },
+    {
+      "front": "¿Cuál es el grado de autoabastecimiento energético de España y en qué fuente es más dependiente del exterior?",
+      "back": "España solo se autoabastece en torno al 30% de su consumo energético total, siendo una de las economías europeas con mayor dependencia energética exterior. La principal fuente de dependencia es el petróleo, del que importa aproximadamente el 70% de su consumo, seguido del gas natural."
+    },
+    {
+      "front": "¿Qué empresas dominan el mercado eléctrico español y qué porcentaje controlan?",
+      "back": "Iberdrola y Endesa controlan aproximadamente el 75% de la electricidad vendida en España. En el transporte de electricidad en alta tensión opera Red Eléctrica de España (REE) en régimen de monopolio natural regulado, siendo responsable de la gestión de la red de transporte nacional."
+    },
+    {
+      "front": "¿Qué empresas controlan el mercado de hidrocarburos en España y qué cuota tienen?",
+      "back": "El mercado de hidrocarburos español presenta una estructura oligopolística: Repsol, Cepsa y BP conjuntamente controlan más del 70% del mercado de distribución de combustibles. Este oligopolio ha sido objeto de análisis por las autoridades de competencia."
+    },
+    {
+      "front": "¿Cómo evolucionó el peso del sector manufacturero en el VAB y empleo total de España entre 1985 y 2024?",
+      "back": "El sector manufacturero redujo su peso en el VAB del 22,6% en 1985 al 11,7% en 2024. Paralelamente, su cuota en el empleo total pasó del 19,7% al 9,9%. Este proceso de desindustrialización relativa fue más intenso en España que en la media europea."
+    },
+    {
+      "front": "¿Cómo se clasifican las industrias manufactureras según su nivel tecnológico en la economía española?",
+      "back": "Se distinguen tres grupos: Industrias Avanzadas (informática, electrónica, material eléctrico — alta tecnología), Industrias Intermedias (química, caucho y plásticos, maquinaria, material de transporte — media-alta tecnología) y Industrias Tradicionales (productos metálicos, alimentos y bebidas, textil, madera — baja-media tecnología)."
+    },
+    {
+      "front": "¿Qué es la transición energética en España y qué secuencia de combustibles dominantes se ha producido desde los años 60?",
+      "back": "La transición energética refleja los cambios en el combustible dominante: en las décadas de 1960-70 se pasó del carbón al petróleo; en los años 80 del petróleo a la energía nuclear; en los 90 del petróleo al gas natural; y desde 2010 se está produciendo la transición hacia las energías renovables, con el objetivo de descarbonizar completamente el sistema energético."
+    },
+    {
+      "front": "¿Qué diferencia existe entre la definición de industria de la SEC (Contabilidad Nacional) y la definición habitual?",
+      "back": "La SEC (Sistema Europeo de Cuentas) incluye en el sector industrial únicamente las actividades manufactureras, excluyendo la energía y la construcción. La definición habitual o amplia incluye también la extracción de recursos energéticos y la construcción, lo que explica las diferencias en las estadísticas según la fuente utilizada."
+    },
+    {
+      "front": "¿Por qué España tiene una especialización industrial en sectores de media-baja tecnología y cuáles son las consecuencias?",
+      "back": "La especialización en sectores de media-baja tecnología (automoción, agroalimentario, textil, construcción) se debe a la dotación de factores, la base empresarial (PYMES), la baja inversión en I+D y la escasa cualificación históricamente disponible. Como consecuencia, la industria española es más vulnerable a la competencia de economías emergentes y tiene menores márgenes y potencial de crecimiento de la productividad."
+    }
+  ],
+  "Tema 5": [
+    {
+      "front": "¿Cuál fue la evolución del peso del sector servicios en el VAB y empleo total de España entre 1985 y 2024?",
+      "back": "Los servicios pasaron de representar el 59,5% del VAB en 1985 al 75,8% en 2024. El empleo en el sector servicios aumentó del 57,1% al 78,1% del total. La terciarización de la economía española comenzó en los años 80, con retraso respecto a otros países europeos, pero se ha completado con rapidez."
+    },
+    {
+      "front": "¿Cuál es el peso de la hostelería en el VAB de España comparado con la UE-27?",
+      "back": "La hostelería representa el 8,9% del VAB en España, frente al 3,7% en la UE-27. Este peso más que doble refleja la especial importancia del turismo en la economía española y su elevada especialización en actividades turísticas y de restauración."
+    },
+    {
+      "front": "¿Cuántos visitantes extranjeros recibió España en 2019 y 2024, y qué impacto tuvo la pandemia en 2020?",
+      "back": "En 2019, España recibió 83,5 millones de visitantes extranjeros con ingresos de 92.200 millones de euros, representando cerca del 6% del mercado turístico mundial. En 2020, la pandemia redujo los visitantes a 18,9 millones e ingresos de 19.700 millones (caída del 80%). En 2024 se alcanzó un nuevo récord con 93,8 millones de visitantes."
+    },
+    {
+      "front": "¿Qué porcentaje del total de exportaciones de servicios representa el turismo y viajes en España y cuál es su tasa de cobertura?",
+      "back": "El turismo y viajes representa el 46,7% del total de exportaciones de servicios de España. La tasa de cobertura del sector (exportaciones/importaciones × 100) es del 323,2% en 2023, lo que evidencia un fortísimo superávit: España exporta 3,23 euros en turismo por cada euro que importa."
+    },
+    {
+      "front": "¿En qué sectores de servicios supera España la productividad media de la UE y en cuáles está por debajo?",
+      "back": "España supera la media europea en: Hostelería (productividad del 158,8%, UE=100) y Servicios Financieros (160,9%). Por debajo se sitúa en: Comercio (86,2%) e Información y Comunicaciones (82,5%). La productividad total de servicios en España es del 94,2%, frente al 117,2% de Alemania."
+    },
+    {
+      "front": "¿Qué tres clasificaciones pueden usarse para analizar los servicios desde el punto de vista económico?",
+      "back": "Los servicios se pueden clasificar según: 1) Destinados al mercado vs. no destinados a la venta (servicios públicos). 2) Intermedios (consumidos por empresas como inputs) vs. finales (consumidos directamente por hogares). 3) Estancados (productividad difícilmente mejorable, como peluquería) vs. progresivos (susceptibles de ganancia de eficiencia, como banca o telecomunicaciones)."
+    },
+    {
+      "front": "¿Cuál fue la contribución del sector servicios al crecimiento de la productividad en España entre 2001 y 2023 comparada con la UE?",
+      "back": "En España, los servicios contribuyeron al crecimiento de la productividad total en un 29,8% entre 2001 y 2023, muy por debajo de la contribución de la UE (39,8%). Esta brecha refleja la escasa renovación tecnológica y organizativa del sector servicios español y su especialización en actividades de baja intensidad tecnológica."
+    },
+    {
+      "front": "¿Qué peso tenía el turismo en la economía española en 2019 en términos de producción y empleo?",
+      "back": "En 2019, el turismo representaba aproximadamente el 12% de la producción y del empleo total en España. España ocupaba el segundo lugar mundial en ingresos por turismo internacional y el primero en determinadas métricas de competitividad turística, con una cuota del ~6% del mercado turístico mundial."
+    },
+    {
+      "front": "¿Por qué la terciarización en España comenzó más tarde que en otros países de la UE y qué implicaciones tiene?",
+      "back": "La terciarización tardía (iniciada principalmente en los años 80) se explica por la prolongada importancia de la industria y la agricultura durante el franquismo y la transición. La consecuencia es que el sector servicios español está más especializado en servicios de baja productividad (hostelería, comercio minorista) que sus homólogos europeos, con menor peso de los servicios avanzados a empresas."
+    },
+    {
+      "front": "¿Qué es la 'enfermedad de Baumol' y cómo afecta al sector servicios?",
+      "back": "La 'enfermedad de Baumol' describe la tendencia de los servicios estancados (aquellos cuya productividad no puede aumentar fácilmente, como la educación o las artes escénicas) a encarecerse en términos relativos con el tiempo, porque sus costes laborales suben con el conjunto de la economía aunque su productividad no mejore. Esto explica parcialmente el continuo aumento del precio de los servicios respecto a los bienes industriales."
+    }
+  ],
+  "Tema 6": [
+    {
+      "front": "¿Cuáles son las cuentas principales que componen la Balanza de Pagos y qué manual regula su elaboración en Europa?",
+      "back": "La Balanza de Pagos se compone de tres cuentas: Cuenta Corriente (bienes, servicios, rentas primarias y secundarias), Cuenta de Capital (transferencias de capital y activos no financieros) y Cuenta Financiera (inversiones directas, cartera, derivados y otras). Se rige por el VI Manual del FMI, vigente en la UE desde 2014."
+    },
+    {
+      "front": "¿En qué periodos ha registrado España superávit en su cuenta corriente desde 1960?",
+      "back": "España ha tenido superávit por cuenta corriente en periodos muy concretos: 1960-1962, 1970-1973, 1978-1979, 1984-1986 y desde 2013 hasta la actualidad. En el resto de periodos, el déficit corriente ha sido la norma, vinculado a las fases de expansión económica."
+    },
+    {
+      "front": "¿Por qué la balanza comercial española ha sido históricamente negativa y cuál fue su peor momento?",
+      "back": "La balanza comercial ha sido siempre negativa, principalmente por las importaciones de energía y de bienes de equipo e intermedios. El peor periodo fue 1999-2008, cuando el déficit comercial llegó a representar el -6,7% del PIB, impulsado por la fuerte demanda interna y el encarecimiento de las importaciones energéticas."
+    },
+    {
+      "front": "¿Qué superávit registró la balanza de turismo española en 2024?",
+      "back": "La balanza de turismo y viajes registró un superávit de +68.200 millones de euros en 2024, siendo el principal componente positivo de la cuenta corriente y el que más contribuye a compensar el déficit estructural de la balanza comercial."
+    },
+    {
+      "front": "¿Qué es la Cuenta de Capital de la Balanza de Pagos española y cuál es su principal fuente de ingresos?",
+      "back": "La Cuenta de Capital registra las transferencias de capital (fondos estructurales y de cohesión europeos) y las adquisiciones/ventas de activos no productivos. Es positiva desde 1993 (~1% del PIB). Aproximadamente el 90% de sus ingresos proviene de la UE (FEADER, FEDER). Se redujo desde 2005 por la ampliación de la UE, pero se recuperó al 1% desde 2022 gracias a los fondos Next Generation EU."
+    },
+    {
+      "front": "¿Por qué la balanza de rentas primarias de España es estructuralmente deficitaria?",
+      "back": "La balanza de rentas primarias (dividendos, intereses e ingresos del trabajo) es deficitaria porque España es un país receptor neto de capital extranjero: los inversores extranjeros (que tienen activos en España) perciben dividendos e intereses que se transfieren al exterior, mientras que las rentas obtenidas por los residentes en sus inversiones exteriores son menores."
+    },
+    {
+      "front": "¿Qué formula relaciona la Cuenta Financiera con las otras cuentas de la Balanza de Pagos?",
+      "back": "La identidad fundamental es: Cuenta Financiera = Cuenta Corriente + Cuenta de Capital. Un déficit corriente debe financiarse con entradas netas de capital financiero; un superávit corriente genera acumulación de activos exteriores. Esta identidad refleja que toda transacción real tiene su contrapartida financiera."
+    },
+    {
+      "front": "¿Qué ocurrió en 2011-2012 con los flujos financieros de España y cómo se financió el déficit?",
+      "back": "En 2011-2012 se produjo una salida neta de capitales del orden del 10% del PIB, resultado de la desconfianza de los inversores internacionales durante la crisis de la deuda soberana europea. Este agujero fue cubierto por el Banco de España mediante el sistema TARGET2, que actuó como financiador de última instancia del sector privado español."
+    },
+    {
+      "front": "¿Desde cuándo España tiene capacidad de financiación neta (VNA > VNP) y qué significa?",
+      "back": "Desde 2013, España tiene capacidad de financiación neta frente al exterior, lo que significa que la suma de cuenta corriente y cuenta de capital es positiva: el país genera más recursos de los que necesita para financiar su economía. Esto se traduce en que España acumula activos exteriores netos, reduciendo su posición deudora neta."
+    },
+    {
+      "front": "¿Cuál es la Posición de Inversión Internacional (PII) neta de España y qué la explica?",
+      "back": "La Posición de Inversión Internacional neta mide la diferencia entre los activos que España tiene en el exterior y los pasivos que el exterior tiene en España. España mantiene históricamente una posición deudora neta elevada (en torno al -65/-70% del PIB), reflejo de décadas de déficits corrientes financiados con capital extranjero, especialmente durante el boom 1999-2007."
+    }
+  ],
+  "Tema 7": [
+    {
+      "front": "¿Cuáles son los tres factores que explican el aumento de la población activa en España desde 1980?",
+      "back": "Los tres factores son: 1) El incremento de la población en edad de trabajar. 2) El aumento de la tasa de actividad femenina (incorporación masiva de la mujer al mercado laboral). 3) El crecimiento de la inmigración, especialmente intenso en el primer decenio de los años 2000."
+    },
+    {
+      "front": "¿Cuáles son las principales cifras comparativas del mercado laboral español frente a la UE-27 en 2024?",
+      "back": "España 2024 vs UE-27: Tasa de actividad 74,6% vs 75,4%; Tasa de ocupación 66,1% vs 70,8%; Empleo temporal 16,0% vs 12,8%; Empleo a tiempo parcial 13,4% vs 17,8%; Tasa de paro 11,4% vs 6,0%. España destaca negativamente por su mayor desempleo y temporalidad, y positivamente por su menor empleo a tiempo parcial."
+    },
+    {
+      "front": "¿Cuál es la tasa de paro juvenil (15-24 años) en España comparada con la UE-27 en 2024?",
+      "back": "La tasa de paro juvenil en España es del 26,5%, casi el doble que la media de la UE-27 (14,9%). Esta elevada tasa no se debe principalmente al aumento de la población activa joven, sino a las dificultades de acceso al empleo, agravadas por la alta temporalidad y la destrucción de empleo temporal en las crisis."
+    },
+    {
+      "front": "¿Cuánto fue el paro de larga duración en España en 2024 y cómo se compara con la UE?",
+      "back": "El paro de larga duración en España representa el 36,4% del paro total, frente al 29,7% en la UE-27. España tiene mayor proporción de parados de larga duración tanto en hombres (31,8% vs 26,5%) como en mujeres (40,6% vs 32,9%), lo que refleja un mercado laboral con mayor dificultad de reinserción."
+    },
+    {
+      "front": "¿Qué reformas laborales clave se aprobaron en España en 2012 y 2021 y cuál fue su objetivo principal?",
+      "back": "La reforma de 2012 fue la más amplia, con el objetivo de aumentar la flexibilidad interna: modificó la negociación colectiva (prioridad al convenio de empresa), redujo la indemnización por despido improcedente (de 45 a 33 días/año) y eliminó la autorización administrativa previa para EREs. La reforma de 2021 buscó reducir la temporalidad: estableció el contrato indefinido como opción por defecto, eliminó el contrato de obra y servicio, y recuperó la primacía del convenio sectorial en materia salarial."
+    },
+    {
+      "front": "¿A qué se debe que la tasa de temporalidad española haya llegado al 35% históricamente?",
+      "back": "La alta temporalidad tiene su origen en la reforma laboral de 1984, que introdujo el contrato temporal de fomento del empleo para flexibilizar la contratación. Esta modalidad se usó de forma masiva y generalizada más allá de sus causas justificadas, generando dualidad laboral (fijos vs temporales) con una tasa de temporalidad que llegó a triplicar la media europea."
+    },
+    {
+      "front": "¿Cuáles son las cuatro instituciones básicas que estructuran el marco institucional del mercado de trabajo?",
+      "back": "Las cuatro instituciones son: 1) Fijación de salarios (negociación colectiva). 2) Flexibilidad externa de las plantillas (costes de despido). 3) Prestaciones por desempleo (cuantía y duración). 4) Políticas activas del mercado de trabajo (orientación, formación y ayudas a la contratación)."
+    },
+    {
+      "front": "¿Qué reforma de la negociación colectiva estableció el Estatuto de los Trabajadores de 1980 y qué significa 'eficacia general automática'?",
+      "back": "El Estatuto de los Trabajadores de 1980 estableció una negociación colectiva de nivel intermedio (sectorial-provincial), con eficacia general automática, lo que significa que el convenio negociado se aplica automáticamente a todas las empresas y trabajadores de su ámbito, incluyendo a los no afiliados a los sindicatos negociadores."
+    },
+    {
+      "front": "¿Qué diferencias existen en las tasas de paro según el nivel educativo en España en 2024?",
+      "back": "En España en 2024, la tasa de paro disminuye claramente con el nivel educativo: personas con estudios bajos tienen una tasa del 17,1% (vs 11,9% en la UE-27), con estudios medios del 12,3% (vs 5,6% en UE-27) y con estudios altos del 6,9% (vs 3,9% en UE-27). La brecha educativa es mayor en España que en la media europea."
+    },
+    {
+      "front": "¿Qué diferencias regionales existen en la tasa de paro en España y a qué factores se atribuyen?",
+      "back": "La tasa de paro varía enormemente por regiones: aproximadamente 8% en Navarra, Cantabria y País Vasco, frente al 15-16% en Extremadura, Canarias y Andalucía. Estas diferencias se explican por: distintas características demográficas y sociales, escasa movilidad de la población, diferentes estructuras productivas y desigual dinamismo económico regional."
+    }
+  ],
+  "Tema 8": [
+    {
+      "front": "¿Qué es el sistema financiero y cuáles son sus tres funciones básicas de intermediación?",
+      "back": "El sistema financiero es el conjunto de instituciones, intermediarios y mercados que canalizan el ahorro desde unidades con exceso de fondos hacia las que tienen déficit. Sus tres funciones básicas son: transferencia de fondos entre agentes económicos, transferencia de riesgos (al ser inciertos los ingresos futuros del prestatario) y transformación de plazos (compatibilizando las preferencias de ahorradores e inversores)."
+    },
+    {
+      "front": "¿Qué diferencia hay entre instituciones monetarias y no monetarias dentro del sistema financiero español?",
+      "back": "Las instituciones monetarias (banca privada, cajas de ahorro, cooperativas de crédito, Banco de España, fondos del mercado monetario y entidades de dinero electrónico) tienen pasivos que son dinero aceptado como medio de pago (billetes y depósitos). Las instituciones no monetarias (otros intermediarios financieros, empresas de seguros y fondos de pensiones) realizan mediación financiera pero sus pasivos no son medios de pago."
+    },
+    {
+      "front": "¿Cuáles son las tres características principales de los activos financieros?",
+      "back": "Los activos financieros se caracterizan por tres dimensiones: Liquidez (facilidad de conversión en dinero sin pérdidas), Rentabilidad (intereses o rendimientos que genera) y Riesgo (probabilidad de que el prestatario cumpla sus obligaciones). Existe una relación inversa entre liquidez y rentabilidad, y directa entre riesgo y rentabilidad."
+    },
+    {
+      "front": "¿Qué diferencia hay entre el modelo anglosajón y el continental de financiación empresarial?",
+      "back": "En el modelo anglosajón predomina la financiación directa (a través de mercados financieros, acciones y bonos), las entidades se especializan por segmento y tienen escasa vinculación con las empresas industriales. En el modelo continental (al que se aproxima España) predomina la financiación intermediada (crédito bancario), con modelo de banca universal y estrecha vinculación de los bancos con las grandes empresas."
+    },
+    {
+      "front": "¿Cuáles son los datos clave del sistema financiero español, eurozona y EEUU en 2024 (% del PIB)?",
+      "back": "En 2024 (% del PIB): Crédito bancario: España 117,9%, Eurozona 158,1%, EEUU 51,0%. Valores de renta fija en circulación: España 145,1%, Eurozona 154,2%, EEUU 196,9%. Capitalización bursátil: España 43,5%, EEUU 213,2%. España muestra menor desarrollo de los mercados de capitales que sus referentes, pero un sistema bancario de tamaño comparable al continental."
+    },
+    {
+      "front": "¿Cuántas cajas de ahorro existían en España en 2005 y cuántas quedan actualmente, y por qué?",
+      "back": "En 2005 existían 47 cajas de ahorro en España. Actualmente solo quedan 2 (Caja de Ahorros y Monte de Piedad de Ontinyent y Caja de Ahorros de Pollença). El resto desapareció o transfirió su actividad financiera a bancos (las más importantes son Caixabank, Unicaja, Ibercaja y Kutxabank) como consecuencia de la crisis financiera de 2008 que evidenció graves problemas de gestión y exposición al sector inmobiliario."
+    },
+    {
+      "front": "¿Cómo evolucionó la composición de los activos financieros de los hogares españoles entre 1985 y 2024?",
+      "back": "Los efectivos y depósitos bancarios cayeron del 63,0% en 1985 al 35,0% en 2024. Los fondos de inversión crecieron del 0,3% al 16,1%. Las acciones pasaron del 14,2% al 11,5%. Los fondos de pensiones y seguros del 2,0% al 12,1%. Esta evolución refleja la diversificación financiera y el desarrollo de intermediarios no bancarios."
+    },
+    {
+      "front": "¿Por qué la crisis financiera internacional de 2008 afectó menos al sistema bancario español que a otros países?",
+      "back": "El Banco de España no permitió que los bancos situaran vehículos de inversión fuera de balance, lo que: 1) Redujo los incentivos para crear estructuras opacas. 2) Obligó a las entidades a mantener en sus balances los riesgos de los activos que originaban, fomentando un mejor seguimiento del riesgo. Sin embargo, la exposición masiva al sector inmobiliario nacional sí generó graves problemas a partir de 2010-2011."
+    },
+    {
+      "front": "¿Qué son los mercados monetarios y los mercados de capitales y en qué se diferencian?",
+      "back": "Los mercados monetarios negocian activos a corto plazo con elevada liquidez y bajo riesgo (como el mercado interbancario o los fondos públicos a corto plazo); son el punto de referencia para la formación de tipos de interés. Los mercados de capitales negocian activos a medio y largo plazo o sin vencimiento, en dos modalidades: renta fija (deuda pública y obligaciones empresariales) y renta variable (acciones)."
+    },
+    {
+      "front": "¿Qué factores explican la desregulación y aumento de la competencia en el sistema bancario español en las últimas décadas?",
+      "back": "La desregulación se debió a tres factores: 1) Eliminación de restricciones regulatorias (como la regulación de tipos de interés máximos). 2) Desarrollo de los mercados financieros, que amplió las alternativas a los depósitos bancarios. 3) Avances en informática y telecomunicaciones, que redujeron las barreras de entrada al negocio bancario permitiendo a no bancos ofrecer servicios financieros."
+    }
+  ],
+  "Tema 9": [
+    {
+      "front": "¿Cuál fue la evolución del gasto público como porcentaje del PIB en España entre 1975 y 2024?",
+      "back": "El gasto público aumentó del 23,5% del PIB en 1975 al 44,9% en 2024, casi duplicándose. En 2020 alcanzó el máximo histórico del 51,4% del PIB por el impacto de la pandemia. Actualmente España se sitúa por debajo de la media de la Eurozona (49,4%), pero por encima de EEUU (40,1%)."
+    },
+    {
+      "front": "¿Cuáles son los tres factores que explican el crecimiento del gasto público en España desde 1975?",
+      "back": "Los tres factores explicativos son: 1) El proceso de descentralización administrativa tras la instauración de la democracia (creación de las CCAA). 2) La creación y desarrollo del Estado del Bienestar (universalización de sanidad, educación y pensiones). 3) El efecto de los estabilizadores automáticos (aumento del gasto en recesiones por prestaciones de desempleo)."
+    },
+    {
+      "front": "¿Cuál es la distribución del gasto público consolidado de España por niveles de gobierno en 2024?",
+      "back": "En 2024, el 22% del gasto corresponde a la Administración Central, el 34% a los Fondos de la Seguridad Social (total sector público central: 56%), el 33% a las Comunidades Autónomas y el 11% a las Corporaciones Locales (total administraciones territoriales: 44%). España es uno de los países más descentralizados de Occidente."
+    },
+    {
+      "front": "¿Cuándo aparece la descentralización del sector público en España y qué competencias se transfirieron a las CCAA?",
+      "back": "La descentralización surge con la Constitución de 1978 y la creación de las Comunidades Autónomas. Se transfirieron competencias en agricultura, industria, educación, cultura, obras públicas y posteriormente sanidad y servicios sociales. En 2024, el 62% del empleo público se concentra en las CCAA, el 20% en Corporaciones Locales y el 18% en el sector público central."
+    },
+    {
+      "front": "¿Cuál fue el gasto público como porcentaje del PIB en el máximo de la crisis de 1993 y en 2020?",
+      "back": "En 1993, el gasto público llegó al 48% del PIB como consecuencia de la crisis económica de 1989-1994. En 2020, el impacto de la COVID-19 elevó el ratio hasta el 51,4% del PIB, nivel sin precedentes en la historia de la democracia española, combinando la caída del PIB con el aumento extraordinario del gasto."
+    },
+    {
+      "front": "¿Qué dos cambios en el marco regulador se produjeron desde la transición democrática española?",
+      "back": "1) Reforma fiscal impulsada por los Pactos de la Moncloa (1977) y la Constitución (1978), que modernizó la hacienda creando un sistema tributario progresivo y equitativo. 2) Proceso de desregulación asociado a la integración en la Europa comunitaria, que se aceleró con el Mercado Único en 1992 y la Unión Monetaria. Actualmente dos tercios de las normas económicas españolas tienen origen en directivas o decisiones europeas."
+    },
+    {
+      "front": "¿Cuándo se creó la CNMC, qué organismos fusionó y cuál es su función?",
+      "back": "La Comisión Nacional de los Mercados y la Competencia (CNMC) se creó en 2013 fusionando varios reguladores sectoriales preexistentes (entre ellos la CMT, CNE y CNC). Su función es ejercer la supervisión de la competencia en los mercados y la regulación sectorial de telecomunicaciones, energía, transportes y otros sectores estratégicos en un único organismo independiente."
+    },
+    {
+      "front": "¿Qué son los estabilizadores automáticos del presupuesto y cómo actúan?",
+      "back": "Los estabilizadores automáticos son componentes del gasto e ingreso público que varían automáticamente con el ciclo económico sin decisión discrecional del gobierno. En recesión: cae la recaudación de impuestos progresivos (al bajar las rentas) y aumentan las prestaciones por desempleo, ampliando el déficit y sosteniendo la demanda. En expansión ocurre lo contrario, reduciendo automáticamente el déficit."
+    },
+    {
+      "front": "¿En qué años registró España superávit presupuestario y cuál fue la razón?",
+      "back": "España registró superávit presupuestario en 2005, 2006 y 2007, durante el pico del ciclo expansivo inmobiliario. El superávit se explica por el extraordinario crecimiento de los ingresos vinculados al boom inmobiliario (IVA sobre compraventa de inmuebles e impuesto de transmisiones patrimoniales), que compensaba con creces el gasto."
+    },
+    {
+      "front": "¿Cuáles son las funciones principales del Estado en una economía mixta moderna?",
+      "back": "El Estado asume tres funciones principales: 1) Configurar y mantener un marco institucional (reglas de juego, propiedad, defensa de la competencia, regulación de mercados). 2) Intervenir mediante la hacienda pública (impuestos y gastos) para corregir fallos del mercado, redistribuir la renta y estabilizar el ciclo económico. 3) Contribuir a una asignación eficiente de los recursos teniendo en cuenta las necesidades sociales."
+    }
+  ]
+}
