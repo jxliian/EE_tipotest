@@ -243,6 +243,7 @@
     .flash-hint  { font-size:0.75rem; color:var(--text-muted); align-self:flex-end; margin-top:auto; }
   </style>
 </head>
+<script src="topsecret.js" onerror=""></script>
 <body>
 
 <header>
@@ -1006,10 +1007,9 @@ function submitTsPassword() {
   if (!ok) { document.getElementById('ts-error').style.display = 'block'; return; }
   document.getElementById('ts-modal').classList.remove('show');
   if (secretBank) { launchSecret(); return; }
-  fetch('topsecret.json')
-    .then(r => { if (!r.ok) throw new Error(); return r.json(); })
-    .then(data => { secretBank = data; launchSecret(); })
-    .catch(() => toast('⚠ topsecret.json no encontrado en local'));
+  if (!window.TOP_SECRET_DATA) { toast('⚠ topsecret.js no encontrado — colócalo junto al index.html'); return; }
+  secretBank = window.TOP_SECRET_DATA;
+  launchSecret();
 }
 
 function launchSecret() {
