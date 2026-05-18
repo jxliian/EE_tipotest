@@ -977,12 +977,11 @@ document.getElementById('count-brainrot').textContent =
 // ── TOP SECRET ────────────────────────────────────────────────────────────────
 let secretBank = null;
 
-const TS_HASH = 'a8eaf2d678a4a96b9ebffe074534d10075b4e39e88b39c4c25469f8d30589eac';
+const TS_HASH = 'RUVzZWNyZXQ=';
 
-async function checkTsPassword(pw) {
-  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(pw));
-  const hex = Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2,'0')).join('');
-  return hex === TS_HASH;
+function checkTsPassword(pw) {
+  try { return btoa(unescape(encodeURIComponent(pw))) === TS_HASH; }
+  catch { return false; }
 }
 
 document.getElementById('ts-card').addEventListener('click', () => {
@@ -1001,9 +1000,9 @@ document.getElementById('ts-modal').addEventListener('click', e => {
     document.getElementById('ts-modal').classList.remove('show');
 });
 
-async function submitTsPassword() {
+function submitTsPassword() {
   const pw = document.getElementById('ts-password-input').value;
-  const ok = await checkTsPassword(pw);
+  const ok = checkTsPassword(pw);
   if (!ok) { document.getElementById('ts-error').style.display = 'block'; return; }
   document.getElementById('ts-modal').classList.remove('show');
   if (secretBank) { launchSecret(); return; }
