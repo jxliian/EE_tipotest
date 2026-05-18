@@ -192,6 +192,34 @@
     /* FLASHCARDS */
     #flashcard-view { display:flex; flex-direction:column; gap:16px; }
 
+    /* BRAINROT */
+    @keyframes br-border { 0%{border-color:#ff6b6b} 25%{border-color:#ffd93d} 50%{border-color:#6bcb77} 75%{border-color:#4d96ff} 100%{border-color:#ff6b6b} }
+    .mode-card.brainrot-card { animation: br-border 2.5s linear infinite; }
+    .mode-card.brainrot-card .mode-card-icon { font-size: 1.8rem; letter-spacing: 0; }
+    .mode-card.brainrot-card:hover { background: #12121a; transform: translateY(-3px) rotate(-1deg); }
+    #brainrot-panel {
+      display: none; position: fixed; right: 0; top: 0; bottom: 0; width: 340px;
+      background: #000; border-left: 1px solid var(--border); z-index: 50;
+      flex-direction: column; overflow: hidden;
+    }
+    #brainrot-panel.show { display: flex; }
+    body.brainrot-active main { margin-right: 356px; }
+    .brainrot-video-wrap { flex: 1; min-height: 0; position: relative; background: #000; }
+    .brainrot-video-wrap iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: none; }
+    .brainrot-no-video { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 12px; color: var(--text-muted); font-size: 0.85rem; text-align: center; padding: 20px; }
+    .brainrot-no-video span { font-size: 2.5rem; }
+    .brainrot-ctrl { padding: 12px; display: flex; flex-direction: column; gap: 8px; border-top: 1px solid var(--border); background: var(--surface); }
+    .brainrot-url-input { width: 100%; padding: 8px 12px; background: var(--surface2); border: 1px solid var(--border); border-radius: 8px; color: var(--text); font-size: 0.82rem; font-family: inherit; outline: none; }
+    .brainrot-url-input:focus { border-color: #ffd93d; }
+    .brainrot-close { position: absolute; top: 10px; left: 10px; background: rgba(0,0,0,0.6); border: 1px solid #444; color: #fff; border-radius: 8px; padding: 4px 10px; font-size: 0.78rem; cursor: pointer; z-index: 51; }
+    @media (max-width: 768px) {
+      #brainrot-panel { position: fixed; bottom: 0; left: 0; right: 0; top: auto; width: 100%; height: 55vw; max-height: 320px; border-left: none; border-top: 1px solid var(--border); flex-direction: row; }
+      body.brainrot-active main { margin-right: 0; padding-bottom: min(calc(55vw + 16px), 336px); }
+      .brainrot-ctrl { width: 180px; flex-shrink: 0; border-top: none; border-left: 1px solid var(--border); }
+      .brainrot-video-wrap { flex: 1; }
+      .brainrot-close { top: 8px; left: auto; right: 190px; }
+    }
+
     /* TOP SECRET */
     .mode-card.ts-card { border-color: #5a0a0a; }
     .mode-card.ts-card:hover { border-color: #ef4444; background: #1f0a0a; box-shadow: 0 8px 24px rgba(239,68,68,0.15); }
@@ -262,6 +290,11 @@
           <div class="mode-card-icon">🔒</div>
           <div class="mode-card-title">TOP SECRET</div>
           <div class="mode-card-count">413 preguntas</div>
+        </div>
+        <div class="mode-card brainrot-card" id="brainrot-card">
+          <div class="mode-card-icon">🧠📱</div>
+          <div class="mode-card-title">Brainrot</div>
+          <div class="mode-card-count" id="count-brainrot"></div>
         </div>
       </div>
 
@@ -372,6 +405,22 @@
 </main>
 
 <div id="toast"></div>
+
+<div id="brainrot-panel">
+  <button class="brainrot-close" id="btn-brainrot-close">✕ Salir</button>
+  <div class="brainrot-video-wrap">
+    <div class="brainrot-no-video" id="brainrot-placeholder">
+      <span>📱</span>
+      <div>Pega una URL de TikTok o YouTube Shorts</div>
+    </div>
+    <iframe id="brainrot-iframe" allow="autoplay; fullscreen" allowfullscreen style="display:none;"></iframe>
+  </div>
+  <div class="brainrot-ctrl">
+    <input class="brainrot-url-input" id="brainrot-url-input" type="text" placeholder="https://tiktok.com/... o youtube.com/shorts/..." />
+    <button class="btn btn-primary btn-sm" id="btn-brainrot-load">Cargar</button>
+    <button class="btn btn-ghost btn-sm" id="btn-brainrot-random">↺ Cambiar</button>
+  </div>
+</div>
 
 <div id="ts-modal">
   <div class="ts-modal-box">
@@ -579,7 +628,7 @@ document.getElementById('btn-clear-manual').addEventListener('click', () => {
 let pendingMode = null;
 
 document.querySelectorAll('.mode-card').forEach(c => c.addEventListener('click', () => {
-  if (c.id === 'ts-card') return;
+  if (c.id === 'ts-card' || c.id === 'brainrot-card') return;
   pendingMode = c.dataset.mode;
   document.querySelectorAll('.mode-card').forEach(x => x.classList.toggle('selected', x.dataset.mode === pendingMode));
   document.getElementById('tema-filter-row').style.display = '';
@@ -622,6 +671,7 @@ function backToModeSelect() {
   document.getElementById('tema-filter-row').style.display       = 'none';
   document.querySelectorAll('.mode-card').forEach(c => c.classList.remove('selected'));
   pendingMode = null;
+  closeBrainrotPanel();
 }
 document.getElementById('btn-back-mode').addEventListener('click', backToModeSelect);
 document.getElementById('btn-back-mode-score').addEventListener('click', backToModeSelect);
@@ -825,6 +875,104 @@ document.getElementById('btn-flash-next').addEventListener('click', () => {
   else backToFlash();
 });
 document.getElementById('btn-back-flash').addEventListener('click', backToFlash);
+
+// ── BRAINROT ──────────────────────────────────────────────────────────────────
+const BRAINROT_DEFAULTS = [
+  'https://youtu.be/3xWJ0FSgJVE',  // Subway Surfers Stim Station 2h
+  'https://youtu.be/Yf3Sw07xT4A',  // Roblox Subway Surfers Brainrot
+  'https://youtu.be/XMEOj6F7s04',  // Ultimate Attention Span Keeper
+  'https://youtu.be/vTfD20dbxho',  // Subway Surf for Brainrots
+  'https://youtu.be/y5MIU7b4EXA',  // Subway Surfers 2h compilation
+  'https://youtu.be/7ghSziUQnhs',  // Subway Surfers 2023
+  'https://youtu.be/05xvFlPt70Q',  // Why TikTok always has Subway Surfers
+  'https://youtu.be/Drpn_bm7leA',  // Subway Surfers 1h no commentary
+  'https://youtu.be/hTRHYTQ3iBg',  // Minecraft Parkour Vertical
+  'https://youtu.be/KA-9bioVgi4',  // Minecraft Parkour No Copyright
+  'https://youtu.be/n_Dv4JMiwK8',  // Minecraft Parkour No Copyright
+  'https://youtu.be/7gPNw-K-KDE',  // 6 min Minecraft Parkour Brainrot
+  'https://youtu.be/u7kdVe8q5zs',  // Minecraft Parkour Short
+  'https://youtu.be/Z7Ra8Wa-WMI',  // Family Guy funny moments
+  'https://youtu.be/Zxl28UgHpn0',  // Family Guy Try Not To Laugh
+  'https://youtu.be/mn-Tlb_wfjc',  // Family Guy 30 minutes
+];
+
+let brainrotQuestionsAnswered = 0;
+const BRAINROT_CHANGE_EVERY = 7; // cambia vídeo cada 7 preguntas
+
+function parseVideoUrl(url) {
+  url = url.trim();
+  let m;
+  m = url.match(/(?:youtube\.com\/shorts\/|youtu\.be\/|youtube\.com\/embed\/|youtube\.com\/watch\?v=)([a-zA-Z0-9_-]{11})/);
+  if (m) return { type: 'youtube', id: m[1] };
+  m = url.match(/tiktok\.com\/(?:[^/]+\/video\/|v\/)(\d+)/);
+  if (m) return { type: 'tiktok', id: m[1] };
+  return null;
+}
+
+function getEmbedUrl(video) {
+  if (video.type === 'youtube')
+    return `https://www.youtube.com/embed/${video.id}?autoplay=1&loop=1&playlist=${video.id}&rel=0&modestbranding=1`;
+  if (video.type === 'tiktok')
+    return `https://www.tiktok.com/embed/v2/${video.id}`;
+  return '';
+}
+
+function loadBrainrotVideo(url) {
+  const video = parseVideoUrl(url);
+  if (!video) { toast('⚠ URL no reconocida. Usa YouTube Shorts o TikTok'); return; }
+  const iframe = document.getElementById('brainrot-iframe');
+  iframe.src = getEmbedUrl(video);
+  iframe.style.display = '';
+  document.getElementById('brainrot-placeholder').style.display = 'none';
+  document.getElementById('brainrot-url-input').value = url;
+}
+
+function brainrotNextVideo() {
+  const pool = BRAINROT_DEFAULTS;
+  if (!pool.length) return;
+  loadBrainrotVideo(pool[Math.floor(Math.random() * pool.length)]);
+}
+
+function closeBrainrotPanel() {
+  document.getElementById('brainrot-panel').classList.remove('show');
+  document.body.classList.remove('brainrot-active');
+  const iframe = document.getElementById('brainrot-iframe');
+  iframe.src = '';
+  iframe.style.display = 'none';
+  document.getElementById('brainrot-placeholder').style.display = '';
+  brainrotQuestionsAnswered = 0;
+}
+
+function startBrainrot() {
+  currentMode = 'vf';
+  questions = shuffle([...vfBank, ...testBank, ...examBank]);
+  brainrotQuestionsAnswered = 0;
+  startTest();
+  document.getElementById('brainrot-panel').classList.add('show');
+  document.body.classList.add('brainrot-active');
+  brainrotNextVideo();
+}
+
+// auto-cambia vídeo cada BRAINROT_CHANGE_EVERY preguntas respondidas
+const _origBtnNext = document.getElementById('btn-next');
+_origBtnNext.addEventListener('click', () => {
+  if (!document.body.classList.contains('brainrot-active')) return;
+  brainrotQuestionsAnswered++;
+  if (brainrotQuestionsAnswered % BRAINROT_CHANGE_EVERY === 0) brainrotNextVideo();
+}, true);
+
+document.getElementById('brainrot-card').addEventListener('click', startBrainrot);
+document.getElementById('btn-brainrot-close').addEventListener('click', backToModeSelect);
+document.getElementById('btn-brainrot-load').addEventListener('click', () => {
+  loadBrainrotVideo(document.getElementById('brainrot-url-input').value);
+});
+document.getElementById('brainrot-url-input').addEventListener('keydown', e => {
+  if (e.key === 'Enter') loadBrainrotVideo(document.getElementById('brainrot-url-input').value);
+});
+document.getElementById('btn-brainrot-random').addEventListener('click', brainrotNextVideo);
+
+document.getElementById('count-brainrot').textContent =
+  (VF_DATA.length + TEST_DATA.length + EXAM_DATA.length) + ' preguntas';
 
 // ── TOP SECRET ────────────────────────────────────────────────────────────────
 let secretBank = null;
