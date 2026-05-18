@@ -191,6 +191,19 @@
 
     /* FLASHCARDS */
     #flashcard-view { display:flex; flex-direction:column; gap:16px; }
+
+    /* TOP SECRET */
+    .mode-card.ts-card { border-color: #5a0a0a; }
+    .mode-card.ts-card:hover { border-color: #ef4444; background: #1f0a0a; box-shadow: 0 8px 24px rgba(239,68,68,0.15); }
+    .mode-card.ts-card .mode-card-icon { color: #ef4444; background: #2a0a0a; }
+    #ts-modal { display:none; position:fixed; inset:0; background:rgba(0,0,0,0.75); z-index:1000; align-items:center; justify-content:center; }
+    #ts-modal.show { display:flex; }
+    .ts-modal-box { background:var(--surface); border:1px solid #5a0a0a; border-radius:16px; padding:32px 28px; max-width:380px; width:90%; display:flex; flex-direction:column; gap:16px; }
+    .ts-modal-box h2 { font-size:1.2rem; font-weight:700; text-align:center; color:#ef4444; }
+    .ts-modal-box p { font-size:0.85rem; color:var(--text-muted); text-align:center; line-height:1.5; }
+    #ts-password-input { width:100%; padding:10px 14px; background:var(--surface2); border:1px solid var(--border); border-radius:8px; color:var(--text); font-size:1rem; font-family:inherit; outline:none; }
+    #ts-password-input:focus { border-color:#ef4444; }
+    .ts-error { color:#ef4444; font-size:0.82rem; text-align:center; display:none; }
     .flash-card { background:var(--surface); border:2px solid var(--border); border-radius:var(--radius); padding:36px 28px; min-height:200px; cursor:pointer; display:flex; flex-direction:column; gap:14px; transition:border-color 0.2s; user-select:none; }
     .flash-card:hover { border-color:var(--accent); }
     .flash-front { display:flex; flex-direction:column; gap:12px; }
@@ -244,6 +257,11 @@
           <div class="mode-card-icon">🃏</div>
           <div class="mode-card-title">Flashcards</div>
           <div class="mode-card-count" id="count-flashcard"></div>
+        </div>
+        <div class="mode-card ts-card" id="ts-card">
+          <div class="mode-card-icon">🔒</div>
+          <div class="mode-card-title">TOP SECRET</div>
+          <div class="mode-card-count">413 preguntas</div>
         </div>
       </div>
 
@@ -354,6 +372,19 @@
 </main>
 
 <div id="toast"></div>
+
+<div id="ts-modal">
+  <div class="ts-modal-box">
+    <h2>🔒 TOP SECRET</h2>
+    <p>Preguntas privadas de profesor.<br>Introduce la contraseña para acceder.</p>
+    <input type="password" id="ts-password-input" placeholder="Contraseña..." autocomplete="off" />
+    <div class="ts-error" id="ts-error">Contraseña incorrecta</div>
+    <div style="display:flex;gap:10px;justify-content:center;">
+      <button class="btn btn-ghost" id="ts-cancel">Cancelar</button>
+      <button class="btn btn-primary" id="ts-submit" style="background:#8b0000;border-color:#8b0000;">Entrar</button>
+    </div>
+  </div>
+</div>
 
 <script>
 // ── DATOS EMBEBIDOS ───────────────────────────────────────────────────────────
@@ -548,6 +579,7 @@ document.getElementById('btn-clear-manual').addEventListener('click', () => {
 let pendingMode = null;
 
 document.querySelectorAll('.mode-card').forEach(c => c.addEventListener('click', () => {
+  if (c.id === 'ts-card') return;
   pendingMode = c.dataset.mode;
   document.querySelectorAll('.mode-card').forEach(x => x.classList.toggle('selected', x.dataset.mode === pendingMode));
   document.getElementById('tema-filter-row').style.display = '';
@@ -793,6 +825,56 @@ document.getElementById('btn-flash-next').addEventListener('click', () => {
   else backToFlash();
 });
 document.getElementById('btn-back-flash').addEventListener('click', backToFlash);
+
+// ── TOP SECRET ────────────────────────────────────────────────────────────────
+let secretBank = null;
+
+const TS_HASH = 'a8eaf2d678a4a96b9ebffe074534d10075b4e39e88b39c4c25469f8d30589eac';
+
+async function checkTsPassword(pw) {
+  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(pw));
+  const hex = Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2,'0')).join('');
+  return hex === TS_HASH;
+}
+
+document.getElementById('ts-card').addEventListener('click', () => {
+  document.getElementById('ts-modal').classList.add('show');
+  document.getElementById('ts-password-input').value = '';
+  document.getElementById('ts-error').style.display = 'none';
+  setTimeout(() => document.getElementById('ts-password-input').focus(), 50);
+});
+
+document.getElementById('ts-cancel').addEventListener('click', () => {
+  document.getElementById('ts-modal').classList.remove('show');
+});
+
+document.getElementById('ts-modal').addEventListener('click', e => {
+  if (e.target === document.getElementById('ts-modal'))
+    document.getElementById('ts-modal').classList.remove('show');
+});
+
+async function submitTsPassword() {
+  const pw = document.getElementById('ts-password-input').value;
+  const ok = await checkTsPassword(pw);
+  if (!ok) { document.getElementById('ts-error').style.display = 'block'; return; }
+  document.getElementById('ts-modal').classList.remove('show');
+  if (secretBank) { launchSecret(); return; }
+  fetch('topsecret.json')
+    .then(r => { if (!r.ok) throw new Error(); return r.json(); })
+    .then(data => { secretBank = data; launchSecret(); })
+    .catch(() => toast('⚠ topsecret.json no encontrado en local'));
+}
+
+function launchSecret() {
+  currentMode = 'vf';
+  questions = [...secretBank];
+  startTest();
+}
+
+document.getElementById('ts-submit').addEventListener('click', submitTsPassword);
+document.getElementById('ts-password-input').addEventListener('keydown', e => {
+  if (e.key === 'Enter') submitTsPassword();
+});
 
 </script>
 
